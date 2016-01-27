@@ -11,6 +11,16 @@ def create_dict_from_csv(filename):
         result[key] = row[2:]
     return result
     
+def separate_clusters_in_csvs(infile, out_dir, clusters):
+    reader = csv.reader(open(infile))
+    clusters = [open("{}/cluster{}.csv".format(out_dir, i), "w") for i in range(0,int(clusters))]
+    print(clusters)
+    for row in reader:
+        print(row)
+    for cluster in clusters:
+        cluster.close()
+
+#separate_clusters_in_csvs(sys.argv[1], sys.argv[2], sys.argv[3])
 
 filename = sys.argv[1]
 output_file = open("tweets_by_user.csv", "w", encoding='utf-8')

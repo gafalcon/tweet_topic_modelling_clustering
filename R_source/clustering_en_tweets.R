@@ -20,3 +20,13 @@ plot(latlong[,c(3,4)], col=dens$cluster + 1L)
 
 #write to csv File
 write.csv(latlong, file="en_tweets_clustered.csv")
+
+cluster0 <- subset(latlong, cluster==0); # select rows with cluster == 0
+cluster1 <- subset(latlong, cluster==1); # select rows with cluster == 0
+cluster2 <- subset(latlong, cluster==2); # select rows with cluster == 0
+cluster3 <- subset(latlong, cluster==3); # select rows with cluster == 0
+
+write.csv(latlong, file="en_tweets_cluster0.csv")
+write.csv(latlong, file="en_tweets_cluster1.csv")
+write.csv(latlong, file="en_tweets_cluster2.csv")
+write.csv(latlong, file="en_tweets_cluster3.csv")
