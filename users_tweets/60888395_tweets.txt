@@ -1,0 +1,600 @@
+{"created_at": "Tue Jan 19 07:16:36 +0000 2016", "text": "RT @sarahmanon: https://t.co/2IRuBBnM9w"}
+{"created_at": "Wed Jan 13 17:21:33 +0000 2016", "text": "#V\u0153ux #SaintVaastLaHougue #SVLH #JeanLepetit #JL @ Saint-Vaast-La-Hougue, Basse-Normandie, France https://t.co/tZwhddz70s"}
+{"created_at": "Tue Jan 12 07:10:09 +0000 2016", "text": "Lecture du jour #WinstonChurchill #Biographie #Kersaudy @ Al\u00e9sia, Paris https://t.co/dbZZhS9yD8"}
+{"created_at": "Sat Jan 09 13:35:19 +0000 2016", "text": "\"Je veux reposer ici pour n'entendre que la mer et le vent\" #Chateaubriand #Tombe #PetitB\u00e9\u2026 https://t.co/KbmwJzPojj"}
+{"created_at": "Sat Jan 09 13:23:16 +0000 2016", "text": "#SaintMalo #Rempart #GrandB\u00e9 #Bretagne @ Plage de Saint-Malo https://t.co/wxLZYGDPnc"}
+{"created_at": "Sat Jan 09 10:07:21 +0000 2016", "text": "#MontSaintMichel #Manche @ Mont Saint-Michel https://t.co/AqPhOaznGi"}
+{"created_at": "Sat Jan 09 10:03:18 +0000 2016", "text": "#MontSaintMichel #Manche @ Mont Saint Michel Abbey https://t.co/p9lcIiFmeK"}
+{"created_at": "Sat Jan 09 09:42:21 +0000 2016", "text": "#MontSaintMichel #Manche @ Mont Saint-Michel https://t.co/BUwbGVA1uo"}
+{"created_at": "Sat Jan 02 16:25:28 +0000 2016", "text": "#Repos #Friends #WeekEnd https://t.co/hNFskMI8eK"}
+{"created_at": "Sat Jan 02 12:42:54 +0000 2016", "text": "Petit d\u00e9jeuner entre amis #Saturday #Friends #WeekEnd https://t.co/Nj6piOtEkH"}
+{"created_at": "Fri Jan 01 21:04:42 +0000 2016", "text": "#London #NY https://t.co/vSMGWoGYc5"}
+{"created_at": "Thu Dec 31 14:47:31 +0000 2015", "text": "Tout ce qui m'a rendu heureux en 2015 et encore il manque beaucoup de moment et de personne\u2026 https://t.co/VUb0a24np1"}
+{"created_at": "Wed Dec 30 22:54:44 +0000 2015", "text": "#Friends #London @ Hydepark Winter Wonderland https://t.co/bzR0CY6H5t"}
+{"created_at": "Wed Dec 30 22:22:35 +0000 2015", "text": "#Friends #London #Piccadilly @ Piccadilly Circus https://t.co/GTaQHQRgXK"}
+{"created_at": "Wed Dec 30 22:20:14 +0000 2015", "text": "#Friends #London #WinterWonderland @ Hydepark Winter Wonderland https://t.co/omeO7o0fj1"}
+{"created_at": "Wed Dec 30 17:32:43 +0000 2015", "text": "#London #Soho #Flat #Friends #NY @ Rupert Street, Soho https://t.co/nPqAfp7Skr"}
+{"created_at": "Wed Dec 30 16:16:39 +0000 2015", "text": "#WinterWonderland #London #Friend #Instagood @ Winter Wonderland https://t.co/s3WeN7CepG"}
+{"created_at": "Wed Dec 30 14:33:20 +0000 2015", "text": "#Friend #London #Christopher \u2764\ufe0f\u2764\ufe0f @ London, United Kingdom https://t.co/blQNQmPDgd"}
+{"created_at": "Wed Dec 30 10:20:03 +0000 2015", "text": "#Goooooo #London #Eurostar #NouvelAn #NY @ Eurostar, Gare Du Nord https://t.co/Hvvo7vykL3"}
+{"created_at": "Wed Dec 30 09:44:44 +0000 2015", "text": "#Departure #London #NY #Party @ Eurostar, Gare Du Nord https://t.co/oKHsSypBw8"}
+{"created_at": "Tue Dec 29 18:22:09 +0000 2015", "text": "#TourEiffel #EiffelTower #Friends #Paris #Patinoire @ Tour Eiffel https://t.co/c1D9oOzT2H"}
+{"created_at": "Tue Dec 29 18:06:22 +0000 2015", "text": "#EiffelTower #TourEiffel #Paris https://t.co/OsFNKA00t4"}
+{"created_at": "Tue Dec 29 18:04:07 +0000 2015", "text": "#TourEiffel #EiffelTower #Paris @ Tour Eiffel https://t.co/8MNyGcodlX"}
+{"created_at": "Tue Dec 29 18:01:11 +0000 2015", "text": "#TourEiffel #EiffelTower #Paris #Panorama @ Effel Tower Paris https://t.co/vRDf9lsDza"}
+{"created_at": "Tue Dec 29 17:58:48 +0000 2015", "text": "#EiffelTower #TourEiffel #Friends #Panorama #Paris @ Effel Tower Paris https://t.co/Z7tmckYogb"}
+{"created_at": "Tue Dec 29 17:33:57 +0000 2015", "text": "#EiffelTower #TourEiffel #Friends #Paris @ Effel Tower Paris https://t.co/cNP49J7W6z"}
+{"created_at": "Tue Dec 29 17:19:28 +0000 2015", "text": "#TourEiffel #EiffelTower #Friends #Paris @ Tour Eiffel https://t.co/CFtstDznGT"}
+{"created_at": "Mon Dec 28 16:15:13 +0000 2015", "text": "#Paris #Friends #TourEiffel @ Paris, France https://t.co/mhpjfwVfue"}
+{"created_at": "Sat Dec 26 18:09:41 +0000 2015", "text": "\"Ce n\u2019est pas le danger que j\u2019aime. Je sais ce que j\u2019aime. C\u2019est la vie.\" Antoine de\u2026 https://t.co/G0wawkJi7i"}
+{"created_at": "Wed Dec 23 22:41:02 +0000 2015", "text": "@sarahmanon @Kryphew Et \u00e7a j'ach\u00e8teeeeeee \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83e\udd84"}
+{"created_at": "Wed Dec 23 22:39:35 +0000 2015", "text": "@sarahmanon @Kryphew ahahah Oui je le soutiens depuis le d\u00e9but et puis il est \ud83d\ude0d"}
+{"created_at": "Wed Dec 23 21:46:06 +0000 2015", "text": "Et cela continue!!!!! #DalsFinale #LoicNottet \u2764\ufe0f\u2764\ufe0f https://t.co/jib81Auv32"}
+{"created_at": "Wed Dec 23 21:02:31 +0000 2015", "text": "#LoicNottet #DalsFinale #AuTop &lt;3 \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d https://t.co/d61b2iDtiV"}
+{"created_at": "Tue Dec 22 09:41:44 +0000 2015", "text": "RT @LaTourEiffel: Parisienne depuis 1889, maintenant je brille aussi sur Twitter ! Parisian since 1889, now I am sparkling on Twitter! http\u2026"}
+{"created_at": "Sun Dec 20 17:17:58 +0000 2015", "text": "#Lyon @ Quais de Sa\u00f4ne https://t.co/7GrKfqaIMi"}
+{"created_at": "Sat Dec 19 22:59:57 +0000 2015", "text": "#MissFrance2016 #Pronostics #Finale https://t.co/LP7q2VrUmD"}
+{"created_at": "Sat Dec 19 22:42:35 +0000 2015", "text": "#MissFrance2016 #S\u00e9lection #Finaliste https://t.co/iTve77eqzt"}
+{"created_at": "Sat Dec 19 21:45:56 +0000 2015", "text": "#MissFrance2016 #TropFort #S\u00e9lection https://t.co/Gzpx83yMEj"}
+{"created_at": "Sat Dec 19 21:01:40 +0000 2015", "text": "#MissFrance2016 #Anotations #Lol https://t.co/yrLcVDur7d"}
+{"created_at": "Sat Dec 19 20:42:48 +0000 2015", "text": "#MissFrance2016 #Anotations #Lol https://t.co/7zeNOUPuzI"}
+{"created_at": "Sat Dec 19 20:29:02 +0000 2015", "text": "#MissFrance2016 #Anotations #Lol https://t.co/jhG9JUD6CF"}
+{"created_at": "Sat Dec 19 14:35:28 +0000 2015", "text": "#Lyon #OnlyLyon #WeekEnd #Bellecour @ Place Bellecour https://t.co/OmVS46eZ9v"}
+{"created_at": "Fri Dec 18 18:11:45 +0000 2015", "text": "#Paris #Soir\u00e9e https://t.co/HBWmXOX77m"}
+{"created_at": "Fri Dec 18 15:25:56 +0000 2015", "text": "#WeekEnd #Lyon \ud83d\ude04\ud83d\ude04\ud83d\ude04 @ Paris, France https://t.co/62P5b2KOC3"}
+{"created_at": "Sun Dec 13 15:41:05 +0000 2015", "text": "#CEstD\u00e9j\u00e0Mieux #OnVote #Elections2015 https://t.co/w4R5Cw73Ff"}
+{"created_at": "Sun Dec 13 15:38:48 +0000 2015", "text": "@MathieuDVlieger Idem sur Paris"}
+{"created_at": "Sat Dec 12 09:48:51 +0000 2015", "text": "@alpahufa j'avoue qu'elle a une facon particuli\u00e8re de traiter ses colistiers...."}
+{"created_at": "Sun Dec 06 12:24:02 +0000 2015", "text": "#JeVote #\u00c9lectionsR\u00e9gionales #\u00c9lections2015 https://t.co/iIXsBFmS7m"}
+{"created_at": "Sat Dec 05 16:14:59 +0000 2015", "text": "#Cats #Strasbourg @ Stra\u00dfburg, Elsass https://t.co/TCbFPj6u34"}
+{"created_at": "Sat Dec 05 14:29:26 +0000 2015", "text": "#ParlementEurop\u00e9en #Strasbourg @ Parlement Europ\u00e9en - Strasbourg https://t.co/xXQ7a3wWpH"}
+{"created_at": "Sat Dec 05 13:25:24 +0000 2015", "text": "#Meiselocker #Strasbourg @ Cath\u00e9drale Notre Dame de Strasbourg https://t.co/GFBoHBOimG"}
+{"created_at": "Fri Dec 04 16:37:04 +0000 2015", "text": "#Strasbourg #March\u00e9DeNo\u00ebl @ Cath\u00e9drale Notre Dame de Strasbourg https://t.co/hS4xf4E0eO"}
+{"created_at": "Fri Dec 04 14:24:54 +0000 2015", "text": "#Strasbourg #March\u00e9DeNo\u00ebl @ Petite France, Strasbourg https://t.co/sdUs2o8aQS"}
+{"created_at": "Fri Dec 04 14:20:43 +0000 2015", "text": "#Strasbourg @ Petite France, Strasbourg https://t.co/oNI9F5Q0R6"}
+{"created_at": "Fri Dec 04 12:08:09 +0000 2015", "text": "#Strasbourg #WeekEnd https://t.co/z1VBRAWh1e"}
+{"created_at": "Fri Dec 04 10:30:19 +0000 2015", "text": "#Ost\u00e9opathe #Dipl\u00f4me #Gala #Paris https://t.co/eHu7gjs407"}
+{"created_at": "Sat Nov 28 18:14:58 +0000 2015", "text": "#TourMontparnasse #France #FierDeLaFrance #Patriote #Paris @ Montparnasse Tower - Top of Paris https://t.co/mi4i129uux"}
+{"created_at": "Fri Nov 27 13:00:16 +0000 2015", "text": "RT @afpfr: Attentats de Paris : les 130 victimes #AFP https://t.co/qYppX29kN9"}
+{"created_at": "Fri Nov 27 10:32:09 +0000 2015", "text": "#FierDeLaFrance #Paix #Hommage #France #Valeurs #Unit\u00e9 \ud83c\uddeb\ud83c\uddf7\u2764\ufe0f\ud83c\uddeb\ud83c\uddf7 https://t.co/5bcIXD91Ia"}
+{"created_at": "Sun Nov 22 00:39:31 +0000 2015", "text": "@damsbdm On est deux..."}
+{"created_at": "Sat Nov 21 18:13:34 +0000 2015", "text": "@MathieuDVlieger Il a de la fi\u00e8vre ;-) #Joke"}
+{"created_at": "Wed Nov 18 23:07:26 +0000 2015", "text": "#TourEiffel #Together #France #PrayForParis #Paris #Patriote @ Tour Eiffel https://t.co/bx3ZXhK0LJ"}
+{"created_at": "Wed Nov 18 23:05:26 +0000 2015", "text": "#TourEiffel #Friends #Paris #Patriote #PrayForParis #ForeverYoung #France @ Tour Eiffel https://t.co/go4O7F7SKM"}
+{"created_at": "Wed Nov 18 23:01:07 +0000 2015", "text": "#TourEiffel #Paris #France #Patriote #PrayForParis @ Tour Eiffel https://t.co/o1iX8KVKnh"}
+{"created_at": "Tue Nov 17 21:33:12 +0000 2015", "text": "#M\u00e9moire #Bataclan #SansMot #Paris @ Bataclan, Paris 11\u00e8me https://t.co/H04UdDlXfw"}
+{"created_at": "Tue Nov 17 21:02:19 +0000 2015", "text": "#SansMot @ La Belle Equipe https://t.co/NtRZOBazCC"}
+{"created_at": "Tue Nov 17 21:01:19 +0000 2015", "text": "... @ La Belle Equipe https://t.co/Kbrajtbmos"}
+{"created_at": "Tue Nov 17 20:03:08 +0000 2015", "text": "#Merci #TankYou \ud83c\uddeb\ud83c\uddf7\ud83c\uddec\ud83c\udde7\u2764\ufe0f @ Paris, France https://t.co/gfO8FdD6l4"}
+{"created_at": "Mon Nov 16 23:00:08 +0000 2015", "text": "@MortMappartient @JeanLucRomero @ADMDFRANCE @jeunesadmd @ChrisMichelFr Si j'ai bien compris je dois contacter mon DG pour vous aider?"}
+{"created_at": "Mon Nov 16 22:56:47 +0000 2015", "text": "@MortMappartient @JeanLucRomero Je comptais bien l'acheter, une chose \u00e0 la fois \ud83d\udc4d\ud83c\udffb\ud83d\ude18"}
+{"created_at": "Mon Nov 16 22:47:43 +0000 2015", "text": "Bon j'ai un peu de lecture ce soir \ud83d\udc4d\ud83c\udffb #Nouveau #Admd #Libert\u00e9 @jeanlucromero chrismichelfr @ Paris,\u2026 https://t.co/0iJNo8eBpk"}
+{"created_at": "Mon Nov 16 20:18:13 +0000 2015", "text": "Petit resto entre amis dans #Paris, vin blanc, vin rouge, musique d'ambiance bref la #France. Et\u2026 https://t.co/Wj38LUPOId"}
+{"created_at": "Mon Nov 16 10:20:14 +0000 2015", "text": "Merci mon ptit le_royaume_de_simon \ud83d\ude18\ud83c\uddeb\ud83c\uddf7 #Chantilly @ Ch\u00e2teau de Chantilly https://t.co/W6KEdhjuRl"}
+{"created_at": "Sat Nov 14 18:22:57 +0000 2015", "text": "#PrayForParis #LaFrance #Unit\u00e9 #R\u00e9publique  \ud83c\uddeb\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7\u2764\ufe0f\u2764\ufe0f\ud83c\uddeb\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7\u2764\ufe0f\u2764\ufe0f\ud83c\uddeb\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7 @ Paris, France https://t.co/61Hddg30Ik"}
+{"created_at": "Sat Nov 14 18:17:23 +0000 2015", "text": "Pour vous, pour nous, pour la France unie \ud83c\uddeb\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7 @ Paris, France https://t.co/KpbSFHGljq"}
+{"created_at": "Sat Nov 14 09:54:52 +0000 2015", "text": "#PrayForParis \ud83c\uddeb\ud83c\uddf7\ud83d\ude4f\ud83c\udffb @ Paris, France https://t.co/0FZyZpAqkN"}
+{"created_at": "Fri Nov 13 22:51:41 +0000 2015", "text": "#PlusJamaisCa #Stop #\u00c9nerv\u00e9 #Triste #Patriote #France #NoComment @ Bataclan, Paris 11\u00e8me https://t.co/LCbVLwaskZ"}
+{"created_at": "Sun Nov 01 18:22:14 +0000 2015", "text": "#Raid #WeekEnd #Sun @ Le Circuit des 25 bosses. https://t.co/OdPtbog2xQ"}
+{"created_at": "Sun Nov 01 17:41:17 +0000 2015", "text": "#Raid #CourseNature https://t.co/MAljBJpgnx"}
+{"created_at": "Sun Nov 01 17:41:16 +0000 2015", "text": "#DansLaMerde #DansLaNuit \ud83d\ude0b\ud83d\udc4d\ud83c\udffb https://t.co/v7vrc4HVaB"}
+{"created_at": "Sun Nov 01 17:41:02 +0000 2015", "text": "#DansLaVoiture #DansLaNuit #Raid @ Le Circuit des 25 bosses. https://t.co/mTc4S9bAUo"}
+{"created_at": "Sun Nov 01 15:34:15 +0000 2015", "text": "#Randonn\u00e9e @ Le Circuit des 25 bosses. https://t.co/4eva3DAcfK"}
+{"created_at": "Sun Nov 01 15:31:58 +0000 2015", "text": "#Randonn\u00e9e #InstaGood @ Le Circuit des 25 bosses. https://t.co/EXYJWbi8Dl"}
+{"created_at": "Sun Nov 01 12:54:50 +0000 2015", "text": "#Randonn\u00e9e @ Le Circuit des 25 bosses. https://t.co/WaqKcBI2OB"}
+{"created_at": "Sun Nov 01 12:36:34 +0000 2015", "text": "#Randonn\u00e9e @ Le Circuit des 25 bosses. https://t.co/GKMIGOOTaY"}
+{"created_at": "Sun Nov 01 12:31:39 +0000 2015", "text": "#Randonn\u00e9e @ Le Circuit des 25 bosses. https://t.co/qlxSsOCge6"}
+{"created_at": "Sun Nov 01 12:18:27 +0000 2015", "text": "#Randonn\u00e9e #SentierDes25Bosses #Essonne #IleDeFrance @ Le Circuit des 25 bosses. https://t.co/UarRnuXfY9"}
+{"created_at": "Sat Oct 31 12:57:56 +0000 2015", "text": "#Brunch #Cat #Paris @ Le Paname https://t.co/q7pCNCdUAx"}
+{"created_at": "Fri Oct 30 07:25:05 +0000 2015", "text": "#Unicorn #Licorne \ud83d\ude0b https://t.co/fcPQ6LG848"}
+{"created_at": "Sun Oct 25 14:46:33 +0000 2015", "text": "#P\u00eacheurDuDimanche #InTheBoat @ Saint Vaast La Hougue, Basse-Normandie, France https://t.co/8srRkdggCg"}
+{"created_at": "Sun Oct 25 14:45:32 +0000 2015", "text": "#SaintVaastLaHougue #SVLH #P\u00eacheurDuDimanche @ Saint Vaast La Hougue, Basse-Normandie, France https://t.co/CyJ1ANbFjq"}
+{"created_at": "Sun Oct 25 07:51:20 +0000 2015", "text": "#Vauban #Unesco #SVLH #SaintVaastLaHougue #Manche #Histoire @ Fort de La Hougue https://t.co/AQeG4i6M6p"}
+{"created_at": "Sat Oct 24 16:27:53 +0000 2015", "text": "#Vauban #Unesco #SVLH #SaintVaastLaHougue #Manche #Histoire @ Fort de La Hougue https://t.co/8N7WVAq0GR"}
+{"created_at": "Sat Oct 24 16:26:53 +0000 2015", "text": "#Unesco #Vauban #SaintVaastLaHougue #Manche @ Fort de La Hougue https://t.co/4Yc6HOjyE1"}
+{"created_at": "Sat Oct 24 16:18:39 +0000 2015", "text": "#Vauban #Unesco #Histoire #SVLH #SaintVaastLaHougue #WeekEnd #Manche @ Fort de La Hougue https://t.co/PHs5y4l0qw"}
+{"created_at": "Sat Oct 24 11:29:31 +0000 2015", "text": "#SVLH #SaintVaastLaHougue #Sun #Manche #WeekEnd #InstaGood @ Point Info Saint Vaast la Hougue https://t.co/SLK02kq5OR"}
+{"created_at": "Fri Oct 23 14:07:39 +0000 2015", "text": "@KhagnibAlex Autant pour moi alors pour des propos injurieux ;-)"}
+{"created_at": "Fri Oct 23 14:03:48 +0000 2015", "text": "@KhagnibAlex je pr\u00e9cise que je ne cautionne pas ses propos loin de l\u00e0 :-)"}
+{"created_at": "Fri Oct 23 14:02:57 +0000 2015", "text": "@KhagnibAlex : #Boutin \"...Et moi qu'elle n'est qu'une m\u00e9g\u00e8re anenc\u00e9phale.\" = diffamation"}
+{"created_at": "Fri Oct 23 13:59:35 +0000 2015", "text": "@KhagnibAlex Tu viens de le faire en insultant #Boutin....."}
+{"created_at": "Fri Oct 23 13:54:05 +0000 2015", "text": "@KhagnibAlex @FrenchNaked @Sophie_Montel Sauf que c'est de la diffamation... #D\u00e9finition"}
+{"created_at": "Fri Oct 23 13:51:23 +0000 2015", "text": "@KhagnibAlex Oh que non, il y a des lois \u00e0 respecter sinon vive la diffamation universel"}
+{"created_at": "Sat Oct 10 15:55:49 +0000 2015", "text": "#C\u00e9r\u00e9monie #MaireHonoraire #LeVicel #ConseilD\u00e9partemental #JeanLepetit #ChristineLebacheley #Manche @\u2026 https://t.co/W4GrgWVCkG"}
+{"created_at": "Sat Oct 10 15:54:21 +0000 2015", "text": "#C\u00e9r\u00e9monie #MaireHonoraire #LeVicel #ConseilD\u00e9partemental #JeanLepetit #Manche #Discours @ Le Vicel,\u2026 https://t.co/4Km7VrrGns"}
+{"created_at": "Sat Oct 10 15:52:34 +0000 2015", "text": "#Pr\u00e9paration #Discours #JeanLepetit #ChristineLebacheley #ConseilD\u00e9partemental #LeVicel #C\u00e9r\u00e9monie\u2026 https://t.co/ciES8JL4B7"}
+{"created_at": "Sat Oct 10 13:16:19 +0000 2015", "text": "#B\u00e9n\u00e9diction #SNSM #CanotDeSauvetage #SVLH #SaintVaastLaHougue #JeanLepetit #Manche #Mer @ Saint\u2026 https://t.co/33KR9XsZgy"}
+{"created_at": "Sat Oct 03 23:45:31 +0000 2015", "text": "#NuitBlanche #Laser #Direction #\u00c9toiles @ Le Mill\u00e9naire, Le shopping au bord de l'eau https://t.co/MRarCtC0tN"}
+{"created_at": "Sat Oct 03 23:44:51 +0000 2015", "text": "#NuitBlanche #\u00c9toiles #TrouNoir #Direction #Laser @ Le Mill\u00e9naire, Le shopping au bord de l'eau https://t.co/U6Thyt6rhV"}
+{"created_at": "Sat Oct 03 23:25:32 +0000 2015", "text": "#NuitBlanche #Extinction #ArtContemporain @ Porte d'Aubervilliers https://t.co/zBdTEz5Y3d"}
+{"created_at": "Sat Oct 03 23:24:59 +0000 2015", "text": "#NuitBlanche #Extinction #ArtContemporain @ Porte d'Aubervilliers https://t.co/bGRjgbdM7t"}
+{"created_at": "Sat Oct 03 23:01:40 +0000 2015", "text": "#NuitBlanche #Musique @ 104 CENTQUATRE https://t.co/XQ1sG1fn9v"}
+{"created_at": "Sat Oct 03 22:56:04 +0000 2015", "text": "Mon \u0153uvre pr\u00e9f\u00e9r\u00e9e :-))))))) @ 104 CENTQUATRE https://t.co/Yvi8RehmMq"}
+{"created_at": "Sat Oct 03 22:54:57 +0000 2015", "text": "#AnishKapoor #tornade #NuitBlanche @ 104 CENTQUATRE https://t.co/vYDWCOijII"}
+{"created_at": "Sat Oct 03 22:54:07 +0000 2015", "text": "#AnishKapoor #Ascension #NuitBlanche @ 104 CENTQUATRE https://t.co/2Dlb5nMhzN"}
+{"created_at": "Sat Oct 03 22:33:11 +0000 2015", "text": "#NuitBlanche #ArtContemporain @ 104 CENTQUATRE https://t.co/uCncgfbwVt"}
+{"created_at": "Sat Oct 03 22:32:41 +0000 2015", "text": "#NuitBlanche #RoueDeV\u00e9lo #ArtContemporain #Paris #104 @ 104 CENTQUATRE https://t.co/MH56u6zwpM"}
+{"created_at": "Sat Oct 03 22:00:07 +0000 2015", "text": "#NuitBlanche #Billes #\u00c9glise @ Sainte-Jeanne-d'Arc, Paris https://t.co/Ct7iDUZ45P"}
+{"created_at": "Sat Oct 03 21:58:22 +0000 2015", "text": "#NuitBlanche #Billes #\u00c9glise #ArtContemporain @ Sainte-Jeanne-d'Arc, Paris https://t.co/hl0RQEOvIt"}
+{"created_at": "Sat Oct 03 21:56:52 +0000 2015", "text": "#NuitBlanche #Billes #\u00c9glise #Paris #ArtContemporain @ Sainte-Jeanne-d'Arc, Paris https://t.co/MyAjJUzoXA"}
+{"created_at": "Sat Oct 03 21:55:33 +0000 2015", "text": "#NuitBlanche #Sculpture #\u00c9glise @ Sainte-Jeanne-d'Arc, Paris https://t.co/qERK0vRtlN"}
+{"created_at": "Sat Oct 03 21:54:37 +0000 2015", "text": "#NuitBlanche #ArtContemporain #\u00c9glise #Sculpture #Paris @ Sainte-Jeanne-d'Arc, Paris https://t.co/pe8smPKH3J"}
+{"created_at": "Sat Oct 03 21:53:28 +0000 2015", "text": "#NuitBlanche #\u00c9glise #ArtContemporain @ Sainte-Jeanne-d'Arc, Paris https://t.co/TUyiuDWTKg"}
+{"created_at": "Sat Oct 03 21:17:20 +0000 2015", "text": "#NuitBlanche #F\u00e9\u00e9rie #Paris #Lumi\u00e8re #Volante @ Jules Joffrin https://t.co/fXUFnkbnPB"}
+{"created_at": "Sat Oct 03 19:52:26 +0000 2015", "text": "#NuitBlanche #Araign\u00e9eG\u00e9ante #Son #Paris @ Parc Clichy-Batignolles https://t.co/5SmgyInQI0"}
+{"created_at": "Sat Oct 03 19:32:07 +0000 2015", "text": "#NuitBlanche #GoutteDEau #Paris @ Paris, France https://t.co/QvghNOrrMC"}
+{"created_at": "Sat Oct 03 19:30:14 +0000 2015", "text": "#NuitBlanche #CourtM\u00e9trage #Paris @ Paris, France https://t.co/KmpeM7niq9"}
+{"created_at": "Sat Oct 03 19:17:11 +0000 2015", "text": "#NuitBlanche #ActionContreLaFaim #ParcMonceau #Paris @ Mus\u00e9e Cernuschi https://t.co/lHh5NOpkp6"}
+{"created_at": "Sat Oct 03 18:11:21 +0000 2015", "text": "Pr\u00eat pour la #NuitBlanche 2015 #Paris #ArtContemporain @ Paris, France https://t.co/dFyoxwF3Kt"}
+{"created_at": "Sat Oct 03 11:09:21 +0000 2015", "text": "#Brunch #Paris #Friend #Strawberry \ud83d\ude0d @ L'atelier - Paris Montparnasse https://t.co/wHCljq5dDt"}
+{"created_at": "Sat Oct 03 11:05:30 +0000 2015", "text": "#Brunch #Paris #LAtelier #Montparnasse #Friend #Mil\u00e9na @ L'atelier - Paris Montparnasse https://t.co/TpRwLikJza"}
+{"created_at": "Mon Sep 28 03:26:54 +0000 2015", "text": "#Eclipse #Lune #Moon #SuperMoon #Lunar #Paris #Iphone6Plus @ Al\u00e9sia https://t.co/qWdb89J2oY"}
+{"created_at": "Sat Sep 26 17:52:49 +0000 2015", "text": "#Altitude de d\u00e9part &amp; altitude d'arriv\u00e9e soit 765 m\u00e8tres de d\u00e9nivel\u00e9 4h de marche et plus de 20 km\u2026 https://t.co/6Urr7gx3x9"}
+{"created_at": "Sat Sep 26 16:35:03 +0000 2015", "text": "#MontagneSainteVictoire #Ascension #Libert\u00e9 #Nature #Trail @ Montagne Sainte-Victoire https://t.co/DrUU7jS0qL"}
+{"created_at": "Sat Sep 26 16:33:13 +0000 2015", "text": "#AixEnProvence #MontSaintVictoire #Ascension @ Montagne Sainte-Victoire https://t.co/2SDXCP7TVC"}
+{"created_at": "Sat Sep 26 16:31:31 +0000 2015", "text": "#Barrage #Bimont #AixEnProvence @ Barrage de Bimont https://t.co/QPZHivfAKO"}
+{"created_at": "Sat Sep 26 16:29:44 +0000 2015", "text": "#Ascension #AixEnProvence #MontSaintVictoire #Trail @ Montagne Sainte-Victoire https://t.co/MPcKkGWLm2"}
+{"created_at": "Fri Sep 25 13:58:53 +0000 2015", "text": "#Landscape #AixEnProvence @ Aix-en-Provence, France https://t.co/u0LJLn8hfe"}
+{"created_at": "Fri Sep 25 13:30:25 +0000 2015", "text": "#C\u00e9zanne #Atelier #AixEnProvence #Peintre @ Atelier de C\u00e9zanne https://t.co/mkDtWidAH4"}
+{"created_at": "Fri Sep 25 11:28:35 +0000 2015", "text": "#AixEnProvence #Vacances #Sun @ Aix-en-provence Vieille Ville https://t.co/noM6MuwFHm"}
+{"created_at": "Sat Sep 19 15:00:56 +0000 2015", "text": "#Observation #Soleil #SVLH #SaintVaastLaHougue @ Fort de La Hougue https://t.co/l14DMbnTn9"}
+{"created_at": "Sat Sep 19 15:00:15 +0000 2015", "text": "#Observation #Soleil #SVLH #SaintVaastLaHougue @ Fort de La Hougue https://t.co/yAQ8S5oEgC"}
+{"created_at": "Fri Sep 18 08:37:12 +0000 2015", "text": "N'oubliez pas demain \u00e0 14h les diff\u00e9rentes conf\u00e9rences (\u00e9toiles-Soleil-Histoire)  et l'observation du\u2026 https://t.co/IMrA9zvOeM"}
+{"created_at": "Thu Sep 10 08:31:58 +0000 2015", "text": "#JeanLepetit #SVLH #TV #France3 #Manche #BasseNormandie #Normandie https://t.co/cb2d8EuNRD"}
+{"created_at": "Sun Sep 06 20:03:52 +0000 2015", "text": "#SerenaWilliams #GoSerena #UsOpen"}
+{"created_at": "Sun Sep 06 15:53:56 +0000 2015", "text": "#Retrouvailles #IsmappSpirit #Paris #Friend @ Starbucks France https://t.co/NU2edaV4eS"}
+{"created_at": "Thu Sep 03 20:31:26 +0000 2015", "text": "#Friends #Departure #London #Paris @ Al\u00e9sia https://t.co/cqa7Wm2rf2"}
+{"created_at": "Wed Aug 26 20:51:29 +0000 2015", "text": "#Paris #PontNeuf #Seine #ByNight @ River Seine Paris https://t.co/InZyuF4ll8"}
+{"created_at": "Sun Aug 23 11:28:14 +0000 2015", "text": "#Brunch #Paris #LePaname #Friends @ Le Paname https://t.co/IiYOsqye8W"}
+{"created_at": "Sat Aug 22 19:20:58 +0000 2015", "text": "#Friends #FrenchEmbassy #Remember #Paris #London @ La Seine https://t.co/ZiNf8c5Z90"}
+{"created_at": "Mon Aug 17 20:12:01 +0000 2015", "text": "#Friends #Neighbours #Paris #Al\u00e9sia #Happy @ Al\u00e9sia https://t.co/qooB56WaoI"}
+{"created_at": "Mon Aug 17 18:07:18 +0000 2015", "text": "#Running #Paris 7,5km #Sport #Fitness #Lafay #Go @ Al\u00e9sia https://t.co/xjLJDFArnC"}
+{"created_at": "Sat Aug 08 19:20:58 +0000 2015", "text": "#M\u00e9trage #VideGreniers #Pr\u00e9paratif #SVLH #SaintVaastLaHougue #Port #Manche @ Point Info Saint Vaast\u2026 https://t.co/4IbBHSMDeP"}
+{"created_at": "Sat Aug 08 19:19:53 +0000 2015", "text": "#Friend #Amiti\u00e9 #SVLH @ Point Info Saint Vaast la Hougue https://t.co/Inmgnfk5UP"}
+{"created_at": "Sat Aug 08 19:18:20 +0000 2015", "text": "#Pr\u00e9paration #VideGreniers #SVLH #Friend @ Port de St vaast la hougue https://t.co/FsHmnU2lUx"}
+{"created_at": "Thu Aug 06 21:55:18 +0000 2015", "text": "#OnNeLacheRien #Running #ByNight #Friends #Paris @ Lac du Bois de Boulogne https://t.co/GtgKdwuR2r"}
+{"created_at": "Wed Aug 05 22:48:39 +0000 2015", "text": "@BRosmini Anish Kapoor aussi \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d"}
+{"created_at": "Tue Aug 04 18:34:22 +0000 2015", "text": "#\u00c9tirements #Sport #Running #BoisDeBoulogne #Repos #NewLife #Paris @ Lac du Bois de Boulogne https://t.co/7RwrDdfw6n"}
+{"created_at": "Sun Aug 02 21:23:56 +0000 2015", "text": ":-) https://t.co/VAm7tDxh78"}
+{"created_at": "Sun Aug 02 19:52:27 +0000 2015", "text": "@charlescoudore @cecilepepin Yann expert du #Spritz ^^"}
+{"created_at": "Sun Aug 02 17:06:01 +0000 2015", "text": "@cecilepepin @charlescoudore On les fait nous-m\u00eames ;-)"}
+{"created_at": "Sun Aug 02 16:47:13 +0000 2015", "text": "#Friends #Spritz #Paris @ Rue Odessa, Quartier Montparnasse https://t.co/UWbAdIemvn"}
+{"created_at": "Sun Aug 02 16:30:06 +0000 2015", "text": "#Attraction #Water #Happy #Friends #Paris https://t.co/9ZuTDwKUyE"}
+{"created_at": "Sun Aug 02 15:40:27 +0000 2015", "text": "#LaBoule #Attraction #JardinDesTuileries @ Jardin Des Tuileries Paris https://t.co/LosJbrr8Jk"}
+{"created_at": "Sun Aug 02 11:23:41 +0000 2015", "text": "#Champagne #Paris #Friends #Happy @ Le Paname https://t.co/ysW3HW0o35"}
+{"created_at": "Sun Aug 02 11:21:57 +0000 2015", "text": "#Sunday #Brunch #Paris #Friends #Champagne #Cheers #Paname #Sun @ Le Paname https://t.co/9KtRv5uBmF"}
+{"created_at": "Sat Aug 01 18:39:35 +0000 2015", "text": "#Happy #Paris #GoodDay #Smile @ Paris Al\u00e9sia 75014 https://t.co/n8r4f3NVRL"}
+{"created_at": "Sat Aug 01 13:31:43 +0000 2015", "text": "#Promenade #Paris #NotreDame @ Cath\u00e9drale Notre-Dame de Paris https://t.co/i3tnJ5JAGI"}
+{"created_at": "Sat Aug 01 11:42:06 +0000 2015", "text": "#PtitDej #Saturday #Paris @ Place de la Republique https://t.co/D5I7Md6BaD"}
+{"created_at": "Sat Aug 01 09:05:35 +0000 2015", "text": "#RunningTime #Sport #Motivation#Paris #Vincennes @ Parc De Vincennes https://t.co/uhgvbSshvG"}
+{"created_at": "Fri Jul 31 06:59:53 +0000 2015", "text": "#RunningTime #Sport #Paris @ Paris 14 Al\u00e9sia https://t.co/skTPZYn3uG"}
+{"created_at": "Wed Jul 29 10:22:41 +0000 2015", "text": "RT @Pierre_Zw: Quand m\u00eame apr\u00e8s avoir fait le cri le plus gay du monde t'essayes de te ratrapper https://t.co/b6nH7dQU2B"}
+{"created_at": "Sun Jul 26 15:25:10 +0000 2015", "text": "#Kandinsky #CentrePompidou #Paris @ Centre Pompidou https://t.co/HnBBuMzBSU"}
+{"created_at": "Sun Jul 26 15:10:25 +0000 2015", "text": "#Imp\u00e9n\u00e9trable #MonaHatoum #CentrePompidou #ArtContemporain #Paris @ Centre Pompidou https://t.co/QobKB7hzrR"}
+{"created_at": "Sun Jul 26 15:07:22 +0000 2015", "text": "#HotSpot #MonaHatoum #N\u00e9on #World #ArtContemporain #CentrePompidou #Paris @ Centre Pompidou https://t.co/pDG5D703uP"}
+{"created_at": "Sun Jul 26 15:05:09 +0000 2015", "text": "#+And- #MonaHatoum #CentrePompidou #ArtContemporain #Paris @ Centre Pompidou https://t.co/5nS4X1kzLU"}
+{"created_at": "Sun Jul 26 15:02:23 +0000 2015", "text": "#M'appelle #MonaHatoum #CentrePompidou #Paris #ArtContemporain @ Centre Pompidou https://t.co/BzaeEARWYZ"}
+{"created_at": "Sun Jul 26 14:58:39 +0000 2015", "text": "#MonaHatoum #LightSentence #CentrePompidou #Paris #ArtContemporain @ Centre Pompidou https://t.co/A1N3zymOId"}
+{"created_at": "Sun Jul 26 14:56:25 +0000 2015", "text": "#Exposition #MonaHatoum #CentrePompidou #Paris #ArtContemporain @ Centre Pompidou https://t.co/5KYlKTy4bs"}
+{"created_at": "Sun Jul 26 14:51:44 +0000 2015", "text": "#Cube #MonaHatoum #CentrePompidou #Paris #ArtContemporain @ Centre Pompidou https://t.co/1L59APujoW"}
+{"created_at": "Sun Jul 26 10:41:48 +0000 2015", "text": "#Friend #Brunch #Paris #BestNeighbours @ Le Paname https://t.co/WLTRJVvR3B"}
+{"created_at": "Sat Jul 25 22:42:53 +0000 2015", "text": "@CarambiixProd Alors c'est le principal :-) #Optimiste \ud83d\ude0a"}
+{"created_at": "Sat Jul 25 22:37:31 +0000 2015", "text": "@CarambiixProd Un probl\u00e8me? :-/"}
+{"created_at": "Sat Jul 25 22:34:17 +0000 2015", "text": "@cle_mrn L'\u00e9ducation... Le pire, c'est que m\u00eame quand tu les corriges ils recommencent... #OnNEstMal"}
+{"created_at": "Fri Jul 24 22:10:42 +0000 2015", "text": "#Dream #YesICan #Paris #Life @ PARIS https://t.co/Ip8yDkHCQj"}
+{"created_at": "Tue Jul 14 22:56:30 +0000 2015", "text": "#LaFrance #Paris #Drapeau #Flag #Fiert\u00e9 #Valeurs #Patriote #Respect @ Tour Eiffel https://t.co/uoUI2WnEBB"}
+{"created_at": "Tue Jul 14 22:46:25 +0000 2015", "text": "#Paris #FeuDArtifices #TourEiffel @ Tour Eiffel https://t.co/ILaq38Hw1I"}
+{"created_at": "Mon Jul 13 20:46:22 +0000 2015", "text": "#InstaLove #Cat #Chat #Paris @ Paris Al\u00e9sia 75014 https://t.co/eyDLPZeEV1"}
+{"created_at": "Mon Jul 13 13:49:12 +0000 2015", "text": "#Flow #Vacation #BergesDeSeine #GrandPalais #Seine #Joie @ Flow https://t.co/iaGkquVaeV"}
+{"created_at": "Mon Jul 13 13:03:23 +0000 2015", "text": "#EspaceLouisVuitton #Paris #LV #AliceAnderson @ Espace culturel Louis Vuitton https://t.co/F2uTZibcpl"}
+{"created_at": "Mon Jul 13 11:32:59 +0000 2015", "text": "#Escalier #Montmartre #Paris @ A la Butte Montmartre https://t.co/rxq8Smm3RE"}
+{"created_at": "Mon Jul 13 11:28:20 +0000 2015", "text": "#Montmartre #Paris #Church @ A la Butte Montmartre https://t.co/aGIgoDl2ld"}
+{"created_at": "Sun Jul 12 09:01:11 +0000 2015", "text": "#Excited #Airport #Paris @ Terminal 2 - Charles de Gaulle Airport https://t.co/96F01BcpOK"}
+{"created_at": "Sat Jul 11 18:15:25 +0000 2015", "text": "#Hu\u00eetres #SVLH #SaintVaast #Manche #Friends #InstaGood @ Fort de La Hougue https://t.co/2odP6ICT1p"}
+{"created_at": "Sat Jul 11 17:47:18 +0000 2015", "text": "#PicNic #SVLH #Friends #InstaFriends #Joie #Manche #Sun #Sea @ Fort de La Hougue https://t.co/O18gVBJVo5"}
+{"created_at": "Sat Jul 11 00:48:02 +0000 2015", "text": "@explicitseb Ah oui quand m\u00eame, il devait \u00eatre balaise pour \u00e9crire tout cela..."}
+{"created_at": "Mon Jul 06 19:23:31 +0000 2015", "text": "#Friends #Paris #BergesDeParis #InstaGood @ BERGES DE SEINE https://t.co/NzH3qrgOfm"}
+{"created_at": "Mon Jul 06 18:35:08 +0000 2015", "text": "#BergesDeParis #Paris #Friends #Seine @ Sur Les Bords De Seine \u00c0 Paris https://t.co/A5p2TSF63e"}
+{"created_at": "Mon Jul 06 13:58:32 +0000 2015", "text": "@Annlaurg @BlaBlaCar_FR Merci \u00e0 toi Anne-Laure :-) je retourne sur #SVLH demain ^^ Bisous"}
+{"created_at": "Sun Jul 05 15:04:36 +0000 2015", "text": "#Paris #Paris2018 #Picnic https://t.co/7mZKkGUswR"}
+{"created_at": "Sun Jul 05 13:48:06 +0000 2015", "text": "#Picnic #Paris #Paris2018 #Vincennes https://t.co/6FifUpl7HH"}
+{"created_at": "Sat Jul 04 13:25:47 +0000 2015", "text": "#Apr\u00e9sLEffortLeR\u00e9confort #D\u00e9m\u00e9nagement #Paris @ M\u00e9tro Duroc Paris https://t.co/U2GzEK0kYi"}
+{"created_at": "Sat Jul 04 10:40:33 +0000 2015", "text": "#ModeD\u00e9m\u00e9nagement #Paris @ M\u00e9tro Duroc Paris https://t.co/0VwOUfNs1W"}
+{"created_at": "Wed Jul 01 10:34:07 +0000 2015", "text": "Emmener son ventilo au boulot #Joie #Bonheur #Fraicheur https://t.co/6skarDNRhx"}
+{"created_at": "Sat Jun 27 19:16:58 +0000 2015", "text": "#Spectacle #LesBaladins #SVLH @ Point Info Saint Vaast la Hougue https://t.co/DpZQRI8zlY"}
+{"created_at": "Sun Jun 21 20:04:02 +0000 2015", "text": "#F\u00eateFeLaMusique #Paris #DenfertRochereau #Ricard #Friends #HappyTime @ Ricard Sa Live Music https://t.co/9sbR9YS8n1"}
+{"created_at": "Sun Jun 21 10:54:20 +0000 2015", "text": "#Run #Triathlon #Sunday #Happy #Sport #Paris @ Parc Monsouris https://t.co/mGw8WOgM87"}
+{"created_at": "Mon Jun 15 09:10:44 +0000 2015", "text": "#TelAviv @ Loveat https://t.co/PORdosOooh"}
+{"created_at": "Sun Jun 14 16:46:38 +0000 2015", "text": "#Sunrise #TelAviv #Isra\u00ebl #Dinner @ Banana Beach, Tel Aviv \u05d1\u05e0\u05e0\u05d4 \u05d1\u05d9\u05e5', \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 https://t.co/3JP2XXzcGR"}
+{"created_at": "Sun Jun 14 16:43:17 +0000 2015", "text": "#TelAviv #Juice #Vacations @ Banana Beach, Tel Aviv \u05d1\u05e0\u05e0\u05d4 \u05d1\u05d9\u05e5', \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 https://t.co/hmQwKhztqS"}
+{"created_at": "Sun Jun 14 15:44:51 +0000 2015", "text": "#TelAviv #Promenade @ \u0645\u064a\u0646\u0627\u0621 \u064a\u0627\u0641\u0627 https://t.co/XOoLgBRWSh"}
+{"created_at": "Sat Jun 13 11:38:29 +0000 2015", "text": "#ModePlage #Sport #Triathlon #Tennis #Marathon #LesEffortsCommencentAPayer #LL #Vacations #TelAviv\u2026 https://t.co/PpmuTGE9EK"}
+{"created_at": "Sat Jun 13 00:00:19 +0000 2015", "text": "#D\u00e9sert #DeadSea #MerMorte https://t.co/72WZn92N9A"}
+{"created_at": "Fri Jun 12 23:37:17 +0000 2015", "text": "#MerMorte #DeadSea @ Beach Dead Sea https://t.co/hkl3IDGeMP"}
+{"created_at": "Fri Jun 12 23:33:19 +0000 2015", "text": "#D\u00e9sert #Isra\u00ebl https://t.co/qMRDM4bv08"}
+{"created_at": "Fri Jun 12 23:31:28 +0000 2015", "text": "#Tornade #D\u00e9sert #Isra\u00ebl https://t.co/BX3iwhIQs4"}
+{"created_at": "Fri Jun 12 23:27:38 +0000 2015", "text": "#TelAviv #Andro\u00efd #Sea @ Carlton Tel Aviv https://t.co/GN5pS0kqej"}
+{"created_at": "Fri Jun 12 07:45:25 +0000 2015", "text": "@Jocelyne50500 Oui en Isra\u00ebl \u00e0 Tel Aviv :-)"}
+{"created_at": "Thu Jun 11 23:46:59 +0000 2015", "text": "#TelAviv #Rotchild #PetitPrince https://t.co/z6c8GpVUfe"}
+{"created_at": "Thu Jun 11 19:25:18 +0000 2015", "text": "#S\u00e9pulcreDeMarie #Observateur #D\u00e9couvert #Histoire https://t.co/hIEVckSoxO"}
+{"created_at": "Thu Jun 11 19:22:59 +0000 2015", "text": "#Tombe #ViergeMarie https://t.co/UDZ1AUqIXl"}
+{"created_at": "Thu Jun 11 19:21:31 +0000 2015", "text": "#ViergeMarie #Tombe #S\u00e9pulcreDeMarie https://t.co/tQgbRN7lah"}
+{"created_at": "Thu Jun 11 19:20:16 +0000 2015", "text": "#S\u00e9pulcreDeMarie #Tombe #ViergeMarie https://t.co/D07vAm1qK8"}
+{"created_at": "Thu Jun 11 19:17:44 +0000 2015", "text": "#MontDesOliviers https://t.co/PIaUuB8ah6"}
+{"created_at": "Thu Jun 11 19:13:34 +0000 2015", "text": "#\u00c9glise #GathSemanim #J\u00e9sus https://t.co/2cG84Ub6R9"}
+{"created_at": "Thu Jun 11 19:09:39 +0000 2015", "text": "#J\u00e9rusalem #LeSaintSepulcre #Sacr\u00e9 #Religion @ Saint S\u00e9pulcre J\u00e9rusalem https://t.co/mZuGCtIgCl"}
+{"created_at": "Thu Jun 11 19:07:37 +0000 2015", "text": "#LeSaintSepulcre #J\u00e9rusalem @ Saint S\u00e9pulcre J\u00e9rusalem https://t.co/fi1whsC6kd"}
+{"created_at": "Thu Jun 11 19:05:37 +0000 2015", "text": "#J\u00e9rusalem #LeSaintSepulcre #S\u00e9pulcre #Linceul #J\u00e9sus @ Saint S\u00e9pulcre J\u00e9rusalem https://t.co/42dWCeIiZG"}
+{"created_at": "Thu Jun 11 19:03:05 +0000 2015", "text": "#J\u00e9rusalem #LeSaintSepulcre #Crucifixion #J\u00e9sus @ Saint S\u00e9pulcre J\u00e9rusalem https://t.co/1awjLTxUik"}
+{"created_at": "Thu Jun 11 18:36:38 +0000 2015", "text": "#J\u00e9rusalem #MurDesLamentations #Message #Voeux @ Le Mur des Lamentations Jerusalem https://t.co/ZQGsBoWMdT"}
+{"created_at": "Thu Jun 11 18:34:40 +0000 2015", "text": "#J\u00e9rusalem #MurDesLamentations #Message #Secret #Pardon #NewLife @ Le Mur des Lamentations Jerusalem https://t.co/gbQRN0Lwgh"}
+{"created_at": "Thu Jun 11 18:31:57 +0000 2015", "text": "#J\u00e9rusalem #MontDesOliviers @ Mount Of Olives, Jerusalem https://t.co/7JwUp8vhpy"}
+{"created_at": "Thu Jun 11 18:30:06 +0000 2015", "text": "#J\u00e9rusalem #TombeauDeDavid @ King David's Tomb - Old City Jerusalem https://t.co/xdLiKetDde"}
+{"created_at": "Thu Jun 11 18:28:00 +0000 2015", "text": "#J\u00e9rusalem #PorteDeSion @ Jerusalem Old City https://t.co/Xhj2INGobt"}
+{"created_at": "Thu Jun 11 18:25:53 +0000 2015", "text": "#J\u00e9rusalem #TourDeDavid #Seflie @ Tower Of David, Jerusalem https://t.co/v3QI9eyUXm"}
+{"created_at": "Thu Jun 11 18:22:44 +0000 2015", "text": "#J\u00e9rusalem #TourDeDavid @ Tower Of David, Jerusalem https://t.co/52iWrdoTh5"}
+{"created_at": "Wed Jun 10 19:18:20 +0000 2015", "text": "#GoToTheParty #TelAviv #Trip \ud83d\ude1c\u2600\ufe0f\ud83d\udc4d\ud83d\udc83 @ \u05e0\u05de\u05dc \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 The Port of Tel Aviv https://t.co/jio2DnzRcP"}
+{"created_at": "Wed Jun 10 19:12:36 +0000 2015", "text": "#Church #OldJaffa @ Old Jaffa - \u064a\u0627\u0641\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629 https://t.co/P3XgkUFQEG"}
+{"created_at": "Wed Jun 10 19:11:03 +0000 2015", "text": "#Landscape #M\u00e9diterran\u00e9e @ Old Jaffa - \u064a\u0627\u0641\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629 https://t.co/DSOED0Viri"}
+{"created_at": "Wed Jun 10 19:08:16 +0000 2015", "text": "#TelAviv #OldMarket #Souk #Hacarmel @ \u05e9\u05d5\u05e7 \u05d4\u05db\u05e8\u05de\u05dc https://t.co/50CUaAhkYY"}
+{"created_at": "Wed Jun 10 19:06:53 +0000 2015", "text": "#TelAviv #Landscape @ Old Jaffa - \u064a\u0627\u0641\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629 https://t.co/C67O3DKB64"}
+{"created_at": "Wed Jun 10 19:05:03 +0000 2015", "text": "#OldJaffa @ Old Jaffa - \u064a\u0627\u0641\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629 https://t.co/o065iib917"}
+{"created_at": "Wed Jun 10 11:41:29 +0000 2015", "text": "#TelAviv #OldJaffa @ Old Jaffa - \u064a\u0627\u0641\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629 https://t.co/Si4bmeFPd9"}
+{"created_at": "Wed Jun 10 11:40:00 +0000 2015", "text": "#TelAviv #OldJaffa @ Old Jaffa - \u064a\u0627\u0641\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629 https://t.co/cmkjIpkasn"}
+{"created_at": "Wed Jun 10 11:38:29 +0000 2015", "text": "#TelAviv #OldJaffa #Restaurant @ Old Jaffa - \u064a\u0627\u0641\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629 https://t.co/3gsg7kpDST"}
+{"created_at": "Wed Jun 10 11:36:36 +0000 2015", "text": "#TelAviv #OldJaffa @ Old Jaffa - \u064a\u0627\u0641\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629 https://t.co/RdDw2eL6qg"}
+{"created_at": "Tue Jun 09 22:20:50 +0000 2015", "text": "@tom_yy Tu verras quand \u00e7a arrivera tu en auras marre de te lever plus t\u00f4t le matin pour raser ou tondre #Exp\u00e9rience ;-)"}
+{"created_at": "Tue Jun 09 13:45:02 +0000 2015", "text": "#TelAviv #Beach #Bronzage #Vacations @ Gay beach Tel Aviv https://t.co/iWm306hkIu"}
+{"created_at": "Tue Jun 09 13:43:03 +0000 2015", "text": "#Bronzage #TelAviv #Beach #Vacations @ Gay beach Tel Aviv https://t.co/HG5wzAoXgo"}
+{"created_at": "Tue Jun 09 09:31:58 +0000 2015", "text": "#Breakfast #TelAviv #Vacations @ JAVA - \u05d2'\u05d0\u05d1\u05d4 https://t.co/1caCMwFYl4"}
+{"created_at": "Mon Jun 08 23:21:07 +0000 2015", "text": "#1h42 #24degr\u00e8s #TelAviv #Night @ Tel Aviv Port https://t.co/Sthamr6xEg"}
+{"created_at": "Mon Jun 08 23:20:22 +0000 2015", "text": "#TelAviv #Night #Beach @ Tel Aviv Port https://t.co/eX1au1aObO"}
+{"created_at": "Mon Jun 08 23:19:22 +0000 2015", "text": "#TelAviv #See #Night @ Tel Aviv Port https://t.co/MziyLrMlBv"}
+{"created_at": "Mon Jun 08 21:29:44 +0000 2015", "text": "#TelAviv #Vacances #Diner @ JAVA - \u05d2'\u05d0\u05d1\u05d4 https://t.co/Fwx9Z7H8M2"}
+{"created_at": "Mon Jun 08 10:22:59 +0000 2015", "text": "#TelAviv #Trip #Vacances \u270c\ufe0f\u270c\ufe0f\u270c\ufe0f\u2600\ufe0f\u2600\ufe0f\u2600\ufe0f\ud83d\udc83\ud83d\udc83\ud83d\udc83 @ Terminal 2 - Charles de Gaulle Airport https://t.co/mKZXUfU43m"}
+{"created_at": "Sun Jun 07 22:06:43 +0000 2015", "text": "RT @Conducteur_SNCF: Miracul\u00e9e apr\u00e8s une tentative de suicide, elle ne pense qu'\u00e0 une chose : vivre ! http://t.co/hr8qZfbU79 http://t.co/Zx\u2026"}
+{"created_at": "Sun Jun 07 15:03:57 +0000 2015", "text": "#Friends #RolandGarros2015 #Paris @ Tour Eiffel https://t.co/w8td7uPFnV"}
+{"created_at": "Sun Jun 07 12:09:38 +0000 2015", "text": "#BrunchScandinave #Paris #Friend @ Centre Pompidou https://t.co/dftyv2XYg7"}
+{"created_at": "Sun Jun 07 11:56:16 +0000 2015", "text": "#Champagne #Paris #Sunday #Friend @ Centre Pompidou https://t.co/L5ULvu3cvC"}
+{"created_at": "Sun Jun 07 11:36:45 +0000 2015", "text": "#Brunch #Bio #Paris @ Centre Pompidou https://t.co/rpP9WykyP2"}
+{"created_at": "Sat Jun 06 15:32:18 +0000 2015", "text": "#SerenaWilliams #GoSerena #RolandGarros2015 #Vainqueur #Exploit #20emeGrandChelem @ French Open https://t.co/aRS0ErziLr"}
+{"created_at": "Sat Jun 06 15:00:21 +0000 2015", "text": "#GoSerena #Go #RolandGarros2015 @ Tour Eiffel https://t.co/Ym2t8vlJ1w"}
+{"created_at": "Sat Jun 06 14:47:31 +0000 2015", "text": "#GoSerena #RolandGarros2015 #Paris #Sun @ Tour Eiffel https://t.co/ypUPp36CKX"}
+{"created_at": "Sat Jun 06 14:21:16 +0000 2015", "text": "#RolandGarros2015 #Paris @ Champ de Mars https://t.co/lpNMYSqhF1"}
+{"created_at": "Sat Jun 06 11:44:33 +0000 2015", "text": "#Friend #Paris #Pompidou #Sun #Summer @ Centre Pompidou https://t.co/JDUVD2yYu2"}
+{"created_at": "Sat Jun 06 10:12:42 +0000 2015", "text": "#TonyAndGuy #TheCoiffeur #SimplyTheBest #Patis @ Toni&amp;Guy Saint Honor\u00e9 https://t.co/gBbU5WnhWU"}
+{"created_at": "Sat Jun 06 08:01:55 +0000 2015", "text": "#Vacances #Paris #BenSimon #Summer @ Mouton-Duvernet https://t.co/s2vFtfALQU"}
+{"created_at": "Mon May 25 17:14:05 +0000 2015", "text": "#Ap\u00e9ro #Cour #Al\u00e9sia @ Al\u00e9sia https://t.co/N5xV0mnMr9"}
+{"created_at": "Mon May 25 17:12:24 +0000 2015", "text": "#Ap\u00e9ro #NonEvenement #Al\u00e9sia #Cour #Voisin @ Al\u00e9sia https://t.co/dxE8JCEalm"}
+{"created_at": "Mon May 25 14:55:27 +0000 2015", "text": "#Ap\u00e9ro #Folie #Al\u00e9sia #Voisin #Amour #WeekEnd #NonEvenement @ Al\u00e9sia https://t.co/sa3FDy35uA"}
+{"created_at": "Sun May 24 16:09:04 +0000 2015", "text": "#Nature #Sun #LaVilette #LaViletteSonique @ Villette Sonique https://t.co/b8OOIWhQ4b"}
+{"created_at": "Sun May 24 14:37:17 +0000 2015", "text": "#Festival #LaViletteSonique #LaVilette #Sunday #Music @ Parc de la Villette https://t.co/INX20suX9g"}
+{"created_at": "Sun May 24 14:24:21 +0000 2015", "text": "#Exposition #FeliceVarini #Anamorphose #Paris #LaVilette @ Parc de la Villette https://t.co/BgWxG9WEk4"}
+{"created_at": "Sun May 24 14:22:07 +0000 2015", "text": "#FeliceVarini #Exposition #LaVilette #Paris @ Parc de la Villette https://t.co/ChgnI4Nkgt"}
+{"created_at": "Sun May 24 14:20:16 +0000 2015", "text": "#Exposition #FeliceVarini #Anamorphose #Paris #LaVilette https://t.co/ME1NEpesrU"}
+{"created_at": "Sun May 24 10:15:39 +0000 2015", "text": "#Joie #Sunday #Sun https://t.co/3l7b5oiDfA"}
+{"created_at": "Sun May 24 09:40:13 +0000 2015", "text": "#FightCancer #Life #Friend https://t.co/i29JIYBTjN"}
+{"created_at": "Sat May 23 15:34:43 +0000 2015", "text": "#NouveauPermis #Paris \ud83d\ude99 @ Al\u00e9sia https://t.co/pjKoqujKlh"}
+{"created_at": "Fri May 22 05:42:15 +0000 2015", "text": "RT @20Minutes: Pas-de-Calais: S\u00e9isme de magnitude 4,4 ressenti dans la nuit http://t.co/Xd9gciaIHO http://t.co/OdUepB7kZ9"}
+{"created_at": "Tue May 19 18:03:09 +0000 2015", "text": "@nthelliez @UDI_off Bon courage :-)"}
+{"created_at": "Sun May 17 17:17:14 +0000 2015", "text": "#NotreDame #Paris #Sun #Sunday @ Cath\u00e9drale Notre-Dame de Paris https://t.co/hR95WH6Wao"}
+{"created_at": "Sun May 17 16:19:02 +0000 2015", "text": "#Sculpture #JJ #Feuchere #Pestmal #S\u00e9nat #Jardin #Luxembourg @ Jardin du Luxembourg https://t.co/xgPCxFSnQi"}
+{"created_at": "Sun May 17 16:12:47 +0000 2015", "text": "#Sunday #Sun #Friends #Jardin #Luxembourg #Paris @ Jardin du Luxembourg https://t.co/HSi2FYoQvz"}
+{"created_at": "Sun May 17 10:17:14 +0000 2015", "text": "#Sunday #Pleasure #Free @ Al\u00e9sia https://t.co/ehTEeKIhWI"}
+{"created_at": "Thu May 14 22:14:02 +0000 2015", "text": "#SalleDuTr\u00f4ne #Napol\u00e9on #Fontainebleau https://t.co/051E9yUgNd"}
+{"created_at": "Thu May 14 22:14:02 +0000 2015", "text": "#GalerieDeDiane #Fontainebleau #France https://t.co/2GTRKLZyqx"}
+{"created_at": "Thu May 14 10:42:45 +0000 2015", "text": "#Fontainebleau @ Palace of Fontainebleau https://t.co/RLB86CXN1F"}
+{"created_at": "Thu May 14 10:39:54 +0000 2015", "text": "#Plafond #Fontainebleau @ Mus\u00e9e napol\u00e9onien de Fontainebleau https://t.co/uxCUJVt57g"}
+{"created_at": "Thu May 14 10:38:08 +0000 2015", "text": "#Napol\u00e9on #Fontainebleau https://t.co/apMBAJ7U9H"}
+{"created_at": "Thu May 14 10:38:08 +0000 2015", "text": "#Napol\u00e9on #Fontainebleau https://t.co/2tb9C0kTxQ"}
+{"created_at": "Sun May 10 15:58:38 +0000 2015", "text": "RT @Lesgarcons75003: Vague \u00e0 lame... Les univers m\u00eal\u00e9s en papiers d\u00e9coup\u00e9s de Marina Adamova nous racontent des histoires @Mauraneofficiel \u2026"}
+{"created_at": "Fri May 08 20:32:44 +0000 2015", "text": "#JeanLepetit #8mai #SVLH https://t.co/isD0nQmsu8"}
+{"created_at": "Fri May 08 20:32:44 +0000 2015", "text": "#JeanLepetit #8mai #SVLH https://t.co/zxwz5vBKyP"}
+{"created_at": "Fri May 08 20:32:43 +0000 2015", "text": "#8mai #SVLH https://t.co/yNel5P0uLZ"}
+{"created_at": "Fri May 08 20:32:43 +0000 2015", "text": "#8mai #SVLH #France https://t.co/prql5Iu5eS"}
+{"created_at": "Wed May 06 06:51:12 +0000 2015", "text": "#Friend #Politique #Paris #UDI @ \u00c9cole Militaire (Paris M\u00e9tro) https://t.co/Q5W8PlhYMx"}
+{"created_at": "Mon May 04 06:08:19 +0000 2015", "text": "RT @Europe1: \"L'Europe est notre futur. Sans #Europe unie, Am\u00e9ricains ou Chinois seront ceux qui d\u00e9cident\" @EnricoLetta #E1matin http://t.c\u2026"}
+{"created_at": "Mon May 04 06:07:53 +0000 2015", "text": "RT @UDI_off: A 8.15, @jclagarde est l'invit\u00e9 de la Matinale @radioclassique - @LCI pr\u00e9sent\u00e9e par Guillaume Durand"}
+{"created_at": "Mon May 04 06:07:46 +0000 2015", "text": "RT @UDI_off: A 8.30, @Chantal_Jouanno est l'invit\u00e9e de @francebleu (107.1)"}
+{"created_at": "Mon May 04 06:01:00 +0000 2015", "text": "@sarahmanon Take care \ud83d\ude18 @alpahufa @HMarcotteRuffin"}
+{"created_at": "Sun Apr 26 12:23:08 +0000 2015", "text": "@jbmarteau Ils sont h\u00e9las de plus en plus j'ai l'impression... Cc @bernardpivot1"}
+{"created_at": "Sat Apr 25 10:14:03 +0000 2015", "text": "#Rennes #Friend #BDS @ Renne , Bretagne https://t.co/D7CdcezGxv"}
+{"created_at": "Mon Apr 13 05:54:37 +0000 2015", "text": "#E1 #E1Matin #JeLeVeux"}
+{"created_at": "Sun Apr 12 18:22:37 +0000 2015", "text": "RT @infosActus: Paris: Le forcen\u00e9 retranch\u00e9 dans un h\u00f4tel du 14e arrondissement a \u00e9t\u00e9 ma\u00eetris\u00e9 http://t.co/dSbh44sFMd - 20minute"}
+{"created_at": "Sun Apr 12 08:59:42 +0000 2015", "text": "#MarathonDeParis #Paris #Running https://t.co/kJ9XNmRhPP"}
+{"created_at": "Sun Apr 12 08:33:10 +0000 2015", "text": "#MarathonDeParis #Paris #Running @ La Tour Eiffel https://t.co/XMjtdutORm"}
+{"created_at": "Sat Apr 11 18:01:14 +0000 2015", "text": "@ApophisMB @RodolpheLG @Glouare Oui tout est l\u00e9gal :-)"}
+{"created_at": "Sat Apr 11 18:00:31 +0000 2015", "text": "@ApophisMB @RodolpheLG @Glouare si tu peux me donner toutes les infos en mp je vais v\u00e9rifier cela dans le service ok?"}
+{"created_at": "Sat Apr 11 17:57:53 +0000 2015", "text": "#TheatreMogador #LeBalDesVampires #Paris #ComedieMusicale @ Paris https://t.co/Nt58mvxQUn"}
+{"created_at": "Sat Apr 11 16:10:59 +0000 2015", "text": "@ApophisMB @RodolpheLG @Glouare Oui je veux bien pour regarder \u00e7a #Merci"}
+{"created_at": "Sat Apr 11 14:58:41 +0000 2015", "text": "#Versailles #Friend #Saturday @ Ch\u00e2teau de Versailles https://t.co/2mTQs5diEJ"}
+{"created_at": "Sat Apr 11 11:15:07 +0000 2015", "text": "#GalerieDesGlaces #Versailles #Friend @ Ch\u00e2teau de Versailles https://t.co/buIilJ6N0D"}
+{"created_at": "Sat Apr 11 11:13:45 +0000 2015", "text": "#GalerieDesGlaces #Versailles @ Ch\u00e2teau de Versailles https://t.co/LEMOCbrrNS"}
+{"created_at": "Sat Apr 11 11:05:40 +0000 2015", "text": "#Voute #Versailles @ Ch\u00e2teau de Versailles https://t.co/uueOuOnLzl"}
+{"created_at": "Sat Apr 11 11:05:15 +0000 2015", "text": "#Versailles @ Ch\u00e2teau de Versailles https://t.co/YJEtcnqNqf"}
+{"created_at": "Sat Apr 11 10:49:28 +0000 2015", "text": "#Versailles @ Ch\u00e2teau de Versailles https://t.co/zpEUCMEPoc"}
+{"created_at": "Sat Apr 11 08:43:28 +0000 2015", "text": "@ApophisMB @RodolpheLG @Glouare 10 ans pas possible"}
+{"created_at": "Sat Apr 11 06:31:24 +0000 2015", "text": "@ALCATOR @RodolpheLG @Glouare On parle du Plessis pas de Levallois... Qui pour le coup n'est pas beaucoup endett\u00e9  ;-)"}
+{"created_at": "Fri Apr 10 23:19:34 +0000 2015", "text": "@RodolpheLG @Glouare Les enfants n'ont pas le droit au m\u00eame droit que les autres habitants? \u00c7a ne tient pas debout, il gagnera en appel"}
+{"created_at": "Fri Apr 10 23:18:42 +0000 2015", "text": "@RodolpheLG @Glouare Elle a attendu comme tout le monde, elle \u00e9tait la suivante sur la liste, o\u00f9 est le probl\u00e8me?"}
+{"created_at": "Fri Apr 10 23:13:23 +0000 2015", "text": "@RodolpheLG @Glouare Philippe Pemezec est un bon maire qui a toujours privil\u00e9gi\u00e9 l'int\u00e9r\u00eat g\u00e9n\u00e9ral, cette d\u00e9cision est une honte!"}
+{"created_at": "Sun Apr 05 16:21:49 +0000 2015", "text": "@unevisionautre Idem !"}
+{"created_at": "Sun Apr 05 15:00:32 +0000 2015", "text": "@unevisionautre Ah ah un autre fan de flightsimulator :-p"}
+{"created_at": "Fri Apr 03 13:29:22 +0000 2015", "text": "@FolioAlex @julieonfroy Hum on se fout des STMG l\u00e0 # Attention ;-)"}
+{"created_at": "Sun Mar 15 17:37:51 +0000 2015", "text": "RT @UDIjeunes: Portrait de @BertilleClaux, candte #UDIJeunes pour les d\u00e9partementales sur la page Facebook :\nhttp://t.co/KXVnxovWGO http://\u2026"}
+{"created_at": "Sun Mar 08 15:21:20 +0000 2015", "text": "#Sun https://t.co/RvZBfaxHKj"}
+{"created_at": "Sun Mar 08 09:35:19 +0000 2015", "text": "RT @vincentdidier1: Comment voler une \u00e9lection http://t.co/SCC4gbdg1q"}
+{"created_at": "Mon Feb 23 23:34:23 +0000 2015", "text": "@TontonFreud_ J'imagine bien ^^ c'\u00e9tait ironique. D'ailleurs fais moi signe quand tu y vas :-)"}
+{"created_at": "Mon Feb 23 23:29:10 +0000 2015", "text": "@TontonFreud_ Va \u00e0 la flashcocotte mister ;-)"}
+{"created_at": "Sun Feb 22 09:54:31 +0000 2015", "text": "RT @PremiereFR: Un cin\u00e9ma se trompe et projette 50 Nuances de Grey aux enfants au lieu de Bob l'\u00e9ponge ! http://t.co/1rLaBMGt1j http://t.co\u2026"}
+{"created_at": "Sat Feb 21 14:06:02 +0000 2015", "text": "#Chatelet #Travaux #Canop\u00e9e #Paris @ Le Forum des Halles http://t.co/ng4QhcNbZE"}
+{"created_at": "Thu Feb 19 22:41:17 +0000 2015", "text": "#MarieLuceNadal #PalaisDeTokyo #Paris http://t.co/AO1x4g9uUF"}
+{"created_at": "Thu Feb 19 22:41:16 +0000 2015", "text": "#HiroshiIshiguro #PalaisDeTokyo #Paris http://t.co/bEKqqoWcBe"}
+{"created_at": "Thu Feb 19 21:26:20 +0000 2015", "text": "#LeBordDesMondes #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/9VVffJZp4Z"}
+{"created_at": "Thu Feb 19 20:55:51 +0000 2015", "text": "#Takis #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/tQ1QcSY6hI"}
+{"created_at": "Thu Feb 19 20:51:24 +0000 2015", "text": "#Gong #Takis #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/2XRrk8BzPT"}
+{"created_at": "Thu Feb 19 20:50:06 +0000 2015", "text": "#Takis #Gong #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/ohpHm9POys"}
+{"created_at": "Thu Feb 19 20:45:32 +0000 2015", "text": "#Takis #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/u8dG0JR2O8"}
+{"created_at": "Thu Feb 19 20:45:22 +0000 2015", "text": "#Takis #T\u00e9l\u00e9peinture #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/CXlUGIlL1s"}
+{"created_at": "Thu Feb 19 20:43:23 +0000 2015", "text": "#Takis #Signaux #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/0R3imy1sFL"}
+{"created_at": "Thu Feb 19 20:39:12 +0000 2015", "text": "#Takis #PalaisDeTokyo #LongMurMagnetique @ Palais de Tokyo http://t.co/Kn7e7rDgUL"}
+{"created_at": "Thu Feb 19 20:37:05 +0000 2015", "text": "#Takis #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/vYAyQoesus"}
+{"created_at": "Sat Feb 14 12:48:53 +0000 2015", "text": "#SaintValentin #Starbucks #Paris @ Starbucks France http://t.co/ycf92kwzsZ"}
+{"created_at": "Sat Feb 14 12:00:04 +0000 2015", "text": "#Vianney #VictoresDeLaMusique #Victoires2015 http://t.co/bHWvBKsIa4"}
+{"created_at": "Sat Feb 14 01:40:32 +0000 2015", "text": "#Calogero #VictoiresDeLaMusique #Victoires2015 #Paris http://t.co/rrrQPOI3vy"}
+{"created_at": "Sat Feb 14 01:39:14 +0000 2015", "text": "#ChristineAndTheQueens #Victoires2015 #VictoiresDeLaMusique #Paris http://t.co/4tlfBP76Zf"}
+{"created_at": "Sat Feb 14 01:37:17 +0000 2015", "text": "#DavidGuetta #VictoiresDeLaMusique #Victoires2015 #Paris http://t.co/jGkgxwF1fb"}
+{"created_at": "Fri Feb 13 20:19:06 +0000 2015", "text": "#Indila #Victoires2015 #VictoiresDeLaMusique @ Zenith Paris - La Villette http://t.co/MXwXH8vQa7"}
+{"created_at": "Fri Feb 13 20:10:36 +0000 2015", "text": "#Victoires2015 #VictoiresDeLaMusique #Souchon #Voulzy @ Zenith Paris - La Villette http://t.co/O0JcmTfx1Q"}
+{"created_at": "Fri Feb 13 20:10:06 +0000 2015", "text": "#Stromae #Victoires2015 #VictoiresDeLaMusique #Paris @ Zenith Paris - La Villette http://t.co/YNXZ6fA0qY"}
+{"created_at": "Fri Feb 13 19:49:15 +0000 2015", "text": "#Victoires2015 #VictoresDeLaMusique #Paris #Z\u00e9nith #LaVillette #Vianney @ Zenith Paris - La Villette http://t.co/n8wIfszilN"}
+{"created_at": "Fri Feb 13 19:15:44 +0000 2015", "text": "#Coulisses #Victoires2015 #VictoresDeLaMusique #Paris #Z\u00e9nith #LaVillette #Vianney @ Zenith Paris - La\u2026 http://t.co/hMORxOAhUq"}
+{"created_at": "Fri Feb 13 19:08:26 +0000 2015", "text": "#VictoiresDeLaMusique #Victoires2015 #Z\u00e9nith #LaVillette #Paris #Vianney @ Zenith Paris - La Villette http://t.co/crIgjA8WB4"}
+{"created_at": "Sun Feb 08 20:06:25 +0000 2015", "text": "#VictoresDeLaMusique #VDM #Paris #Vianney #Invitations #Zentih @ Paris 12ieme http://t.co/0oUc6XSe0m"}
+{"created_at": "Fri Feb 06 14:40:40 +0000 2015", "text": "RT @20Minutes: Sommeil: Combien d'heures devons nous dormir pour \u00eatre en forme? http://t.co/EE7tbNJyRq http://t.co/gSHoeyR1Xd"}
+{"created_at": "Wed Jan 28 23:36:14 +0000 2015", "text": "#Selfie #Night #Paris @ Al\u00e9sia, Paris http://t.co/FafGcZ4K2t"}
+{"created_at": "Sun Jan 25 19:10:43 +0000 2015", "text": "#Sunday #Cocktail #Paris @ Paris, France http://t.co/TACcQh3IVt"}
+{"created_at": "Sun Jan 25 16:17:18 +0000 2015", "text": "#Friend #Paris #Sunday @ Chez Moi A Paris 14Eme http://t.co/jHXv92e7Bc"}
+{"created_at": "Mon Jan 19 19:40:45 +0000 2015", "text": "RT @20Minutes: La \u00abplus grande tyrolienne de France\u00bb d\u00e9roule ses c\u00e2bles \u00e0 La Colmiane http://t.co/xppifGV4HM http://t.co/KUzl8Mk7Qk"}
+{"created_at": "Sun Jan 18 16:14:58 +0000 2015", "text": "#Remember #Giverny #ClaudeMonet #Paris #Nymph\u00e9as @ Mus\u00e9e d'Orsay (officiel) http://t.co/97wKvUi9Fo"}
+{"created_at": "Sun Jan 18 16:14:53 +0000 2015", "text": "#Horloge #Mus\u00e9eDOrsay #Paris http://t.co/65tvrhRjWo"}
+{"created_at": "Sun Jan 18 16:14:53 +0000 2015", "text": "#Mus\u00e9eDOrsay #Paris @ Mus\u00e9e d'Orsay (officiel) http://t.co/zVJhwWWLnI"}
+{"created_at": "Sun Jan 18 16:14:53 +0000 2015", "text": "#Mus\u00e9eDOrsay #Paris http://t.co/fhTDeOkQDW"}
+{"created_at": "Sun Jan 18 15:43:15 +0000 2015", "text": "#Mus\u00e9eDOrsay #Paris #Exposition @ Mus\u00e9e d'Orsay (officiel) http://t.co/fDc0UzPMWe"}
+{"created_at": "Sun Jan 18 15:33:44 +0000 2015", "text": "#PabloPicasso #LEnl\u00e8vementDesSabines #Exposition #Sade #Mus\u00e9eDOrsay #Paris @ Mus\u00e9e d'Orsay (officiel) http://t.co/zIpVOrq2Ud"}
+{"created_at": "Sun Jan 18 15:24:54 +0000 2015", "text": "#Exposition #Sade #Mus\u00e9eDOrsay #Paris @ Mus\u00e9e d'Orsay (officiel) http://t.co/Rsaau2awat"}
+{"created_at": "Sun Jan 18 13:54:39 +0000 2015", "text": "#Brunch #Norway #Paris #Frogpubs #BercyVillage @ Bercy Village http://t.co/v6IsjQXzHB"}
+{"created_at": "Sun Jan 18 12:52:53 +0000 2015", "text": "#Montres #Collection @ Paris 12ieme http://t.co/p7uW9o3qPK"}
+{"created_at": "Sat Jan 17 14:30:17 +0000 2015", "text": "#Cat #Virgule @ Al\u00e9sia http://t.co/2KQ6EwXqBA"}
+{"created_at": "Tue Jan 13 17:19:39 +0000 2015", "text": "#Voeux #SaintVaastLaHougue #SVLH @ Port de St vaast la hougue http://t.co/oqNumGggdd"}
+{"created_at": "Tue Jan 13 17:13:48 +0000 2015", "text": "#Voeux #SaintVaastLaHougue #SVLH #JeanLepetit @ Saint-Vaast-La-Hougue, Basse-Normandie, France http://t.co/aQoVsAMu6g"}
+{"created_at": "Sun Jan 11 22:37:09 +0000 2015", "text": "RT @France_RiseUp: Le couple franco-allemand n'a jamais \u00e9t\u00e9 aussi bien repr\u00e9sent\u00e9 #MarcheDu11Janvier http://t.co/fR7TJ0woqE"}
+{"created_at": "Sun Jan 11 19:22:49 +0000 2015", "text": "#Marseillaise #R\u00e9publique #MarcheR\u00e9publicaine #JeSuisCharlie #Paris #France @ Place de la Republique http://t.co/cK541wi4y2"}
+{"created_at": "Sun Jan 11 19:19:54 +0000 2015", "text": "#R\u00e9publique #MarcheR\u00e9publicaine #JeSuisCharlie #Paris #France @ Place de la Republique http://t.co/wbffprsCR9"}
+{"created_at": "Sun Jan 11 19:18:35 +0000 2015", "text": "#R\u00e9publique #MarcheR\u00e9publicaine #JeSuisCharlie #Paris #France @ Place de la Republique http://t.co/hwHD4o2jR5"}
+{"created_at": "Sun Jan 11 19:16:49 +0000 2015", "text": "#R\u00e9publique #MarcheR\u00e9publicaine #JeSuisCharlie #Paris #France @ Place de la Republique http://t.co/q50DBVbWuC"}
+{"created_at": "Sun Jan 11 19:14:41 +0000 2015", "text": "#MarcheR\u00e9publicaine #JeSuisCharlie #Paris #R\u00e9publique http://t.co/Zk3mU9gRJi"}
+{"created_at": "Sun Jan 11 12:23:57 +0000 2015", "text": "#Go #JeSuisCharlie #MarcheR\u00e9publicaine #Paris @ Bastille, Paris http://t.co/bswk0I4vH5"}
+{"created_at": "Sun Jan 11 00:24:14 +0000 2015", "text": "@_R_Guill_ @OfficiersUnsa Non c'\u00e9tait pour le lire, je viens juste d'apprendre \u00e7a"}
+{"created_at": "Sat Jan 10 21:26:56 +0000 2015", "text": "#PalaisDeTokyo #Paris http://t.co/QQEe3w47rM"}
+{"created_at": "Sat Jan 10 21:26:55 +0000 2015", "text": "#PalaisDeTokyo #Paris http://t.co/kbcJACWhcU"}
+{"created_at": "Sat Jan 10 21:26:55 +0000 2015", "text": "#PalaisDeTokyo #Paris http://t.co/e7KqYDhJBm"}
+{"created_at": "Sat Jan 10 19:26:38 +0000 2015", "text": "#Inside #Dran #AttentionDeNePasTomber #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/BbhDQuCMZ6"}
+{"created_at": "Sat Jan 10 19:26:24 +0000 2015", "text": "#Inside #SookoonAng #ExorciseMe #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/qDvj53hz6Q"}
+{"created_at": "Sat Jan 10 19:26:16 +0000 2015", "text": "#BruceNauman #GetOutOfMyMind #PalaisDeTokyo #Inside #Paris http://t.co/kBGojAREdh"}
+{"created_at": "Sat Jan 10 19:26:04 +0000 2015", "text": "#St\u00e9phaneThidet #LeRefuge #Inside #PalaisDeTokyo #Paris http://t.co/X5fQaogzzW"}
+{"created_at": "Sat Jan 10 19:25:48 +0000 2015", "text": "#JeSuisCharlie #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/iRVetApzwa"}
+{"created_at": "Sat Jan 10 19:23:46 +0000 2015", "text": "#Inside #Lapidation #PalaisDeTokyo #Paris http://t.co/DQPTEr5leS"}
+{"created_at": "Sat Jan 10 19:23:05 +0000 2015", "text": "#Inside #AndroWekua #Untitled #PalaisDeTokyo #Paris http://t.co/p7u3b8pqDS"}
+{"created_at": "Sat Jan 10 19:02:51 +0000 2015", "text": "#Inside #BerdaguerPejus #E17 #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/OcHa6Uunbx"}
+{"created_at": "Sat Jan 10 18:52:40 +0000 2015", "text": "#Inside #Dran #AttentionDeNePasTomber #PalaisDeTokyo @ Palais de Tokyo http://t.co/cZEXComH6p"}
+{"created_at": "Sat Jan 10 18:47:54 +0000 2015", "text": "#Inside #MikeNelson #TheExorcism #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/QHwJ32XQsJ"}
+{"created_at": "Sat Jan 10 18:45:58 +0000 2015", "text": "#AbrahamPoincheval #Ours #VivreDansUnOurs #Mus\u00e9eDeLaChasseEtDeLaNature #Paris #Inside #PalaisDeTokyo @\u2026 http://t.co/Oy93xQeY4Y"}
+{"created_at": "Sat Jan 10 18:45:53 +0000 2015", "text": "#Inside #PalaisDeTokyo #Paris @ Palais de Tokyo http://t.co/I2odUvlJvE"}
+{"created_at": "Sat Jan 10 18:44:11 +0000 2015", "text": "#Inside #PalaisDeTokyo #PeterBuggenhout #OnHold @ Palais de Tokyo http://t.co/twEvTO6vxd"}
+{"created_at": "Sat Jan 10 18:19:35 +0000 2015", "text": "#PalaisDeTokyo #Inside #Paris #ArtContemporain @ Palais de Tokyo http://t.co/crEZrnyQKQ"}
+{"created_at": "Sat Jan 10 10:03:19 +0000 2015", "text": "RT @Le_Figaro: Alerte : Le plan antiterroriste maintenu \u00e0 son niveau d'alerte le plus \u00e9lev\u00e9 en France"}
+{"created_at": "Sat Jan 10 10:01:04 +0000 2015", "text": "RT @DMARGUERITTE: Les v\u0153ux du @Cercle_Cotentin devant 500 personnes et 35 \u00e9lus dont C.Lemarchand, J.Lepetit et JM Maghe #Rassemblement http\u2026"}
+{"created_at": "Sat Jan 10 09:54:33 +0000 2015", "text": "RT @PNationale: MERCI \u00e0 tous les services de la #police nationale pr leur professionnalisme et leur courage durant ces derni\u00e8res heures. #R\u2026"}
+{"created_at": "Fri Jan 09 09:30:41 +0000 2015", "text": "RT @OlivierPerou: #Dammartin : un internaute sur place envoie des clich\u00e9s en direct de la prise d'otage. #CharlieHebdo http://t.co/KjpEwsRL\u2026"}
+{"created_at": "Fri Jan 09 07:34:54 +0000 2015", "text": "#JeSuisCharlie #France #Paris @ Paris, France http://t.co/vIWFQGWpCz"}
+{"created_at": "Sun Jan 04 16:25:55 +0000 2015", "text": "Just #Paris @ Place de la concorde http://t.co/xEV3XodMjm"}
+{"created_at": "Sun Jan 04 16:25:49 +0000 2015", "text": "Just #Paris @ Place de la concorde http://t.co/A4DJUPbJCu"}
+{"created_at": "Sun Jan 04 16:21:19 +0000 2015", "text": "#Promenade #Paris #JardinDesTuileries @ Tuileries Garden-Jardin Des Tuileries http://t.co/LtJsS0R7rX"}
+{"created_at": "Sun Jan 04 15:32:51 +0000 2015", "text": "#Cierge #Espoir #Bonheur #2015 #NotreDameDeParis #Paris @ Cath\u00e9drale Notre-Dame de Paris http://t.co/E1iIVGvHyC"}
+{"created_at": "Sun Jan 04 15:31:04 +0000 2015", "text": "#NotreDameDeParis #Paris @ Cath\u00e9drale Notre-Dame de Paris http://t.co/bDzDcJOMpb"}
+{"created_at": "Sun Jan 04 15:23:08 +0000 2015", "text": "#NotreDameDeParis #Paris #Cath\u00e9drale @ Cath\u00e9drale Notre-Dame de Paris http://t.co/LVIzqZBF6b"}
+{"created_at": "Sat Jan 03 23:51:29 +0000 2015", "text": "#JeVaisVousTuer #Cat #Virgule @ Chez Moi A Paris 14Eme http://t.co/wt9AXQQUTf"}
+{"created_at": "Sat Jan 03 19:49:36 +0000 2015", "text": "For @imsheridanicole \ud83d\udc4d\ud83c\udf89\ud83c\uddfa\ud83c\uddf8\ud83c\uddeb\ud83c\uddf7 @ Tour Eiffel - Place Du Trocadero http://t.co/BaV1kOmH8m"}
+{"created_at": "Sat Jan 03 18:39:17 +0000 2015", "text": "#EiffelTour #TourEiffel #BonneAnn\u00e9e\u00c0Tous #HappyNewYear #HNY #Paris @ Champ de Mars http://t.co/VXT1wZUT1l"}
+{"created_at": "Sat Jan 03 15:48:50 +0000 2015", "text": "#JeffKoons #GazingBall #Ariadne #2013 #CentrePompidou #Paris @ Centre Pompidou http://t.co/wnKO77p7EB"}
+{"created_at": "Sat Jan 03 15:47:32 +0000 2015", "text": "#JeffKoons #GazingBall #FarneseHercules #2013 #CentrePompidou #Paris @ Centre Pompidou http://t.co/QeQ1TEhEU7"}
+{"created_at": "Sat Jan 03 15:45:52 +0000 2015", "text": "#JeffKoons #GazingBall #Mailbox #2013 #CentrePompidou #Paris @ Centre Pompidou http://t.co/1xyx0oXzWN"}
+{"created_at": "Sat Jan 03 15:43:51 +0000 2015", "text": "#JeffKoons #BalloonVenusOrange #CentrePompidou #Paris @ Centre Pompidou http://t.co/ko93Hs16e5"}
+{"created_at": "Sat Jan 03 15:41:41 +0000 2015", "text": "#JeffKoons #Hulk #CentrePompidou #Paris @ Centre Pompidou http://t.co/bVsdL91KBM"}
+{"created_at": "Sat Jan 03 15:37:08 +0000 2015", "text": "#JeffKoons #HangingHeart #CentrePompidou #Paris @ Centre Pompidou http://t.co/WqbQA28bnS"}
+{"created_at": "Sat Jan 03 15:35:08 +0000 2015", "text": "#JeffKoons #Moon #CentrePompidou #Paris @ Centre Pompidou http://t.co/CMhyzdW1kE"}
+{"created_at": "Sat Jan 03 15:33:18 +0000 2015", "text": "#JeffKoons #CatOnAClotheslineYellow #CentrePompidou #Paris @ Centre Pompidou http://t.co/fUVgrK7KBb"}
+{"created_at": "Sat Jan 03 15:31:07 +0000 2015", "text": "#JeffKoons #BalloonDogMagenta #Remember #FondationBeyeler #B\u00e2le #Suisse @ Centre Pompidou http://t.co/0JfDGcLeL9"}
+{"created_at": "Sat Jan 03 15:28:04 +0000 2015", "text": "#JeffKoons #Rabbit #CentrePompidou #Paris @ Centre Pompidou http://t.co/louAfDsA5m"}
+{"created_at": "Sat Jan 03 15:26:17 +0000 2015", "text": "#JeffKoons #Lifeboat #CentrePompidou #Paris @ Centre Pompidou http://t.co/14N11KyuIO"}
+{"created_at": "Sat Jan 03 15:20:55 +0000 2015", "text": "#MarcelDuchamp #PorteBouteilles #CentrePompidou #Paris @ Centre Pompidou http://t.co/qmImAUbB0G"}
+{"created_at": "Sat Jan 03 15:16:20 +0000 2015", "text": "#MarcelDuchamp #CentrePompidou #RoueDeBicyclette #Paris @ Centre Pompidou http://t.co/4RL6Jq7Ly3"}
+{"created_at": "Sat Jan 03 15:11:32 +0000 2015", "text": "#MarcelDuchamp #Peinture #CentrePompidou #PortraitDuP\u00e8reDeLArtiste #C\u00e9zanne #Paris @ Centre Pompidou http://t.co/pQn3QOvqVN"}
+{"created_at": "Sat Jan 03 15:07:23 +0000 2015", "text": "#MarcelDuchamp #Peinture #Bapt\u00eame #CentrePompidou #Paris @ Centre Pompidou http://t.co/O9LDkcTD6Q"}
+{"created_at": "Sat Jan 03 14:59:06 +0000 2015", "text": "#MarcelDuchamp #CentrePompidou #Exposition #Paris @ Centre Pompidou http://t.co/ng8ITKjS1w"}
+{"created_at": "Sat Jan 03 08:29:44 +0000 2015", "text": "RT @Fnodelanglois: Les v\u0153ux \u00e9tonnants de la SNCF enflamment le web http://t.co/3uUoZshhyg via @Figaro_Tech @Ge_Russell"}
+{"created_at": "Thu Jan 01 00:05:21 +0000 2015", "text": "#HappyNewYear #Friends #2015 http://t.co/zAzlCLrvKt"}
+{"created_at": "Wed Dec 31 23:13:13 +0000 2014", "text": "#HappyNewYear #Friends http://t.co/wTthoWtdUL"}
+{"created_at": "Wed Dec 31 23:12:31 +0000 2014", "text": "#HappyNewYear #Friends #2015 http://t.co/o4KbN2ms6e"}
+{"created_at": "Wed Dec 31 23:11:25 +0000 2014", "text": "#HappyNewYear #Friends #2015 http://t.co/SxD7ujVzn4"}
+{"created_at": "Wed Dec 31 23:10:43 +0000 2014", "text": "#HappyNewYear #Friends #2015 http://t.co/qDndC6L2mb"}
+{"created_at": "Wed Dec 31 23:09:52 +0000 2014", "text": "#HappyNewYear #Friends #2015 http://t.co/gSTnQWGzR1"}
+{"created_at": "Wed Dec 31 23:08:27 +0000 2014", "text": "#HappyNewYear #Friends http://t.co/14dYsO7iz7"}
+{"created_at": "Wed Dec 31 23:06:35 +0000 2014", "text": "#HappyNewYear #Friends http://t.co/w82javVMsD"}
+{"created_at": "Tue Dec 30 20:03:15 +0000 2014", "text": "RT @20Minutes: Hillary Clinton est la femme la plus admir\u00e9e des am\u00e9ricains http://t.co/jiVh3e7pUk http://t.co/8zoPkvtUBY"}
+{"created_at": "Sun Dec 21 15:02:35 +0000 2014", "text": "#TontonYann #Ethan #Rennes @ Rennes, France http://t.co/sRNxX02wHn"}
+{"created_at": "Sat Dec 20 07:24:33 +0000 2014", "text": "RT @LeHuffPost: Le Mus\u00e9e des Confluences ouvre ses portes \u00e0 Lyon sur fond de pol\u00e9miques http://t.co/LviX6Dy5eT"}
+{"created_at": "Fri Dec 19 14:48:18 +0000 2014", "text": "#TGIF http://t.co/qvGKW7ESAv"}
+{"created_at": "Fri Dec 19 14:02:15 +0000 2014", "text": "RT @LePoint: Red\u00e9coupage des r\u00e9gions : l'UMP saisit le @Conseil_constit : http://t.co/K1okBdyN46 #reformeterritoriale http://t.co/qEhWBvmtIV"}
+{"created_at": "Thu Dec 18 05:53:13 +0000 2014", "text": "RT @florencebisbal: L'art contemporain s'invite en prison - Le Parisien: Le Parisien L'art contemporain s'invite en\u2026 http://t.co/Cv4lFVA6nL\u2026"}
+{"created_at": "Sun Dec 14 19:06:33 +0000 2014", "text": "RT @sarahmanon: @yannlepetit #truestory \ud83d\ude09 http://t.co/4UU1h93UQ8"}
+{"created_at": "Sun Dec 14 13:07:12 +0000 2014", "text": "#Patinoire #TourEiffel #Paris @ Tour Eiffel http://t.co/Wi39WTrAjs"}
+{"created_at": "Sun Dec 14 13:02:44 +0000 2014", "text": "#Paris #Vide #TourEiffel @ Tour Eiffel http://t.co/GBrum2KNKV"}
+{"created_at": "Sun Dec 14 13:00:29 +0000 2014", "text": "#TourEiffel #ChampsDeMars #Paris @ Tour Eiffel http://t.co/OCTIbFzYqU"}
+{"created_at": "Tue Dec 09 15:48:59 +0000 2014", "text": "RT @infosActus: S\u00e9gol\u00e8ne Royal a-t-elle raison de reculer sur l'interdiction des feux de chemin\u00e9e ? http://t.co/ehefNhWWX7 - lefigaro"}
+{"created_at": "Sat Dec 06 22:04:44 +0000 2014", "text": "RT @LeHuffPost: \"Pourquoi devenir Miss France?\" Mais oui, pourquoi? http://t.co/hRzNJk3mN0 #MissFrance2015"}
+{"created_at": "Sat Dec 06 22:04:09 +0000 2014", "text": "@Antoine_Rtn Je suis pour Miss France de mon c\u00f4t\u00e9 ahahahah #Joke"}
+{"created_at": "Sat Dec 06 21:59:37 +0000 2014", "text": "@Antoine_Rtn PACA \u00e7a ne veut rien dire... Provence Alpes C\u00f4te d'Azur donc tu es pour Provence ou CA ? \ud83d\ude02\ud83d\ude02\ud83d\ude02"}
+{"created_at": "Fri Dec 05 23:38:29 +0000 2014", "text": "RT @skinnmacdana: Vice pr\u00e9sidente de l'UMP http://t.co/hwr7eqA7sE"}
+{"created_at": "Fri Dec 05 20:08:41 +0000 2014", "text": "@sarahmanon Maintenant 2h pour 7km et pas encore arriv\u00e9.... #Paris"}
+{"created_at": "Fri Dec 05 10:12:12 +0000 2014", "text": "RT @Sciences_Avenir: Les homosexuels vont-ils pouvoir donner leur sang ? &gt;&gt; http://t.co/jrY7Ri0s36 http://t.co/bDnWxqtyJf"}
+{"created_at": "Fri Dec 05 10:11:01 +0000 2014", "text": "RT @OpinionPublique: Souhait des sympathisants UMP pour repr\u00e9senter l'UMP en 2017\n\nSarkozy 52%\nJupp\u00e9 36%\nFillon 5%\nBertrand 3%\nAucun de ceu\u2026"}
+{"created_at": "Fri Dec 05 10:10:09 +0000 2014", "text": "RT @LeNouvelObs: #Telethon Cette ann\u00e9e, vous pouvez aussi faire un don sur Twitter &gt;&gt; http://t.co/41LonDmBap http://t.co/OXmHR7HKLF"}
+{"created_at": "Fri Dec 05 10:10:03 +0000 2014", "text": "RT @ARTEfr: Un an apr\u00e8s la mort de #NelsonMandela, m\u00e9moire de l'homme derri\u00e8re le mythe : http://t.co/pihQ04enKJ http://t.co/MLQdGMCC5S"}
+{"created_at": "Thu Dec 04 21:02:05 +0000 2014", "text": "RT @mouvementY: Merci @lesinrocks qui s'int\u00e9ressent \u00e0 #MouvY ! Mais l'important, c'est le fond du projet surtout, non ? :-) cc @Mathieu2jean"}
+{"created_at": "Wed Dec 03 15:39:28 +0000 2014", "text": "RT @Fanouninho: En politique, il n'y a pas de fatalit\u00e9. Notre g\u00e9n\u00e9ration est pr\u00eate \u00e0 faire des propositions. http://t.co/bQFyHpqgcZ"}
+{"created_at": "Wed Dec 03 14:14:51 +0000 2014", "text": "RT @mouvementY: Un petit peu d'espoir, \u00e7a vous r\u00e9chauffe un dimanche #signatures #MouvY http://t.co/vwUFk6ml7D"}
+{"created_at": "Wed Dec 03 14:14:43 +0000 2014", "text": "RT @morgangiraud: Il pourrait pt\u00eate se passer quelque chose ... Allez ! Viens ! Ca \u00e0 l'air plus malin que d'habitude en plus. http://t.co/O\u2026"}
+{"created_at": "Sun Nov 30 12:32:45 +0000 2014", "text": "#Brunch #Friend #Paris @ Le P\u00e8re Fouettard http://t.co/2tt7SeuIwP"}
+{"created_at": "Sun Nov 30 04:01:20 +0000 2014", "text": "RT @LesNews: Sarkozy \u00e9lu pr\u00e9sident de l'UMP #brk"}
+{"created_at": "Sat Nov 29 11:55:52 +0000 2014", "text": "RT @OneShotFilm: Une p'tite lecture bien enrichissante et intelligente :) Bon week-end... http://t.co/qJ955bgmz7"}
+{"created_at": "Fri Nov 28 06:08:10 +0000 2014", "text": "RT @mouvementY: @C_At_Rox Qui sommes nous ? Vous pouvez trouver les infos ici : http://t.co/UUBB6CyDTM"}
+{"created_at": "Fri Nov 28 06:07:47 +0000 2014", "text": "RT @mouvementY: La perle du soir. Une prouesse technique ! #signature #ouiouioui http://t.co/rqVts2kRIJ"}
+{"created_at": "Thu Nov 27 14:53:09 +0000 2014", "text": "RT @mouvementY: A vos signatures .. et partager http://t.co/5T55KTfh16 ! #MouvY #Politique #SnowBallEffect http://t.co/0MQqb9laCL"}
+{"created_at": "Wed Nov 26 17:58:01 +0000 2014", "text": "RT @mouvementY: Parlez de y ... \u00e0 deux, trois, quatre personnes. \u00c0 l'ancienne ! http://t.co/5T55KTfh16 #MouvY #Politique http://t.co/O6Y18u\u2026"}
+{"created_at": "Wed Nov 26 17:57:56 +0000 2014", "text": "RT @mouvementY: #SaviezVous que l'\u00e2ge moyen des parlementaires est de 64\nans ? http://t.co/5T55KTfh16 #MouvY #Politique"}
+{"created_at": "Wed Nov 26 17:56:22 +0000 2014", "text": "En politique, il n'y a pas de fatalit\u00e9. Notre g\u00e9n\u00e9ration est pr\u00eate \u00e0 faire des propositions. http://t.co/F7cF8yRX0f @mouvementY"}
+{"created_at": "Tue Nov 25 18:38:01 +0000 2014", "text": "RT @mouvementY: Tribune de #mouvy dans @libe : \"La \u00abg\u00e9n\u00e9ration Y\u00bb se mobilise\" http://t.co/WtOmWkNu4O"}
+{"created_at": "Tue Nov 25 18:37:56 +0000 2014", "text": "RT @libe: La \u00abg\u00e9n\u00e9ration Y\u00bb se mobilise http://t.co/M8CaY45Zur http://t.co/G67ySMYc99"}
+{"created_at": "Tue Nov 25 18:37:43 +0000 2014", "text": "RT @mouvementY: Plus de 3000 signatures ce soir pour les propositions de http://t.co/5T55KTfh16 ! #mouvy  #politique http://t.co/JB4Nn3yzOw"}
+{"created_at": "Mon Nov 17 10:20:34 +0000 2014", "text": "@gilleclement Les deux je pense, mais j'aime beaucoup ce qu'il fait"}
+{"created_at": "Mon Nov 17 07:19:04 +0000 2014", "text": "RT @Europe1: \"Abroger le #mariagepourtous ? Je ne suis pas d'accord ! Ce n'est ni souhaitable... ni possible !\" @nk_m #E1matin"}
+{"created_at": "Mon Nov 17 07:05:12 +0000 2014", "text": "RT @yvesjego: Il n'y a aucune raison de revenir sur la loi #Taubira. La France a et aura bien d'autres urgences !  Arr\u00eatons cette d\u00e9magogie\u2026"}
+{"created_at": "Sun Nov 16 21:36:44 +0000 2014", "text": "@lerefuge Je viens de voter et c'est marqu\u00e9 5 000 #CEstFait ;-)"}
+{"created_at": "Sat Nov 15 20:37:09 +0000 2014", "text": "RT @infosActus: Mariage gay et adoption : les sympathisants UMP de plus en plus favorables - http://t.co/aOLM3VItmc - leparisien http://t.c\u2026"}
+{"created_at": "Fri Nov 14 05:28:04 +0000 2014", "text": "RT @jclagarde: 1 nouvelle page s'ouvre pour @UDI_off Je compte sur vous tous,quelqu'ait \u00e9t\u00e9 votre choix,pour b\u00e2tir l'UDI Rassembl\u00e9e dans es\u2026"}
+{"created_at": "Fri Nov 14 05:24:01 +0000 2014", "text": "RT @oldpicsarchive: Shrek is inspired by a real person, Maurice Tillet, a professional wrestler. http://t.co/e7GVtE5LkT"}
+{"created_at": "Fri Nov 14 05:23:09 +0000 2014", "text": "RT @florencebisbal: Quand les ventes d'art contemporain d\u00e9passent le milliard de ... - Les \u00c9chos (Blog): Les \u00c9chos\u2026 http://t.co/b6eatztos4 \u2026"}
+{"created_at": "Fri Nov 14 05:20:15 +0000 2014", "text": "RT @LeNouvelObs: Une lettre haineuse r\u00e9v\u00e8le que le FBI voulait pousser Martin Luther King au suicide &gt;&gt; http://t.co/Kh5p5BfVDj http://t.co/\u2026"}
+{"created_at": "Wed Nov 12 09:10:45 +0000 2014", "text": "#FrenchEmbassy #Remember #Friend #London http://t.co/Drbh3fcDTM"}
+{"created_at": "Mon Nov 10 22:58:44 +0000 2014", "text": "#BillyElliot #London #Com\u00e9dieMusicale @ Billy Elliot the Musical http://t.co/iN2nJoMOYL"}
+{"created_at": "Mon Nov 10 15:58:22 +0000 2014", "text": "@y#Nabilla est partie s'expatrier en Isra\u00ebl!! Tous aux abris!!! \ud83d\ude31\ud83c\udf74\u2702\ufe0f\ud83d\udd2a http://t.co/oirUXbRHc1"}
+{"created_at": "Mon Nov 10 15:45:45 +0000 2014", "text": "@MathieuDVlieger Tr\u00e8s bon surtout niveau shopping LOL j'y suis encore jusque demain #Dream"}
+{"created_at": "Sun Nov 09 22:50:10 +0000 2014", "text": "@MathieuDVlieger Bien jou\u00e9 ;-) tu vas bien?"}
+{"created_at": "Sun Nov 09 11:39:13 +0000 2014", "text": "#London #TheLexington #Wall http://t.co/jgTXsGBRZf"}
+{"created_at": "Sun Nov 09 11:38:15 +0000 2014", "text": "#London #TheLexington #Concert http://t.co/UQdvTKe32z"}
+{"created_at": "Sun Nov 09 11:36:02 +0000 2014", "text": "#London #Concert #TheLexington @ The Lexington http://t.co/F5zAsDOmFA"}
+{"created_at": "Sun Nov 09 11:27:15 +0000 2014", "text": "#London #Museum http://t.co/knEFWjp2K6"}
+{"created_at": "Sun Nov 09 11:25:03 +0000 2014", "text": "#London #Friends #Underground http://t.co/emgth8cNdM"}
+{"created_at": "Sun Nov 09 11:23:55 +0000 2014", "text": "#London #Underground #MindTheGap @ London Victoria Station http://t.co/vyH3vQTZyV"}
+{"created_at": "Sun Nov 09 11:22:25 +0000 2014", "text": "#London #Tower http://t.co/wwCkh57BCN"}
+{"created_at": "Sun Nov 09 11:19:19 +0000 2014", "text": "#London #Tamise #Thames @ Millenium Bridge, The Thames, London http://t.co/rAcYLNqEtw"}
+{"created_at": "Sun Nov 09 11:19:00 +0000 2014", "text": "#London #MilleniumBridge @ Millennium Bridge Facing St Paul's Leaving The Tate Modern http://t.co/PJAFoV2NSi"}
+{"created_at": "Sun Nov 09 11:16:02 +0000 2014", "text": "#BusArt #DamienJeffery #London @ Tate Modern &amp; Millennium Bridge http://t.co/GTGE74jwzs"}
+{"created_at": "Sun Nov 09 11:14:12 +0000 2014", "text": "#Londres @ Tower Bridge http://t.co/1AAunh613k"}
+{"created_at": "Sun Nov 09 11:12:14 +0000 2014", "text": "#Londres #March\u00e9 #LondonBridge @ New London Bridge http://t.co/h5Q5GTWlKA"}
+{"created_at": "Sun Nov 09 11:10:58 +0000 2014", "text": "#London @ London, United Kingdom http://t.co/zCqsDpcoWa"}
+{"created_at": "Fri Nov 07 19:08:23 +0000 2014", "text": "#LondonCalling #GareDuNord #Eurostar @ Terminal Eurostar Paris Gare du Nord http://t.co/YCH6e9yzZi"}
+{"created_at": "Fri Nov 07 19:07:16 +0000 2014", "text": "#UKBorderControl #LondonCalling @ Terminal Eurostar Paris Gare du Nord http://t.co/NiDHgXBFPq"}
+{"created_at": "Sun Nov 02 15:41:55 +0000 2014", "text": "#Cat #Virgule #Hug #Paris @ Au Lit http://t.co/MOt6k8KBni"}
+{"created_at": "Sun Nov 02 15:24:42 +0000 2014", "text": "RT @Lesgarcons75003: H\u00e9lium parfait... Les portraits \u00e9nigmatiques de John Magas @nikosaliagas @AlexandreJardin @fleurpellerin @Indiaol http\u2026"}
+{"created_at": "Sun Nov 02 11:01:57 +0000 2014", "text": "RT @Telerama: On a vu \u201cInterstellar\u201d... et on est sorti boulevers\u00e9 de questions scientifiques http://t.co/fC98DJqZEJ http://t.co/t81ppl8uUS"}
+{"created_at": "Sun Nov 02 08:31:17 +0000 2014", "text": "Elle retrouve la vie en se tapant la t\u00eate sur une table basse #Incroyable http://t.co/SvpCOO0Rit"}
+{"created_at": "Sat Nov 01 21:20:12 +0000 2014", "text": "RT @florencebisbal: L'art contemporain est-il r\u00e9serv\u00e9 \u00e0 une \u00e9lite? - La Voix du Nord: L'art contemporain est-il\u2026 http://t.co/dsJWgtB65v #ar\u2026"}
+{"created_at": "Sat Nov 01 12:28:08 +0000 2014", "text": "#FondationLVMH #Paris #FranckGehry #ThomasSch\u00fctte @ Fondation Louis Vuitton http://t.co/M12fFWQLKW"}
+{"created_at": "Sat Nov 01 12:24:05 +0000 2014", "text": "#FondationLVMH #Paris #FranckGehry @ Fondation Louis Vuitton http://t.co/OeCLZIHikm"}
+{"created_at": "Sat Nov 01 12:20:51 +0000 2014", "text": "#FondationLVMH #Paris #FranckGehry #Terrasse @ Fondation Louis Vuitton http://t.co/4Tcza85ztb"}
+{"created_at": "Sat Nov 01 12:19:20 +0000 2014", "text": "#FondationLVMH #Paris #FranckGehry http://t.co/p6rLa1FX6W"}
+{"created_at": "Sat Nov 01 12:19:05 +0000 2014", "text": "Vient de publier une photo http://t.co/UiimXzuavU"}
+{"created_at": "Sat Nov 01 11:40:28 +0000 2014", "text": "#FondationLVMH #Paris #FranckGehry @ Fondation Louis Vuitton http://t.co/iWZMyi5ncN"}
+{"created_at": "Sat Nov 01 11:37:56 +0000 2014", "text": "#FondationLVMH #Paris #FranckGehry http://t.co/8ihNGhSEvD"}
+{"created_at": "Sat Nov 01 11:34:19 +0000 2014", "text": "#FondationLVMH #Paris #FranckGehry http://t.co/Sh2bc6oQCd"}
+{"created_at": "Sat Nov 01 11:34:07 +0000 2014", "text": "#FondationLVMH #Paris #FranckGehry @ Fondation Louis Vuitton http://t.co/NlAO1SNAbN"}
+{"created_at": "Sat Nov 01 11:19:28 +0000 2014", "text": "#FondationLVMH #Paris #FranckGehry @ Fondation Louis Vuitton http://t.co/a9fWzlWvJO"}
+{"created_at": "Sat Nov 01 11:14:03 +0000 2014", "text": "#FondationLVMH #Paris #FranckGehry @ Fondation Louis Vuitton http://t.co/czJlAU5dH3"}
+{"created_at": "Sat Nov 01 11:09:32 +0000 2014", "text": "#FondationLVMH #Paris #FranckGehry #YSL @ Fondation Louis Vuitton http://t.co/7cc3cSA6ep"}
+{"created_at": "Sat Nov 01 11:07:59 +0000 2014", "text": "#FondationLVMH #Paris #FranckGehry @ Fondation Louis Vuitton http://t.co/cJXjyqyFvP"}
+{"created_at": "Sat Nov 01 10:50:50 +0000 2014", "text": "#FondationLVMH #Paris #FranckGehry @ Fondation Louis Vuitton http://t.co/DNyiMOGCF8"}
+{"created_at": "Thu Oct 30 20:01:39 +0000 2014", "text": "RT @jclagarde: #RassemblementUDI heureux d'\u00eatre \u00e0 Bordeaux avec @yvesjego @philippemeynard @ASebtonTalence @leroy_fabien @UDI_off http://t.\u2026"}
+{"created_at": "Mon Oct 27 21:08:53 +0000 2014", "text": "RT @itele: #Ebola &gt; on connait d\u00e9sormais le patient z\u00e9ro, Emile Oumaouno, un petit gar\u00e7on guin\u00e9en de 1 an http://t.co/mYNWtP2mdF http://t.c\u2026"}
+{"created_at": "Sun Oct 26 07:57:28 +0000 2014", "text": "RT @afpfr: [CARTE]\u00a0Un sentier de randonn\u00e9e de 130km en banlieue parisienne #AFP http://t.co/XSvk7AlZru"}
+{"created_at": "Thu Oct 23 20:54:41 +0000 2014", "text": "@BRosmini Aeroplastics et le Wiels ^^ apr\u00e8s tout d\u00e9pend quel genre d'art contemporain tu aimes"}
+{"created_at": "Sun Oct 19 21:38:21 +0000 2014", "text": "@pierrebornand je n'ai fait que d\u00e9fendre mon candidat face \u00e0 vos attaques assez dures ^^ vous avez gagn\u00e9 maintenant passons \u00e0 la suite #Unis"}
+{"created_at": "Sat Oct 18 15:27:13 +0000 2014", "text": "Je n'arrive pas \u00e0 comprdre ces personnes avc 1 ego si surdimensionn\u00e9 qu'il pense que l'on regarde leur profil ss passer par la TL #Navrant"}
+{"created_at": "Sat Oct 18 15:22:01 +0000 2014", "text": "@alpahufa Exemple je suis Benjamin mais pas Nico. Toujours bizarre? http://t.co/hdm5ljkJBJ"}
+{"created_at": "Sat Oct 18 15:20:38 +0000 2014", "text": "@alpahufa Fnctmnt 2 Twitter : tu vois les tweets de tes amis Je suis Thomas, je vois ses tweets Et now tu vois mm les questions dc la tienne"}
+{"created_at": "Sat Oct 18 15:16:00 +0000 2014", "text": "@alpahufa La r\u00e9ponse de Thomas est apparue dans ma TL, tu veux aussi une capture d'\u00e9cran?.. Je peux s'il faut une preuve pour r\u00e9pondre now.."}
+{"created_at": "Sat Oct 18 15:11:21 +0000 2014", "text": "@alpahufa --\""}
+{"created_at": "Sat Oct 18 15:02:03 +0000 2014", "text": "@alpahufa Il est juste apparu dans ma TL vu que l'on a des amis en commun"}
+{"created_at": "Sat Oct 18 14:56:24 +0000 2014", "text": "@alpahufa Je trouve juste que tu prends vite la mouche. Quand tu n'es pas d'accord avec quelque chose tu t'\u00e9nerves direct, c'est dommage"}
+{"created_at": "Sat Oct 18 14:53:48 +0000 2014", "text": "@alpahufa @mlnroussel @Modorange @MichelGrigori Je pense qu'elle disait qu'il \u00e9tait plus intelligent de laisser faire tout simplement"}
+{"created_at": "Sat Oct 18 14:51:47 +0000 2014", "text": "@alpahufa Euh non du tout, et \"Vos\" \u00e9tait pour la la Team Lagarde pas pour toi personnellement."}
+{"created_at": "Sat Oct 18 14:46:04 +0000 2014", "text": "@alpahufa Vu certaines de vos \"attaques\" qui \u00e9taient assez perso aussi, je pense que tout le monde s'y retrouve."}
+{"created_at": "Sat Oct 18 14:40:16 +0000 2014", "text": "@alpahufa C'est \u00e7a les \"guerres internes\" apr\u00e8s il faut passer sinon on avancera jamais ^^ Je n'ai pas envie d'une \"story UMP bis\""}
+{"created_at": "Sat Oct 18 13:26:50 +0000 2014", "text": "@alpahufa Je vais tr\u00e8s bien et toi ? Mais je pensais que l'unit\u00e9 c'\u00e9tait d'accepter tout le monde ^^"}
+{"created_at": "Sat Oct 18 13:24:21 +0000 2014", "text": "RT @Raphael_Lacaule: Le @PlessisRobinson en 3\u00e8me position des r\u00e9sultats google pour l'\"urbanisme en Europe\" #villemod\u00e8le.@PhilippePemezec h\u2026"}
+{"created_at": "Sat Oct 18 13:21:23 +0000 2014", "text": "@alpahufa Tu ne pr\u00f4nes pas tellement le rassemblement l\u00e0..."}
+{"created_at": "Sat Oct 18 07:20:19 +0000 2014", "text": "RT @lemondefr: Collectivit\u00e9s : la baisse des dotations compens\u00e9e par des aides \u00e0 l'investissement http://t.co/IzAUjSP8YV"}
+{"created_at": "Sat Oct 18 07:17:05 +0000 2014", "text": "RT @yvesjego: Merci \u00e0 la #GenerationUDI qui nous a apport\u00e9 un soutien enthousiaste pour ce 1er tour. Bon courage @jclagarde et @Herve_Morin\u2026"}
+{"created_at": "Fri Oct 17 04:50:46 +0000 2014", "text": "#SalonDeLAutomobile2014 #Paris http://t.co/ue2RTFhBCW"}
+{"created_at": "Thu Oct 16 21:11:54 +0000 2014", "text": "Hum #sympa \u201c@infosActus: La cabine d'un Boeing 757 se fissure en plein vol ! http://t.co/uVoOVT8oRw - lepoint\u201d"}
+{"created_at": "Thu Oct 16 21:09:12 +0000 2014", "text": "RT @infos140: \ud83d\udd34 QUALIT\u00c9 DE VIE M\u00e9tropoles et villes moyennes de l\u2019Ouest et du Sud-Ouest sont favoris\u00e9es (Insee Premi\u00e8re @agenceIDE) http://\u2026"}
+{"created_at": "Thu Oct 16 21:07:10 +0000 2014", "text": "Apres avoir vot\u00e9 @yvesjego au 1er tour et fier de l'avoir fait, je voterai @jclagarde au second #FamilleUnieUDI"}
+{"created_at": "Thu Oct 16 19:52:16 +0000 2014", "text": "RT @Guxllaume: C'est \u00e0 la mode le voile \u00e0 Villeurbanne ? C'est abus\u00e9."}
+{"created_at": "Thu Oct 16 19:51:14 +0000 2014", "text": "RT @olivierrioult: Les d\u00e9tracteurs de @EmmanuelMacron sont insupportables : ce st les m\u00eames qui r\u00e9clament que les hom po s'expriment sans l\u2026"}
+{"created_at": "Thu Oct 16 19:16:19 +0000 2014", "text": "Belle campagne d'@yvesjego, de @Chantal_Jouanno &amp; de toute l'\u00e9quipe @LaGenerationUDI Bravo \u00e0 @jclagarde &amp; @Herve_Morin @UDI_off"}
+{"created_at": "Thu Oct 16 18:50:20 +0000 2014", "text": "#SalonDeLAutomobile2014 #RollsRoyce http://t.co/gGAVw4h0zT"}
+{"created_at": "Thu Oct 16 18:48:06 +0000 2014", "text": "#SalonDeLAutomobile2014 #BMW #Paris http://t.co/v4WmY2YyVv"}
+{"created_at": "Thu Oct 16 18:27:49 +0000 2014", "text": "#SalonDeLAutomobile2014 #Paris #EnRoute @ Al\u00e9sia http://t.co/XCIiBU9QLO"}
+{"created_at": "Thu Oct 16 14:25:07 +0000 2014", "text": "58,72% de participation pour le 1er tour de l'\u00e9lection du Pr\u00e9sident de l'#UDI @LaGenerationUDI @UDI_off"}
+{"created_at": "Wed Oct 15 09:12:32 +0000 2014", "text": "@JRousselleEU @cle_mrn @RoyalSegolene Surtout la qualit\u00e9, vu la v\u00e9tust\u00e9 du r\u00e9seau RER et du m\u00e9tro francilien. #ContentDAvoirDeTesNewsJR"}
+{"created_at": "Wed Oct 15 04:51:32 +0000 2014", "text": "RT @cle_mrn: Ce n'est pas les autoroutes qu'il faut rendre gratuites le week-end, mais les transports en commun et les TER. @RoyalSegolene"}
+{"created_at": "Wed Oct 15 04:48:55 +0000 2014", "text": "@Guxllaume Jeudi 19h30 \u00e0 cause des retards d'envoi du mat\u00e9riel de vote pour certains militants"}
+{"created_at": "Sun Oct 12 17:47:47 +0000 2014", "text": "@Liamapi Mea Culpa ce n'\u00e9tait pas voulu Errare Humanum Est. Je te laisse regarder dans le dico pour comprendre ^^"}
+{"created_at": "Sun Oct 12 17:33:58 +0000 2014", "text": "Il faudrait vraiment faire une \u00e9tude sociologique pour comprendre comment le ridicule ne peut pas tuer #shameOnYou http://t.co/HF684Boyas"}
+{"created_at": "Sun Oct 12 17:33:43 +0000 2014", "text": "@Liamapi #ShameOnYou"}
+{"created_at": "Sun Oct 12 17:27:42 +0000 2014", "text": "@Liamapi Il n'a jamais \u00e9t\u00e9 question de perdre ou non, mais de voir l'ignorance de certain ou plus pr\u00e9cis\u00e9ment de voir ton ignorance"}
+{"created_at": "Sun Oct 12 16:48:36 +0000 2014", "text": "@Liamapi #Immaturit\u00e9Bonjour #Teenager"}
+{"created_at": "Sun Oct 12 14:23:16 +0000 2014", "text": "@Liamapi Il t'a fait  la morale sur ta vie de couple &amp; il a eu raison. &amp; comme je suis en couple tu ne peux pas rep que je suis 1 p...."}
+{"created_at": "Sun Oct 12 12:11:13 +0000 2014", "text": "@Liamapi Je te laisse relire. \u00c7a me para\u00eet simple \u00e0 comprendre pourtant"}
+{"created_at": "Sun Oct 12 10:03:20 +0000 2014", "text": "@Liamapi En m\u00eame temps il n'a pas tort et pourtant je suis en couple ;-) #LOL"}
+{"created_at": "Sat Oct 11 08:57:23 +0000 2014", "text": "RT @PompidouMetz: Ce week-end \u00e0 #LaCapsuleCPM participez \u00e0 l\u2019\u00e9laboration d\u2019une fresque ! C\u2019est \u00e0 14:00 et c\u2019est gratuit ! http://t.co/a9sX1\u2026"}
+{"created_at": "Fri Oct 10 23:56:10 +0000 2014", "text": "RT @ActuDirect: \u00c9cotaxe : la \u00e9ni\u00e8me reculade du gouvernement http://t.co/EPuFDDrzsc #Economie #Gouvernement http://t.co/Xw4UR3S6Xp"}
+{"created_at": "Thu Oct 09 21:21:26 +0000 2014", "text": "@Guxllaume Tu ne devrais m\u00eame plus r\u00e9agir \u00e0 ce qu'il dit Guillaume , c'est tellement plat et sans #Humour @rxmx__"}
+{"created_at": "Thu Oct 09 20:56:19 +0000 2014", "text": "@Guxllaume @rxmx__ #Prejudice"}
+{"created_at": "Wed Oct 08 20:23:01 +0000 2014", "text": "@Guxllaume R\u00e9\u00e9crire ne veut pas dire plus d'union entre les couples homosexuels mais juste enlever le mot mariage et non \u00e0 la PMA/GPA"}
+{"created_at": "Tue Oct 07 20:43:14 +0000 2014", "text": "@RaymondThiebaut J'en apprend tous les jours... #D\u00e9ception"}
+{"created_at": "Tue Oct 07 20:42:01 +0000 2014", "text": "Philip Morris \"Celui qui doit mourir du tabac doit le faire apr\u00e8s avoir pay\u00e9 le plus d'imp\u00f4ts\" #cashinvestigation #OnEstO\u00f9L\u00e0?"}
+{"created_at": "Tue Oct 07 20:38:11 +0000 2014", "text": "Philip Morris \"Les morts li\u00e9s au tabac sont bons pour les finances publiques car moins de retrait\u00e9s\" #cashinvestigation #Outr\u00e9 #Infligent"}
+{"created_at": "Mon Oct 06 13:01:27 +0000 2014", "text": "@LeCro_magnon @m_lemasson Ne jamais dire jamais :-) Apr\u00e8s personnellement je m'en fiche"}
+{"created_at": "Mon Oct 06 13:00:48 +0000 2014", "text": "@m_lemasson @Thomas_J21 Et rien \u00e0 voir avec G\u00e9n\u00e9ration UDI ou pas ;-) Mes tweets n'engagent que moi ;-)"}
+{"created_at": "Mon Oct 06 12:59:45 +0000 2014", "text": "@Thomas_J21 @m_lemasson Ce n'est pas d\u00e9fendre ou non c'est juste expliquer ce qui a \u00e9t\u00e9 dit et que l'on arr\u00eate d'en parler ;-)"}
+{"created_at": "Mon Oct 06 12:47:25 +0000 2014", "text": "RT @Conducteur_SNCF: La #geolocalisation des trains #SNCF en temps r\u00e9el avec des donn\u00e9es internes fiables c'est l\u00e0&gt; http://t.co/49ZkmRZ3GD \u2026"}
+{"created_at": "Mon Oct 06 12:45:59 +0000 2014", "text": "RT @Le_Figaro: L'\u00e9pave retrouv\u00e9e au large de Ha\u00efti n'est pas le bateau de Christophe Colomb http://t.co/w4KGO7ifbC"}
+{"created_at": "Mon Oct 06 12:45:20 +0000 2014", "text": "RT @Cdesarts: [Actu] Xavier Antin : le design comme structure de langage http://t.co/Ty2CVVI9MF #art"}
+{"created_at": "Mon Oct 06 12:44:09 +0000 2014", "text": "@m_lemasson Euh si il l'a fait... Il ne touchera pas \u00e0 la loi et inscription dans la constitution PMA pour les h\u00e9t\u00e9ros et GPA interdite"}
+{"created_at": "Fri Oct 03 22:55:42 +0000 2014", "text": "@BenLbr @Guxllaume Dans ce cas ne r\u00e9ponds pas \u00e0 la question ;-) et puis perso je m'\u00e9tais pos\u00e9 la mm r\u00e9flexion, apr\u00e8s je ne juge personne :-)"}
+{"created_at": "Fri Oct 03 22:33:00 +0000 2014", "text": "@Guxllaume @BenLbr On faisait sans wifi et t\u00e9l\u00e9phone portable avant aussi... #MauvaiseR\u00e9ponseMister"}
+{"created_at": "Fri Oct 03 22:30:50 +0000 2014", "text": "@rxmx__ @Liamapi Laisse tomber @Guxllaume ils ne pensent qu'\u00e0 \u00e7a sans s'occuper du fond politique Mais bon il faut que jeunesse se passe :-)"}
+{"created_at": "Fri Oct 03 04:57:40 +0000 2014", "text": "RT @LeNouvelObs: Il \u00e9chappe de peu \u00e0 la mort. Sa femme vient le chercher et le tue &gt;&gt; http://t.co/byzXHZFZ5J http://t.co/YxbyoEFQxk"}
+{"created_at": "Wed Oct 01 17:37:11 +0000 2014", "text": "@FouquetPierre @ActusPolitiques Voil\u00e0 c'est fait G\u00e9rard Larcher est devenu pr\u00e9sident du S\u00e9nat avec les voix de l'UMP et de l'UDI #Pr\u00e9visible"}
+{"created_at": "Wed Oct 01 15:21:20 +0000 2014", "text": "@FouquetPierre @ActusPolitiques Voil\u00e0 Voil\u00e0 @fzocchetto vient de demander une suspension de s\u00e9ance pour n\u00e9gocier avec l'#UMP, eh oui ^^"}
+{"created_at": "Wed Oct 01 14:38:04 +0000 2014", "text": "@FouquetPierre @ActusPolitiques Il faudra alors m'expliquer comment @fzocchetto peut devenir pr\u00e9sident... #Impossible"}
+{"created_at": "Wed Oct 01 14:35:49 +0000 2014", "text": "@FouquetPierre @ActusPolitiques D\u00e9j\u00e0 UMP 143 membres ensuite l'UDI va s'allier avec l'UMP en demandant des postes et hop Larcher pr\u00e9sident"}
+{"created_at": "Wed Oct 01 05:30:29 +0000 2014", "text": "@FouquetPierre @ActusPolitiques Euh... Tu sais compter? 31udi-uc contre 130 UMP.. #Impossible"}
+{"created_at": "Tue Sep 30 18:48:56 +0000 2014", "text": "RT @Le_Figaro: Chiffre choc : la moiti\u00e9 de ces animaux sauvages ont disparu en 50 ans http://t.co/TJjXJaQR7S http://t.co/yAyCT1p4vN"}
+{"created_at": "Mon Sep 29 21:10:19 +0000 2014", "text": "@sarahmanon Bon s\u00e9ance t\u00e9l\u00e9phonique alors ;-) en attendant The Dinner"}
+{"created_at": "Mon Sep 29 21:05:29 +0000 2014", "text": "@sarahmanon @guillaume_ramm Merci pou cette image :-p Gros bisous ma Sarah. Je t'envoie tes droits d'auteur (un Resto cette semaine?)"}
+{"created_at": "Mon Sep 29 21:04:08 +0000 2014", "text": "@guillaume_ramm Justement l'aspect subtil de mon tweet t'a \u00e9chapp\u00e9 ;-)"}
+{"created_at": "Mon Sep 29 20:59:00 +0000 2014", "text": "@guillaume_ramm Quel argument #JaiPeur ;-)"}
+{"created_at": "Mon Sep 29 20:51:38 +0000 2014", "text": "@guillaume_ramm @Guxllaume Ce que j'ai fait, m\u00eame si le fran\u00e7ais \"moyen\" comme tu dis n'a s\u00fbrement pas regard\u00e9 ce documentaire ;-)"}
+{"created_at": "Mon Sep 29 20:49:36 +0000 2014", "text": "RT @sarahmanon: J'ai toujours choisi en fonction des id\u00e9es. Aujourd'hui, le projet #UDI le plus abouti = @yvesjego @Chantal_Jouanno #Genera\u2026"}
+{"created_at": "Mon Sep 29 20:47:53 +0000 2014", "text": "@guillaume_ramm @Guxllaume Je l'ai regard\u00e9 sous un angle plus objectif s\u00fbrement ;-) \u00e7a me donne encore - envie de voter pour eux apr\u00e8s"}
+{"created_at": "Mon Sep 29 20:43:26 +0000 2014", "text": "@guillaume_ramm @Guxllaume Pas \u00e0 la gloire nn + C'est un doc sur la strat\u00e9gie du FN. Au contraire on voit que c'est un parti dangereux"}
+{"created_at": "Mon Sep 29 20:23:52 +0000 2014", "text": "@guillaume_ramm @Guxllaume Ce n'est pas faire de la pub. Ils ont \u00e9lu donc que l'on en parle ok. Mais que 2 alors que l'UDI une quarantaine.."}
+{"created_at": "Mon Sep 29 18:57:24 +0000 2014", "text": "Ah.. Vu la #pluie qui tombe notre #pr\u00e9sident doit \u00eatre de sortie et peut-\u00eatre m\u00eame en #scooter. #C\u00e9taitFacile ;-)"}
+{"created_at": "Sun Sep 28 20:20:56 +0000 2014", "text": "RT @LaGenerationUDI: Inviter vos amis \u00e0 LIKER la #G\u00e9n\u00e9rationUDI sur Facebook avec @yvesjego @Chantal_Jouanno\nhttps://t.co/VniiF8o37q http:/\u2026"}
+{"created_at": "Sun Sep 28 16:51:23 +0000 2014", "text": "#Parc #T\u00eateDOr #Lyon #Sun @ Parc de la T\u00eate d\u2019Or http://t.co/89Lx5F4AiM"}
+{"created_at": "Sun Sep 28 16:08:52 +0000 2014", "text": "\"Le Gvt doit en compte les r\u00e9sultats des \u00e9lections\" @yvesjego @BFMTV @LaGenerationUDI @InfosUDI"}
+{"created_at": "Sun Sep 28 13:59:31 +0000 2014", "text": "#Lyon #Cit\u00e9Internationale @ Cit\u00e9 internationale http://t.co/I07uGp8nI1"}

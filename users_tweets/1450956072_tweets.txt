@@ -1,0 +1,600 @@
+{"created_at": "Mon Jan 25 20:43:57 +0000 2016", "text": "#newmoononmonday @ Ville de Villeneuve lez Avignon https://t.co/52fp8iAzh7"}
+{"created_at": "Sun Jan 24 18:34:50 +0000 2016", "text": "#martinlutherking https://t.co/J2O6UUOJoX"}
+{"created_at": "Sun Jan 24 16:43:20 +0000 2016", "text": "Superbe g\u00e2teau lecarnetdeva @ Ville de Villeneuve lez Avignon https://t.co/DyTHh0hvZK"}
+{"created_at": "Thu Jan 21 19:03:13 +0000 2016", "text": "#davidbowie #lepetitprince https://t.co/BiCqPcf8fh"}
+{"created_at": "Wed Jan 20 21:32:26 +0000 2016", "text": "Jules &amp; Joe superbe tableau de Yvon Amiel et Antoine Le Pilote #jb17 #jb17forever #julesbianchi\u2026 https://t.co/wQuuEuaYUD"}
+{"created_at": "Wed Jan 20 16:35:36 +0000 2016", "text": "Je vois de bleu et de l'orange partout @ Domazam https://t.co/duxD8RfCdo"}
+{"created_at": "Mon Jan 18 09:05:28 +0000 2016", "text": "Focus sur les chemin\u00e9es suspendues, ou la magie du feu https://t.co/eysJNa7nmb via @HouzzFR suite a discussion de saledi @tochfournier"}
+{"created_at": "Mon Jan 18 07:06:32 +0000 2016", "text": "Superbe lever de soleil @ Villeneuve-l\u00e8s-Avignon https://t.co/LRhY6Fp7xg"}
+{"created_at": "Sun Jan 17 11:06:22 +0000 2016", "text": "#montventoux @ Parcours de sant\u00e9 de Chusclan. https://t.co/ucCLdOdY3P"}
+{"created_at": "Sun Jan 17 11:04:31 +0000 2016", "text": "Sortie dominicale entre Amis @ Parcours de sant\u00e9 de Chusclan. https://t.co/17qDSOQXeH"}
+{"created_at": "Thu Jan 14 18:04:30 +0000 2016", "text": "Just posted a photo https://t.co/d28IsIQFAx"}
+{"created_at": "Thu Jan 14 17:41:58 +0000 2016", "text": "Just posted a photo @ New York, New York https://t.co/W8PgQgUqI6"}
+{"created_at": "Wed Jan 13 20:15:41 +0000 2016", "text": "Excellent #coterotie #legalletblanc @ Villeneuve-l\u00e8s-Avignon https://t.co/9KAhxOVc7D"}
+{"created_at": "Tue Jan 12 13:50:18 +0000 2016", "text": "L'\u00e9chec est un diplome https://t.co/3igHH4F6m3"}
+{"created_at": "Sun Jan 10 13:15:01 +0000 2016", "text": "Just posted a photo @ Barbantane https://t.co/psTPeJi3Rf"}
+{"created_at": "Sat Jan 09 19:03:14 +0000 2016", "text": "Just posted a photo https://t.co/iGfXqa3AGf"}
+{"created_at": "Sat Jan 09 18:49:23 +0000 2016", "text": "P\u00e9pite d'or #truffe @ Roumoules Beach https://t.co/5atGKq9ur0"}
+{"created_at": "Mon Jan 04 12:57:31 +0000 2016", "text": "#starwars #adidas #adidasoriginals #adidassuperstar elles sont finalement arriv\u00e9 apr\u00e8s la\u2026 https://t.co/6RvCYhpiTt"}
+{"created_at": "Sun Jan 03 17:44:55 +0000 2016", "text": "Just posted a photo @ Frigolet Abbey https://t.co/OxKMpR4lO1"}
+{"created_at": "Sun Jan 03 17:42:58 +0000 2016", "text": "#montventoux @ Frigolet Abbey https://t.co/0RHV9HVv8p"}
+{"created_at": "Sun Jan 03 12:53:15 +0000 2016", "text": "Just posted a photo @ Frigolet Abbey https://t.co/CGUMfLpXjX"}
+{"created_at": "Sun Jan 03 12:51:11 +0000 2016", "text": "Sortie entre amis @ Frigolet Abbey https://t.co/dKJHKywPrk"}
+{"created_at": "Sat Jan 02 17:10:26 +0000 2016", "text": "Just posted a photo @ Ville de Villeneuve lez Avignon https://t.co/zsMh0cUZnH"}
+{"created_at": "Sat Jan 02 17:08:58 +0000 2016", "text": "Just posted a photo @ Villeneuve-l\u00e8s-Avignon https://t.co/DWlZtVvIb5"}
+{"created_at": "Sat Jan 02 17:07:04 +0000 2016", "text": "Just posted a video @ Villeneuve-l\u00e8s-Avignon https://t.co/3YKeCi3Wl3"}
+{"created_at": "Thu Dec 31 20:03:54 +0000 2015", "text": "Mathusalem #lesmeysonniers #chapoutier merci Olivier et Jeanne @ Co2 Restaurant https://t.co/xP9zN1xhf2"}
+{"created_at": "Wed Dec 30 18:02:14 +0000 2015", "text": "Just posted a photo @ Barceloneta Beach https://t.co/Bc0IYjXNgp"}
+{"created_at": "Wed Dec 30 18:00:45 +0000 2015", "text": "Le poisson de Fifi @ Pullman Hotel Barcelona https://t.co/Ga5P8YFFhl"}
+{"created_at": "Tue Dec 29 19:54:34 +0000 2015", "text": "Just posted a photo @ Passeig de Gr\u00e0cia, Barcelona https://t.co/ut6J8PWKCn"}
+{"created_at": "Sun Dec 27 11:32:42 +0000 2015", "text": "Arriv\u00e9e du km vertical @ Club Med Chamonix-Mont Blanc https://t.co/ajjPbY4NfL"}
+{"created_at": "Sun Dec 27 11:27:33 +0000 2015", "text": "Apr\u00e8s l'effort du KM vertical le r\u00e9confort @ Club Med Chamonix-Mont Blanc https://t.co/eVTDbCS64n"}
+{"created_at": "Sun Dec 27 07:58:40 +0000 2015", "text": "Just posted a photo @ Club Med Chamonix-Mont Blanc https://t.co/uCasWqYqjR"}
+{"created_at": "Sun Dec 27 07:50:12 +0000 2015", "text": "Just posted a photo @ Montenvers - Mer de Glace https://t.co/PBxJl3bLON"}
+{"created_at": "Sun Dec 27 07:45:22 +0000 2015", "text": "Just posted a photo @ Montenvers - Mer de Glace https://t.co/V6kgcU4Yuk"}
+{"created_at": "Sun Dec 27 07:43:37 +0000 2015", "text": "Just posted a photo @ Montenvers - Mer de Glace https://t.co/KJyXi694ni"}
+{"created_at": "Sun Dec 27 07:33:41 +0000 2015", "text": "Just posted a photo @ Club Med Chamonix-Mont Blanc https://t.co/hTeBvldtYO"}
+{"created_at": "Sun Dec 27 07:32:49 +0000 2015", "text": "Just posted a photo @ Club Med Chamonix-Mont Blanc https://t.co/cHF0Akzra0"}
+{"created_at": "Sat Dec 26 14:38:32 +0000 2015", "text": "Just posted a photo @ Montenvers - Mer de Glace https://t.co/PIvvmbFBwH"}
+{"created_at": "Sat Dec 26 14:36:29 +0000 2015", "text": "Just posted a photo @ Montenvers - Mer de Glace https://t.co/BJu00vgvOR"}
+{"created_at": "Sat Dec 26 13:18:09 +0000 2015", "text": "Just posted a photo @ Club Med Chamonix-Mont Blanc https://t.co/46YzL4nSJd"}
+{"created_at": "Sat Dec 26 09:14:30 +0000 2015", "text": "Just posted a photo https://t.co/C4L96T6MI8"}
+{"created_at": "Sat Dec 26 09:12:47 +0000 2015", "text": "Joyeux Noel @ Club Med Chamonix-Mont Blanc https://t.co/TZ9x2VfRPE"}
+{"created_at": "Sat Dec 26 07:13:18 +0000 2015", "text": "Just posted a photo @ Saint-Gervais Mont-Blanc https://t.co/58U4l4Y9m2"}
+{"created_at": "Fri Dec 25 11:38:50 +0000 2015", "text": "#equipedefrancedeskicross @ Grands Montets 3300m https://t.co/iS2fjFOvQO"}
+{"created_at": "Fri Dec 25 09:30:08 +0000 2015", "text": "#glaciergrandsmonet #montblanc #chamonix @ Les Grands Montets, 3260m https://t.co/4iRDrXIbdG"}
+{"created_at": "Thu Dec 24 13:10:55 +0000 2015", "text": "#glaciergrandsmonet #chamonix @ Grands Montets 3300m https://t.co/wXxGyOZiNq"}
+{"created_at": "Thu Dec 24 13:09:06 +0000 2015", "text": "Just posted a photo @ Chamonix-Mont-Blanc, Rhone-Alpes, France https://t.co/l8ckb3TwxC"}
+{"created_at": "Thu Dec 24 11:19:32 +0000 2015", "text": "#chamonix #montblanc #glaciergrandsmonet @ Grands Montets 3300m https://t.co/PqCX15xKxm"}
+{"created_at": "Tue Dec 22 22:20:03 +0000 2015", "text": "#donpapa  au top @ Ville de Villeneuve lez Avignon https://t.co/Y3qmSUwLEr"}
+{"created_at": "Tue Dec 22 21:54:16 +0000 2015", "text": "Kudetat a 4 @ Ville de Villeneuve lez Avignon https://t.co/Ku2rf1r7xO"}
+{"created_at": "Mon Dec 21 18:16:02 +0000 2015", "text": "\u00c9clair revisit\u00e9 @ Chalet 4810 p\u00e9pites et gourmandises https://t.co/UZbdr95mJV"}
+{"created_at": "Mon Dec 21 18:00:45 +0000 2015", "text": "Un sapin \u00e0 croquer @ Chalet 4810 p\u00e9pites et gourmandises https://t.co/QC15xHsNoy"}
+{"created_at": "Mon Dec 21 17:57:37 +0000 2015", "text": "Arbre de no\u00ebl en chocolat @ Chalet 4810 p\u00e9pites et gourmandises https://t.co/a0oSVgESYA"}
+{"created_at": "Fri Dec 18 14:03:29 +0000 2015", "text": "Je viens de soutenir Premi\u00e8re monographie de Benjamin Spark sur KissKissBankBank https://t.co/oP6jof0iUa via @Kissbankers"}
+{"created_at": "Wed Dec 16 19:31:59 +0000 2015", "text": "#starwars @tochfournier @ Napoli Mia https://t.co/ESWy46Ya0m"}
+{"created_at": "Sun Dec 13 08:13:31 +0000 2015", "text": "Sortie dans la garrigue avec mon pote derri\u00e8re nous #leventoux @ Villeneuve-l\u00e8s-Avignon https://t.co/PvovQcjdiQ"}
+{"created_at": "Sat Dec 12 16:16:07 +0000 2015", "text": "#stephaneortelli #12hsepang #audisport victoire de la N17 f\u00e9licitations @ Sepang International\u2026 https://t.co/6YJQR5Xszn"}
+{"created_at": "Sat Dec 12 16:14:54 +0000 2015", "text": "#stephaneortelli #12hsepang #audisport victoire de la N17 f\u00e9licitations @ Sepang International\u2026 https://t.co/a9AIEWq6ly"}
+{"created_at": "Sat Dec 12 16:13:05 +0000 2015", "text": "#stephaneortelli #12hsepang #audisport la pression retombe  des derni\u00e8re minutes f\u00e9licitations\u2026 https://t.co/o3cyRoq0xc"}
+{"created_at": "Sat Dec 12 16:11:10 +0000 2015", "text": "#stephaneortelli #12hsepang #audisport la pression des 5 derni\u00e8re minutes f\u00e9licitations pour\u2026 https://t.co/x7VudYlley"}
+{"created_at": "Sat Dec 12 07:30:24 +0000 2015", "text": "@TheAvenerMusic https://t.co/5YiRkoy0Uo"}
+{"created_at": "Fri Dec 11 22:10:45 +0000 2015", "text": "@theavenermusic @ La foire Alpexpo https://t.co/rTQAdDIhaY"}
+{"created_at": "Fri Dec 11 22:07:58 +0000 2015", "text": "@theavenermusic excellent musicien @ La foire Alpexpo https://t.co/AjGu96goCh"}
+{"created_at": "Fri Dec 11 22:07:15 +0000 2015", "text": "@theavenermusic @ La foire Alpexpo https://t.co/2sQTIaJ9TW"}
+{"created_at": "Fri Dec 11 22:06:32 +0000 2015", "text": "@theavenermusic un autre a hommage \u00e0 Daft Punk around the World @ La foire Alpexpo https://t.co/YuYSfTe1nj"}
+{"created_at": "Fri Dec 11 22:01:58 +0000 2015", "text": "@theavenermusic est \u00e9norme Rock your body @ La foire Alpexpo https://t.co/d3hSyNPTOC"}
+{"created_at": "Fri Dec 11 21:58:54 +0000 2015", "text": "@theavenermusic c'est le feu \u00e0 Grenoble @ La foire Alpexpo https://t.co/3BWt8uX3Rq"}
+{"created_at": "Fri Dec 11 21:54:01 +0000 2015", "text": "@theavenermusic @ La foire Alpexpo https://t.co/6JiuyrIWT2"}
+{"created_at": "Fri Dec 11 21:52:59 +0000 2015", "text": "\u00c9tonnant @theavenermusic @ La foire Alpexpo https://t.co/k2re2a0RTz"}
+{"created_at": "Fri Dec 11 21:45:06 +0000 2015", "text": "@theavenermusic @ La foire Alpexpo https://t.co/VXdsoEiPiK"}
+{"created_at": "Fri Dec 11 21:42:30 +0000 2015", "text": "@theavenermusic @ La foire Alpexpo https://t.co/dt3gZd2C28"}
+{"created_at": "Fri Dec 11 21:41:43 +0000 2015", "text": "@theavenermusic @ La foire Alpexpo https://t.co/H4CcviVchj"}
+{"created_at": "Fri Dec 11 21:40:29 +0000 2015", "text": "@theavenermusic c'est plein et ca danse partout fade out lines @ La foire Alpexpo https://t.co/44ugSQQsvf"}
+{"created_at": "Fri Dec 11 21:39:19 +0000 2015", "text": "@theavenermusic archive7 fade out lines @ La foire Alpexpo https://t.co/cgi3o8Mcgl"}
+{"created_at": "Fri Dec 11 21:34:58 +0000 2015", "text": "@theavenermusic @ La foire Alpexpo https://t.co/m1YOSd4y2A"}
+{"created_at": "Fri Dec 11 21:34:16 +0000 2015", "text": "Bel hommage \u00e0 Moby @theavenermusic @ La foire Alpexpo https://t.co/ELpUMvarB3"}
+{"created_at": "Fri Dec 11 21:30:45 +0000 2015", "text": "@theavenermusic @ La foire Alpexpo https://t.co/MJKk37oMeU"}
+{"created_at": "Fri Dec 11 21:29:57 +0000 2015", "text": "@theavenermusic une b\u00eate de sc\u00e8ne @ La foire Alpexpo https://t.co/tbRwrqHz92"}
+{"created_at": "Fri Dec 11 21:26:37 +0000 2015", "text": "@theavenermusic let myself Go @ La foire Alpexpo https://t.co/ams0Kc7Pwy"}
+{"created_at": "Fri Dec 11 21:22:10 +0000 2015", "text": "@theavenermusic Panama @ La foire Alpexpo https://t.co/RYyYWpHy9N"}
+{"created_at": "Fri Dec 11 21:20:48 +0000 2015", "text": "@theavenermusic \u00e9norme @ La foire Alpexpo https://t.co/ZoCt6lkVm2"}
+{"created_at": "Fri Dec 11 21:19:24 +0000 2015", "text": "@theavenermusic Panama @ La foire Alpexpo https://t.co/SEQJxkZmfC"}
+{"created_at": "Fri Dec 11 21:18:41 +0000 2015", "text": "@theavenermusic Panama @ La foire Alpexpo https://t.co/Yq1NYKqiSV"}
+{"created_at": "Fri Dec 11 21:17:57 +0000 2015", "text": "@theavenermusic @ La foire Alpexpo https://t.co/9AWbJCHssZ"}
+{"created_at": "Fri Dec 11 21:16:55 +0000 2015", "text": "@theavenermusic @ La foire Alpexpo https://t.co/8g093xbZqW"}
+{"created_at": "Fri Dec 11 21:15:48 +0000 2015", "text": "@theavenermusic @ La foire Alpexpo https://t.co/gZjZm5IabR"}
+{"created_at": "Fri Dec 11 21:15:07 +0000 2015", "text": "@theavenermusic @ La foire Alpexpo https://t.co/vWW6tyW9Jn"}
+{"created_at": "Fri Dec 11 21:14:18 +0000 2015", "text": "@theavenermusic @ La foire Alpexpo https://t.co/yjDV0v0Car"}
+{"created_at": "Fri Dec 11 21:05:14 +0000 2015", "text": "@theavenermusic montage @ La foire Alpexpo https://t.co/Nobd7NubIv"}
+{"created_at": "Fri Dec 11 21:01:02 +0000 2015", "text": "@theavenermusic montage de la sc\u00e8ne @ La foire Alpexpo https://t.co/diZB6UKhSX"}
+{"created_at": "Fri Dec 11 20:55:06 +0000 2015", "text": "@feder_music @ La foire Alpexpo https://t.co/TtDrR2bh3K"}
+{"created_at": "Fri Dec 11 20:53:40 +0000 2015", "text": "@feder_music @ La foire Alpexpo https://t.co/xCMrOkeiJL"}
+{"created_at": "Fri Dec 11 20:53:01 +0000 2015", "text": "@feder_music @ La foire Alpexpo https://t.co/gd8OOOqWTJ"}
+{"created_at": "Fri Dec 11 20:51:55 +0000 2015", "text": "@feder_music @ La foire Alpexpo https://t.co/P5usVRQh6P"}
+{"created_at": "Fri Dec 11 20:51:12 +0000 2015", "text": "@feder_music @ La foire Alpexpo https://t.co/tadX1UIFDy"}
+{"created_at": "Fri Dec 11 20:48:17 +0000 2015", "text": "@feder_music @ La foire Alpexpo https://t.co/1DuBUv78Mo"}
+{"created_at": "Fri Dec 11 20:43:34 +0000 2015", "text": "@feder_music @ La foire Alpexpo https://t.co/RKxoaXLVPQ"}
+{"created_at": "Fri Dec 11 20:41:12 +0000 2015", "text": "@feder_music @ La foire Alpexpo https://t.co/O8ecb01PwN"}
+{"created_at": "Fri Dec 11 20:39:46 +0000 2015", "text": "@feder_music @ La foire Alpexpo https://t.co/CWaEKQTCrt"}
+{"created_at": "Fri Dec 11 20:38:30 +0000 2015", "text": "@feder_music goodbye @ La foire Alpexpo https://t.co/CrmVVINwi5"}
+{"created_at": "Fri Dec 11 20:37:12 +0000 2015", "text": "Feder goodbye @ La foire Alpexpo https://t.co/4gaSOC78Fs"}
+{"created_at": "Fri Dec 11 20:36:18 +0000 2015", "text": "Feder goodbye @ La foire Alpexpo https://t.co/cOsrqkfXok"}
+{"created_at": "Fri Dec 11 20:34:59 +0000 2015", "text": "Feder goodbye @ La foire Alpexpo https://t.co/SzTk53iIaX"}
+{"created_at": "Fri Dec 11 20:33:55 +0000 2015", "text": "Feder goodbye @ La foire Alpexpo https://t.co/Iu2JCLQeTU"}
+{"created_at": "Fri Dec 11 20:33:09 +0000 2015", "text": "Feder @ La foire Alpexpo https://t.co/GwP0rKDjNP"}
+{"created_at": "Fri Dec 11 20:32:12 +0000 2015", "text": "Feder @ La foire Alpexpo https://t.co/rgkShU2nzF"}
+{"created_at": "Fri Dec 11 20:24:50 +0000 2015", "text": "feder @ La foire Alpexpo https://t.co/IFZCCryJsU"}
+{"created_at": "Fri Dec 11 19:40:58 +0000 2015", "text": "Just posted a video @ La foire Alpexpo https://t.co/Rz92NNZbaU"}
+{"created_at": "Fri Dec 11 19:20:56 +0000 2015", "text": "Just posted a video @ La foire Alpexpo https://t.co/dwOR386yc3"}
+{"created_at": "Fri Dec 11 19:17:19 +0000 2015", "text": "Just posted a video @ La foire Alpexpo https://t.co/YTtAlQCxhJ"}
+{"created_at": "Thu Dec 10 06:40:20 +0000 2015", "text": "Just posted a photo @ Mcdonald Lake https://t.co/6RR5g7ctkt"}
+{"created_at": "Mon Dec 07 19:34:34 +0000 2015", "text": "#sainttropez #prayforparis #prayforpeace #prayfortheworld @ Saint Tropez https://t.co/n3uzpTVXX9"}
+{"created_at": "Mon Dec 07 19:28:28 +0000 2015", "text": "Just posted a photo https://t.co/SJZ3T4BqMU"}
+{"created_at": "Mon Dec 07 19:02:24 +0000 2015", "text": "#stephaneortelli #bentley #24hlemans #2001 souvenir @ Le Mans Cathedral https://t.co/2vUWM4qXZW"}
+{"created_at": "Sun Dec 06 15:23:52 +0000 2015", "text": "Just posted a photo @ Villeneuve-l\u00e8s-Avignon https://t.co/NEElktZ5hA"}
+{"created_at": "Sun Dec 06 09:58:18 +0000 2015", "text": "All alone @ Ville de Villeneuve lez Avignon https://t.co/PuQbEO2NqP"}
+{"created_at": "Sun Dec 06 09:50:33 +0000 2015", "text": "Petite sortie sans Amis Kassss hein vaste2001 chris_passelaigues mina_gu2 @ Ville de Villeneuve\u2026 https://t.co/7O83Pp3Fwv"}
+{"created_at": "Sat Dec 05 19:49:45 +0000 2015", "text": "Just posted a photo @ Tha\u00ef Trucks https://t.co/ReJ6ijLPiZ"}
+{"created_at": "Sat Dec 05 19:47:46 +0000 2015", "text": "Just posted a photo @ Tha\u00ef Trucks https://t.co/JLKty2oupx"}
+{"created_at": "Sat Dec 05 13:41:10 +0000 2015", "text": "Just posted a photo @ Ville de Villeneuve lez Avignon https://t.co/0B8PdaAeUt"}
+{"created_at": "Wed Dec 02 10:55:24 +0000 2015", "text": "Je viens de participer au grand jeu #EtHopOnRentreDuPoleNord pour tenter de gagner un week-end exceptionnel. https://t.co/uCCyAM612d"}
+{"created_at": "Sun Nov 29 15:37:11 +0000 2015", "text": "Sortie entre potes @ Ville de Villeneuve lez Avignon https://t.co/Et7Db93OJF"}
+{"created_at": "Sat Nov 28 13:06:30 +0000 2015", "text": "#jesuisparis #jesuisparisien #prayfortheworld #prayforparis https://t.co/3TNsqs858y"}
+{"created_at": "Sat Nov 28 13:02:36 +0000 2015", "text": "Just posted a photo https://t.co/QB8tBX8x5i"}
+{"created_at": "Mon Nov 23 05:50:33 +0000 2015", "text": "#jesuisparis #prayforparis https://t.co/XsSvgsJTrd"}
+{"created_at": "Sun Nov 22 19:49:30 +0000 2015", "text": "Just posted a photo @ Rochefort-du-Gard https://t.co/CZKyWy9TCs"}
+{"created_at": "Sun Nov 22 19:47:53 +0000 2015", "text": "Pr\u00eat https://t.co/KPEdKY2oZO"}
+{"created_at": "Sun Nov 22 07:22:17 +0000 2015", "text": "#jesuisparis #prayforparis #prayforeveryone @ Paris, France https://t.co/orqFTwyPDG"}
+{"created_at": "Sun Nov 22 07:21:07 +0000 2015", "text": "#jesuisparis #asterix @ Paris, France https://t.co/TXfaHEEE4W"}
+{"created_at": "Sun Nov 22 07:18:39 +0000 2015", "text": "#jesuisparis #prayforparis #prayforeveryone @ Paris, France https://t.co/IgbQOjQt0q"}
+{"created_at": "Sat Nov 21 19:28:52 +0000 2015", "text": "Les 2 comp\u00e8res #benoittreluyer #romaindumas #audi #fiawec #6hbahrain #porsche #jesuisparis\u2026 https://t.co/BbNpgiMbYp"}
+{"created_at": "Sat Nov 21 19:18:56 +0000 2015", "text": "#ligier #fiawec #6hbahrain #championdumonde #jesuisparis #prayforparis #gdrive #sambird @ Bahrain\u2026 https://t.co/sevI3IkyG4"}
+{"created_at": "Sat Nov 21 19:15:03 +0000 2015", "text": "#fiawec #6hbahrain #porsche #markweber #championdumonde @ Bahrain International Circuit https://t.co/bXMxb9UzrA"}
+{"created_at": "Sat Nov 21 19:10:42 +0000 2015", "text": "#audi #fiawec #6hbahrain #porsche #jesuisparis #prayforparis @ Bahrain International Circuit https://t.co/C3Sm115xKh"}
+{"created_at": "Sat Nov 21 19:07:44 +0000 2015", "text": "#6hbahrain #fiawec #audi @ Bahrain International Circuit https://t.co/lhlyj7B2x5"}
+{"created_at": "Sat Nov 21 19:05:29 +0000 2015", "text": "#fiawec #6hbahrain @ Bahrain International Circuit https://t.co/JovgiTse5R"}
+{"created_at": "Sat Nov 21 19:02:55 +0000 2015", "text": "#6hbahrain #fiawec #championdumonde #championdumonde #sambird @ Bahrain International Circuit https://t.co/SThRHeRGqY"}
+{"created_at": "Sat Nov 21 19:01:10 +0000 2015", "text": "#6hbahrain #fiawec #gdrive #championdumonde #sambird @ Bahrain International Circuit https://t.co/FRpB21IaIp"}
+{"created_at": "Sat Nov 21 18:49:31 +0000 2015", "text": "#ligier #gdrive #championdumonde #fiawec #6hbahrain #sambird @ Bahrain International Circuit https://t.co/WWqsxSxlxZ"}
+{"created_at": "Sat Nov 21 18:47:31 +0000 2015", "text": "#6hbahrain #fiawec #gdrive #championdumonde #ligier @ Bahrain International Circuit https://t.co/QUhkSPgEum"}
+{"created_at": "Sat Nov 21 18:45:12 +0000 2015", "text": "#ligier #championdumonde #gdrive #fiawec #6hbahrain @ Bahrain International Circuit https://t.co/7JNn12HV50"}
+{"created_at": "Sat Nov 21 18:43:12 +0000 2015", "text": "#6hbahrain #fiawec #gdrive #championdumonde #ligier @ Bahrain International Circuit https://t.co/q3O6dHEEtm"}
+{"created_at": "Sat Nov 21 18:39:56 +0000 2015", "text": "F\u00e9licitations #championdumonde #gdrive #fiawec #6hbahrain @ Bahrain International Circuit https://t.co/Q9EAQMYkaU"}
+{"created_at": "Sat Nov 21 18:37:40 +0000 2015", "text": "Qu'elles sont ces minutes f\u00e9licitations #championdumonde #fiawec #6hbahrain @ Bahrain International\u2026 https://t.co/2mFoEy77fq"}
+{"created_at": "Sat Nov 21 13:50:41 +0000 2015", "text": "Gr\u00eale et soleil @ Villeneuve-l\u00e8s-Avignon https://t.co/111i0CTza1"}
+{"created_at": "Sat Nov 21 06:26:18 +0000 2015", "text": "#prayforeveryone #prayforparis #jesuisparis #jesuisparisien merci Marseille @ Marseille, France https://t.co/PSXqNlxmm1"}
+{"created_at": "Sat Nov 21 06:24:10 +0000 2015", "text": "#jesuisparis #prayforparis #prayforeveryone #fiawec #fiawec_official @ Bahrain International Circuit https://t.co/S6y1FwhjAZ"}
+{"created_at": "Sat Nov 21 05:39:21 +0000 2015", "text": "RT @Daphne_Burki01: #maindanslamain https://t.co/VGdMjuhU3m"}
+{"created_at": "Fri Nov 20 18:39:55 +0000 2015", "text": "#prayforparis #prayfortheworld #jesuisparis #jesuisparisien https://t.co/GHRF7DJugo"}
+{"created_at": "Fri Nov 20 18:30:22 +0000 2015", "text": "#prayforpeace #prayfortheworld #prayforparis #jesuisparis #jesuisparisien #lepetitprince @ Paris, France https://t.co/kxMAk3fCNE"}
+{"created_at": "Fri Nov 20 18:28:06 +0000 2015", "text": "Just posted a photo https://t.co/jMMduMCOhm"}
+{"created_at": "Fri Nov 20 18:27:00 +0000 2015", "text": "No comment https://t.co/96R1xAdbC0"}
+{"created_at": "Fri Nov 20 18:25:52 +0000 2015", "text": "#jesuisparisien #jesuisparis #prayforparis #prayfortheworld #prayforpeace @ Paris, France https://t.co/SxIgOo6hAF"}
+{"created_at": "Thu Nov 19 06:16:54 +0000 2015", "text": "#prayforeveryone #prayforparis #jesuisparis @ Paris, France https://t.co/yKcIRqxZva"}
+{"created_at": "Thu Nov 19 06:15:53 +0000 2015", "text": "#jesuisparis #prayforparis #prayforeveryone #lepetitjournal https://t.co/9JZDlPHOrW"}
+{"created_at": "Wed Nov 18 17:05:49 +0000 2015", "text": "#prayforeveryone #prayforparis #jesuisparis #apple https://t.co/f8SkkITaNj"}
+{"created_at": "Wed Nov 18 17:04:41 +0000 2015", "text": "#jesuisparis #prayforparis #prayforeveryone #google https://t.co/Sc4XAN6MUK"}
+{"created_at": "Wed Nov 18 16:13:01 +0000 2015", "text": "#prayforparis #jesuisparis #prayforeveryone @ Paris, France https://t.co/u1dxQsjZN6"}
+{"created_at": "Wed Nov 18 09:36:15 +0000 2015", "text": "c'est \u00e9norme a voir absolument Phillipe Croizon https://t.co/0oYb6VyvZg"}
+{"created_at": "Wed Nov 18 09:08:01 +0000 2015", "text": "Pl\u00e9ni\u00e8re d'ouverture de la Convention des Clubs Apm - Lille, 1er et 2 oc... https://t.co/0oYb6VyvZg"}
+{"created_at": "Wed Nov 18 08:02:16 +0000 2015", "text": "tres belle hommage de la ste Frayssinet https://t.co/tl4K1G7Sbr"}
+{"created_at": "Tue Nov 17 19:22:53 +0000 2015", "text": "https://t.co/I4vDTZD4W2 via @youtube"}
+{"created_at": "Tue Nov 17 12:28:32 +0000 2015", "text": "#prayforparis #jesuisparis https://t.co/plbFfwqYUo"}
+{"created_at": "Tue Nov 17 12:27:41 +0000 2015", "text": "#jesuisparis #prayforparis @ Paris, France https://t.co/aJisu0p9j7"}
+{"created_at": "Tue Nov 17 12:15:41 +0000 2015", "text": "#jesuisparis #prayforparis #prayforeveryone #louisaragon @ Paris, France https://t.co/QBaplOtGio"}
+{"created_at": "Tue Nov 17 12:14:11 +0000 2015", "text": "#prayforparis #jesuisparis #prayforeveryone @ Paris - Tour Eiffel https://t.co/elYW0EVQ1M"}
+{"created_at": "Tue Nov 17 11:41:36 +0000 2015", "text": "#prayforeveryone #jesuisparis #prayforparis #martinlutherkingjr #martinlutherking https://t.co/OZDHrmYWpf"}
+{"created_at": "Tue Nov 17 11:36:37 +0000 2015", "text": "#prayforparis #jesuisparis #prayforeveryone https://t.co/AFmgEU5KCM"}
+{"created_at": "Tue Nov 17 10:32:04 +0000 2015", "text": "RT @TheoMayeur: La page d'accueil d'https://t.co/rszQI922fF #PrayForParis \ud83c\uddeb\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7 https://t.co/j3LXmzgOej"}
+{"created_at": "Tue Nov 17 10:29:30 +0000 2015", "text": "RT @PrayForEuro: #PrayForWorld\n#PrayForEuro\n#PrayForParis"}
+{"created_at": "Tue Nov 17 07:31:17 +0000 2015", "text": "L\u2019humanit\u00e9 unie face \u00e0 la barbarie : ces \u00e9difices du monde entier s\u2019illuminent aux couleurs de la France https://t.co/OGHmiKNNTy"}
+{"created_at": "Tue Nov 17 06:23:30 +0000 2015", "text": "#jesuisparis #prayforparis #legrandjournal https://t.co/mxXYTSlDiK"}
+{"created_at": "Tue Nov 17 06:22:28 +0000 2015", "text": "#prayforparis #jesuisparis #lepetitjournal https://t.co/9wagsYEHx8"}
+{"created_at": "Tue Nov 17 06:21:41 +0000 2015", "text": "#jesuischarlie #prayforparis #jesuisparis https://t.co/ZKpCgZ1MoB"}
+{"created_at": "Tue Nov 17 06:20:42 +0000 2015", "text": "#prayforparis https://t.co/VjyyJ0DgqB"}
+{"created_at": "Tue Nov 17 06:19:50 +0000 2015", "text": "#prayforparis #jesuisparis https://t.co/vgluiSqv5v"}
+{"created_at": "Tue Nov 17 06:18:58 +0000 2015", "text": "#prayforparis #jesuisparis #lepetitprince https://t.co/2nF7mZtf4u"}
+{"created_at": "Sun Nov 15 18:36:40 +0000 2015", "text": "Sortie entre ami @ Villeneuve-l\u00e8s-Avignon https://t.co/aIKAt1XLXV"}
+{"created_at": "Sun Nov 15 16:10:01 +0000 2015", "text": "#prayforparis #jesuisparis @ Paris, France https://t.co/456ddCCVAJ"}
+{"created_at": "Sun Nov 15 16:02:22 +0000 2015", "text": "#prayforparis #f1 #brasil #romaingrosjean @ Interlagos Circuit. Sao Paulo, Brasil https://t.co/W70WB0n7Ld"}
+{"created_at": "Sun Nov 15 16:00:27 +0000 2015", "text": "#prayforparis #f1 #brasil https://t.co/R8NVcCRcjd"}
+{"created_at": "Sat Nov 14 20:16:49 +0000 2015", "text": "#prayforparis #jesuischarlie #jesuisparis #jesuisparisien https://t.co/4qw7n5Gh8F"}
+{"created_at": "Sat Nov 14 20:16:35 +0000 2015", "text": "#prayforparis #jesuischarlie #jesuisparis #jesuisparisien https://t.co/y6e84NkbdH"}
+{"created_at": "Sat Nov 14 20:16:15 +0000 2015", "text": "#prayforparis #jesuischarlie #jesuisparis #jesuisparisien https://t.co/qc3n97Yp5x"}
+{"created_at": "Sat Nov 14 20:16:02 +0000 2015", "text": "#prayforparis #jesuischarlie #jesuisparis #jesuisparisien https://t.co/JyY2RrCfmJ"}
+{"created_at": "Sat Nov 14 20:06:14 +0000 2015", "text": "#prayforparis #jesuischarlie #jesuisparis #jesuisparisien #pierredesproges https://t.co/2575oFJ7pz"}
+{"created_at": "Sat Nov 14 20:04:59 +0000 2015", "text": "#prayforparis #jesuischarlie #jesuisparis #jesuisparisien https://t.co/IeclWOhsdv"}
+{"created_at": "Sat Nov 14 20:04:39 +0000 2015", "text": "#prayforparis #jesuischarlie #jesuisparis #jesuisparisien #dalailama https://t.co/Mj1nX43zYZ"}
+{"created_at": "Sat Nov 14 20:04:10 +0000 2015", "text": "#prayforparis #jesuischarlie #jesuisparis #jesuisparisien https://t.co/iQ3m1YuzwP"}
+{"created_at": "Sat Nov 14 19:35:31 +0000 2015", "text": "#prayforparis #jesuischarlie #jesuisparis #jesuisparisien https://t.co/KYK2d9Fni3"}
+{"created_at": "Sat Nov 14 19:24:29 +0000 2015", "text": "#prayforparis #jesuischarlie #jesuisparis #jesuisparisien https://t.co/BvDP4PnLDc"}
+{"created_at": "Sat Nov 14 19:24:09 +0000 2015", "text": "#prayforparis #jesuischarlie #jesuisparis #jesuisparisien https://t.co/5cFb6vjgy4"}
+{"created_at": "Sat Nov 14 19:22:43 +0000 2015", "text": "#prayforparis https://t.co/YGP8RxcxoB"}
+{"created_at": "Sat Nov 14 19:22:20 +0000 2015", "text": "#prayforparis https://t.co/1rxokusujh"}
+{"created_at": "Sat Nov 14 19:21:51 +0000 2015", "text": "#prayforparis https://t.co/mShUvZxfhT"}
+{"created_at": "Sat Nov 14 19:21:28 +0000 2015", "text": "#prayforparis https://t.co/EuRab8BYYm"}
+{"created_at": "Sat Nov 14 19:21:10 +0000 2015", "text": "#prayforparis https://t.co/n4wHhQu6E9"}
+{"created_at": "Sat Nov 14 19:20:39 +0000 2015", "text": "#prayforparis https://t.co/MdW93wX720"}
+{"created_at": "Sat Nov 14 06:45:30 +0000 2015", "text": "RT @RESenFrance: #RunInTheDark #Avignon Merci \u00e0 tous pour votre participation! 70 participants pour une 1\u00e8re! C'\u00e9tait super! https://t.co/S\u2026"}
+{"created_at": "Sat Nov 14 06:33:44 +0000 2015", "text": "RT @20Minutes: Un carnage commis par \u00abM. Tout-le-monde avec une kalachnikov\u00bb, des corps \u00aben pi\u00e8ces ... https://t.co/wYNAGqMtNe https://t.co\u2026"}
+{"created_at": "Sat Nov 14 06:33:29 +0000 2015", "text": "RT @LeHuffPost: Huit \"terroristes\" morts dans les attentats #Paris https://t.co/y1YLVFK0e3"}
+{"created_at": "Sat Nov 14 06:32:49 +0000 2015", "text": "RT @20Minutes: Au Bataclan, les assaillants parlent de la Syrie et \u00abtirent\u00bb #Fusillade #Attentat https://t.co/VjYM4JtMod https://t.co/w1sld\u2026"}
+{"created_at": "Sat Nov 14 06:32:33 +0000 2015", "text": "RT @LeHuffPost: U2 annule son concert \u00e0 Paris ce samedi 14 novembre https://t.co/RneBOKNKn7"}
+{"created_at": "Sat Nov 14 06:32:14 +0000 2015", "text": "RT @LeHuffPost: La Chine \"profond\u00e9ment choqu\u00e9e\" #attentats #Paris https://t.co/xLNQbym1UA"}
+{"created_at": "Sat Nov 14 06:31:55 +0000 2015", "text": "RT @francetvinfo: #ParisAttacks : watch @France2tv live coverage on @francetvinfo \n\u2b07\nhttps://t.co/2f9p5pvx3u https://t.co/EvXwYvlvfQ"}
+{"created_at": "Sat Nov 14 06:31:49 +0000 2015", "text": "RT @20Minutes: Avec les rescap\u00e9s du Bataclan recueillis dans une cellule psychologique #ParisAttacks https://t.co/p5VhXXdMRX https://t.co/q\u2026"}
+{"created_at": "Sat Nov 14 06:31:42 +0000 2015", "text": "RT @20Minutes: Attentats \u00e0 Paris: Trois d\u00e9cennies d'attaques terroristes en #France #ParisAttacks https://t.co/EhbbbjBBaz https://t.co/mt5k\u2026"}
+{"created_at": "Sat Nov 14 06:31:27 +0000 2015", "text": "RT @LeHuffPost: Rassemblement spontan\u00e9 de 500 personnes \u00e0 Montr\u00e9al (PHOTOS) #attentats #Paris https://t.co/qyGh5AO38G"}
+{"created_at": "Sat Nov 14 06:30:53 +0000 2015", "text": "RT @20Minutes: Chronologie de la soir\u00e9e au #stadedefrance https://t.co/A3sknqwlxl https://t.co/69RJUs6fgb"}
+{"created_at": "Sat Nov 14 06:30:19 +0000 2015", "text": "RT @evastpk: #prayforparis https://t.co/syFZF3pE4j"}
+{"created_at": "Sat Nov 14 06:28:43 +0000 2015", "text": "RT @jean_jullien: Peace for Paris https://t.co/ryf6XB2d80"}
+{"created_at": "Fri Nov 13 12:45:43 +0000 2015", "text": "M\u00e9hari nouvelle g\u00e9n\u00e9ration #citroenmehari https://t.co/MxgeOWa3lN"}
+{"created_at": "Fri Nov 13 06:42:31 +0000 2015", "text": "#jamesbond007 #landroveravignon #bijouteriedoux doux.joaillier @ Path\u00e9 Cap Sud Avignon https://t.co/G0LbNwwHT5"}
+{"created_at": "Fri Nov 13 06:40:10 +0000 2015", "text": "#bijouteriedoux #landroveravignon #jamesbond007 doux.joaillier @ Path\u00e9 Cap Sud Avignon https://t.co/YTxB9shznH"}
+{"created_at": "Thu Nov 12 20:04:24 +0000 2015", "text": "#jamesbond007 #landroveravignon #bijouteriedoux @ Path\u00e9 Cap Sud Avignon https://t.co/c8Pd2hAPZt"}
+{"created_at": "Thu Nov 12 19:55:13 +0000 2015", "text": "#bijouteriedoux #jamesbond007 doux.joaillier #landroveravignon @ Path\u00e9 Cap Sud Avignon https://t.co/viwQKHJ1rs"}
+{"created_at": "Thu Nov 12 12:52:22 +0000 2015", "text": "@sylvainste30 @tochfournier"}
+{"created_at": "Thu Nov 12 12:48:56 +0000 2015", "text": "#RunInTheDark #runinthedarkvilleneuvelezavignon #runinthedark2015 #runinthedarkavignon https://t.co/nQeoi5ftF1"}
+{"created_at": "Thu Nov 12 09:35:33 +0000 2015", "text": "RT @tochfournier: #avignon #RunInTheDark https://t.co/aVxdujnt5i"}
+{"created_at": "Thu Nov 12 09:30:28 +0000 2015", "text": "RT @tochfournier: #RunInTheDark Awards  #avignon https://t.co/mON5gCnJzc"}
+{"created_at": "Thu Nov 12 08:53:15 +0000 2015", "text": "Piloter un projet: quatre le\u00e7ons de Gustave Eiffel https://t.co/BkHJLckRyB"}
+{"created_at": "Thu Nov 12 08:39:58 +0000 2015", "text": "Quatre le\u00e7ons des fr\u00e8res Lumi\u00e8re pour innover en permanence https://t.co/5m8OzyCR9J"}
+{"created_at": "Thu Nov 12 08:31:12 +0000 2015", "text": "Cinq le\u00e7ons de Churchill pour n\u00e9gocier de main de ma\u00eetre https://t.co/WmLGqJfVlV"}
+{"created_at": "Thu Nov 12 08:06:17 +0000 2015", "text": "Six le\u00e7ons de Saint-Exup\u00e9ry pour manager son \u00e9quipe https://t.co/KJXLHYvn2m"}
+{"created_at": "Thu Nov 12 06:20:51 +0000 2015", "text": "#runinthedark #runinthedark2015 #runinthedarkvilleneuvelezavignon @ Villeneuve-l\u00e8s-Avignon https://t.co/SzWKEypVe2"}
+{"created_at": "Wed Nov 11 21:42:28 +0000 2015", "text": "#runinthedark #runinthedark2015 #runinthedarkvilleneuvelezavignon #villeneuvelesavignon @\u2026 https://t.co/nOKXTH4l0o"}
+{"created_at": "Wed Nov 11 21:41:33 +0000 2015", "text": "#runinthedark #runinthedark2015 #runinthedarkvilleneuvelezavignon #villeneuvelesavignon @\u2026 https://t.co/HQsG2e7nsF"}
+{"created_at": "Wed Nov 11 21:37:28 +0000 2015", "text": "RT @tochfournier: Ready! #RunInTheDark  #avignon https://t.co/zDjxjNbQfL"}
+{"created_at": "Tue Nov 10 12:33:31 +0000 2015", "text": "#gdriveracing #gdrive #6hoursshanghai #fiawec #shanghaicircuit @sambirdracing @ Shanghai\u2026 https://t.co/FtcFu7cL8d"}
+{"created_at": "Tue Nov 10 12:31:28 +0000 2015", "text": "#shanghaicircuit #fiawec #6hoursshanghai #gdrive #gdriveracing @ Shanghai International Circuit https://t.co/rgPGskxDrE"}
+{"created_at": "Tue Nov 10 12:28:41 +0000 2015", "text": "#6hoursshanghai #fiawec #shanghaicircuit @benoittreluyer #audiracing https://t.co/kfB4NFltzL"}
+{"created_at": "Tue Nov 10 12:18:56 +0000 2015", "text": "#shanghaicircuit #theavener #fiawec #6hoursshanghai @ Shanghai International Circuit https://t.co/oJI2Q5B9J7"}
+{"created_at": "Tue Nov 10 08:12:48 +0000 2015", "text": "A la poubelle, l'entretien annuel! https://t.co/hIHfcW6Po4"}
+{"created_at": "Tue Nov 10 06:17:50 +0000 2015", "text": "#6hoursshanghai #fiawec #theavener #shanghaicircuit @theavenermusic @ Shanghai International Circuit https://t.co/BmgOCEx5SO"}
+{"created_at": "Tue Nov 10 06:11:17 +0000 2015", "text": "#theavener #fiawec #6hoursshanghai @theavenermusic @ Shanghai International Circuit https://t.co/7FgXaUK5Nf"}
+{"created_at": "Mon Nov 09 18:19:38 +0000 2015", "text": "#fiawec #shanghaicircuit #theavener @theavenermusic coucou evastpk @ Shanghai International Circuit https://t.co/VM4Y94erW0"}
+{"created_at": "Mon Nov 09 05:38:02 +0000 2015", "text": "Le dunk du 8 novembre https://t.co/c6fuVthSUa via lequipe"}
+{"created_at": "Sun Nov 08 20:07:23 +0000 2015", "text": "RT @evastpk: \"Pour Eva qui \u00e9tait au Mistral\" merci @TheAvenerMusic \ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\udca5\ud83c\udf1f https://t.co/Mr7pbzFAdn"}
+{"created_at": "Sun Nov 08 20:07:00 +0000 2015", "text": "RT @CapitolFR: La r\u00e9\u00e9dition de The Wanderings of @TheAvenerMusic sort vendredi !\nVoil\u00e0 un extrait du documentaire qu\u2019elle contient!\nhttps:/\u2026"}
+{"created_at": "Sun Nov 08 20:06:32 +0000 2015", "text": "RT @VirginRadiofr: .@TheAvenerMusic sort la r\u00e9\u00e9dition de son album ce vendredi ! Voici un extrait vid\u00e9o &gt; https://t.co/emDDrBBGr1 https://t\u2026"}
+{"created_at": "Sun Nov 08 20:05:32 +0000 2015", "text": "RT @Fnac: SORTIE | @TheAvenerMusic : son nouvel album en \u00e9dition fnac + 1 in\u00e9dit disponible ici \u2192 https://t.co/KnAlReqY6e https://t.co/m7zH\u2026"}
+{"created_at": "Sun Nov 08 20:05:04 +0000 2015", "text": "RT @CapitolFR: Pssst ! Sur la @Fnac il y a une \u00e9dition sp\u00e9ciale de The Wanderings of @TheAvenerMusic \ud83d\ude04 https://t.co/wkwGrUivxH https://t.co\u2026"}
+{"created_at": "Sun Nov 08 20:04:27 +0000 2015", "text": "RT @CapitolFR: Edition sp\u00e9ciale dispo chez la @Fnac de l'album de @TheAvenerMusic #TheWanderings \ud83c\udf81\nhttps://t.co/wkwGrUivxH https://t.co/4KV\u2026"}
+{"created_at": "Thu Nov 05 15:34:18 +0000 2015", "text": "I have just entered the Life Style Sports Run In The Dark Avignon! Why not join me? https://t.co/bagvvNqx1K via @TheRunInTheDark"}
+{"created_at": "Wed Nov 04 20:40:55 +0000 2015", "text": "#theavener #shanghaicircuit #fiawec @ Shanghai International Circuit https://t.co/SvdHcDTQ6Y"}
+{"created_at": "Wed Nov 04 20:37:30 +0000 2015", "text": "#thestig #shanghaicircuit https://t.co/FVzkW3Mxzp"}
+{"created_at": "Wed Nov 04 20:37:30 +0000 2015", "text": "#thestig #shanghaicircuit @ Shanghai International Circuit https://t.co/TDQRnvDA7e"}
+{"created_at": "Tue Oct 27 12:56:01 +0000 2015", "text": "Just posted a photo @ The Royal Garden \u9999\u6e2f\u5e1d\u82d1\u9152\u5e97 https://t.co/ev5mJ3A9iV"}
+{"created_at": "Tue Oct 27 12:00:48 +0000 2015", "text": "#hublot https://t.co/GV1A0d4mQw"}
+{"created_at": "Tue Oct 27 12:00:46 +0000 2015", "text": "#hongkong https://t.co/W79Nf1viID"}
+{"created_at": "Tue Oct 27 08:24:55 +0000 2015", "text": "Just posted a photo @ Apple Store IFC https://t.co/qBujXpcBrs"}
+{"created_at": "Sat Oct 24 21:12:35 +0000 2015", "text": "Just posted a photo @ A\u00e9roport CGD 2 E https://t.co/8r3WZlPNhN"}
+{"created_at": "Sat Oct 24 21:11:36 +0000 2015", "text": "Just posted a photo @ A\u00e9roport CGD 2 E https://t.co/mDjCgvQcrz"}
+{"created_at": "Sat Oct 24 20:54:18 +0000 2015", "text": "Just posted a photo @ A\u00e9roport CGD 2 E https://t.co/sk7lu7GFh5"}
+{"created_at": "Sat Oct 24 18:53:53 +0000 2015", "text": "Just posted a photo @ A\u00e9roport de Paris - Charles de Gaulle (CDG) https://t.co/TcZEvPJtpj"}
+{"created_at": "Sat Oct 24 17:17:15 +0000 2015", "text": "Belle brochette @ Ch\u00e2teau de la Messardi\u00e8re - 5 \u00e9toiles Palace https://t.co/VUd54siXqS"}
+{"created_at": "Sat Oct 24 17:14:22 +0000 2015", "text": "Just posted a photo @ Circuit Paul Ricard OFFICIEL https://t.co/oFAYEUanlP"}
+{"created_at": "Sat Oct 24 17:11:23 +0000 2015", "text": "Tranquille @ Circuit Paul Ricard OFFICIEL https://t.co/ehQIZ5Uaja"}
+{"created_at": "Sat Oct 24 17:09:10 +0000 2015", "text": "Just posted a photo @ Circuit Paul Ricard OFFICIEL https://t.co/MUJ0xdQnHn"}
+{"created_at": "Sat Oct 24 17:06:45 +0000 2015", "text": "#alesi27 #alesi @ Circuit Paul Ricard OFFICIEL https://t.co/CAFuNJ2FFT"}
+{"created_at": "Sat Oct 24 17:00:44 +0000 2015", "text": "#alesi27 @ Circuit Paul Ricard OFFICIEL https://t.co/QaWQDsJjow"}
+{"created_at": "Sat Oct 24 16:59:17 +0000 2015", "text": "#alesi @ Circuit Paul Ricard OFFICIEL https://t.co/TDjGErj1bI"}
+{"created_at": "Sat Oct 24 16:56:34 +0000 2015", "text": "Sp\u00e9cial d\u00e9dicace \u00e0 evastpk @ La Tarte Tropezienne St Tropez https://t.co/itcjTpU9sj"}
+{"created_at": "Sat Oct 24 14:22:11 +0000 2015", "text": "#jeanalesi @ Circuit Paul Ricard OFFICIEL https://t.co/BeGNfDXeap"}
+{"created_at": "Sat Oct 24 10:55:49 +0000 2015", "text": "C'est quand moins le bordel sans la Spartan race @ Circuit Paul Ricard OFFICIEL https://t.co/WcfsdaI7SE"}
+{"created_at": "Sat Oct 24 08:01:35 +0000 2015", "text": "PERFECT DRIFT / BMW 325i E30 / Circuit du LUC / 16.10.2015 https://t.co/c8uAYoUVfw"}
+{"created_at": "Sat Oct 24 07:24:21 +0000 2015", "text": "#chateaudelamessardiere @ Ch\u00e2teau de la Messardi\u00e8re - 5 \u00e9toiles Palace https://t.co/ce6WxZQiJm"}
+{"created_at": "Sat Oct 24 07:24:20 +0000 2015", "text": "Petit d\u00e9jeuner avec vue imprenable @ Ch\u00e2teau de la Messardi\u00e8re - 5 \u00e9toiles Palace https://t.co/5KunqThQr8"}
+{"created_at": "Fri Oct 23 21:57:05 +0000 2015", "text": "#chateaudelamessardiere @ Ch\u00e2teau de la Messardi\u00e8re - 5 \u00e9toiles Palace https://t.co/Xr4SfNyXBO"}
+{"created_at": "Fri Oct 23 21:57:05 +0000 2015", "text": "#chateaudelamessardiere @ Ch\u00e2teau de la Messardi\u00e8re - 5 \u00e9toiles Palace https://t.co/1tNX6mjyaJ"}
+{"created_at": "Fri Oct 23 21:54:00 +0000 2015", "text": "#chateaudelamessardiere @ Ch\u00e2teau de la Messardi\u00e8re - 5 \u00e9toiles Palace https://t.co/YP63rNbFRu"}
+{"created_at": "Fri Oct 23 21:52:30 +0000 2015", "text": "#chateaudelamessardiere @ Ch\u00e2teau de la Messardi\u00e8re - 5 \u00e9toiles Palace https://t.co/vLmfRUI63t"}
+{"created_at": "Fri Oct 23 21:51:17 +0000 2015", "text": "#chateaudelamessardiere @ Ch\u00e2teau de la Messardi\u00e8re - 5 \u00e9toiles Palace https://t.co/z8yvsfc7z1"}
+{"created_at": "Fri Oct 23 21:50:17 +0000 2015", "text": "#chateaudelamessardiere @ Ch\u00e2teau de la Messardi\u00e8re - 5 \u00e9toiles Palace https://t.co/RPxU1Cp4sJ"}
+{"created_at": "Fri Oct 23 21:43:51 +0000 2015", "text": "La Calzone @lastrada_mus @ Les Angles 30 https://t.co/hWISFsUwjI"}
+{"created_at": "Tue Oct 20 05:11:04 +0000 2015", "text": "Just posted a photo https://t.co/vyjlcA5PjK"}
+{"created_at": "Tue Oct 20 05:10:04 +0000 2015", "text": "Just posted a photo https://t.co/bmTSMHH9jH"}
+{"created_at": "Sun Oct 18 19:00:35 +0000 2015", "text": "Happy Birthday Stef @ Co2 Restaurant https://t.co/OjNACTzkr9"}
+{"created_at": "Sun Oct 18 18:54:53 +0000 2015", "text": "Just posted a photo @ Co2 Restaurant https://t.co/kQkcGsuhYp"}
+{"created_at": "Sun Oct 18 18:46:14 +0000 2015", "text": "Sortie pluvieuse pour valider Le Cadeau @ Villeneuve-l\u00e8s-Avignon https://t.co/HD8SxFpEfv"}
+{"created_at": "Sun Oct 18 10:43:19 +0000 2015", "text": "Happy birthday vaste2001 @ Co2 Restaurant https://t.co/KdyHwHHg8D"}
+{"created_at": "Sat Oct 17 19:21:59 +0000 2015", "text": "Just posted a photo @ Co2 Restaurant https://t.co/mQOZpusKOJ"}
+{"created_at": "Sat Oct 17 18:29:03 +0000 2015", "text": "Happy Birthday vaste2001 @ Co2 Restaurant https://t.co/Jx9gCMKTAT"}
+{"created_at": "Sat Oct 17 11:42:13 +0000 2015", "text": "Just posted a photo @ Ristorante \"La Griglia di Varrone\" https://t.co/V85Mt5G0Mg"}
+{"created_at": "Sat Oct 17 11:40:50 +0000 2015", "text": "Just posted a photo @ Ristorante \"La Griglia di Varrone\" https://t.co/uwxxy6h2Fs"}
+{"created_at": "Sat Oct 17 11:39:38 +0000 2015", "text": "Just posted a photo @ Ristorante \"La Griglia di Varrone\" https://t.co/h8Dhp2FMDq"}
+{"created_at": "Thu Oct 15 19:26:20 +0000 2015", "text": "Just posted a photo @ La Roca Village Barcelona https://t.co/NrVOhGAqPm"}
+{"created_at": "Wed Oct 14 06:29:28 +0000 2015", "text": "#lameracup #jarama #lamera #evla30 @ Circuito del Jarama - RACE https://t.co/4HgXiAnrno"}
+{"created_at": "Wed Oct 14 06:25:04 +0000 2015", "text": "Just posted a photo https://t.co/c7ODJdOk8i"}
+{"created_at": "Wed Oct 14 06:25:01 +0000 2015", "text": "Just posted a photo @ Madrid, Spain https://t.co/ww4LE4XMZp"}
+{"created_at": "Wed Oct 14 06:15:13 +0000 2015", "text": "Just posted a photo @ Madrid, Spain https://t.co/NBxZs8pK07"}
+{"created_at": "Wed Oct 14 05:16:26 +0000 2015", "text": "#lameracup #jarama #lamera #evla30 @ Circuito del Jarama - RACE https://t.co/WrzQgDQvDP"}
+{"created_at": "Wed Oct 14 05:14:41 +0000 2015", "text": "#lameracup #jarama #lamera #evla30 @ Circuito del Jarama - RACE https://t.co/Ag3VdmDDnj"}
+{"created_at": "Wed Oct 14 05:13:23 +0000 2015", "text": "#lameracup #jarama #lamera #evla30 @ Circuito del Jarama - RACE https://t.co/a0ti4QhJyB"}
+{"created_at": "Wed Oct 14 05:11:41 +0000 2015", "text": "#lameracup #jarama #lamera #evla30 @ Circuito del Jarama - RACE https://t.co/5oo13Ijcli"}
+{"created_at": "Wed Oct 14 05:10:07 +0000 2015", "text": "#lameracup #jarama #lamera #evla30 @ Circuito del Jarama - RACE https://t.co/gaD7aVzz5J"}
+{"created_at": "Wed Oct 14 05:08:44 +0000 2015", "text": "#lameracup #jarama #lamera #evla30 @ Circuito del Jarama - RACE https://t.co/vxAdwiX1GA"}
+{"created_at": "Wed Oct 14 05:06:01 +0000 2015", "text": "#lameracup #jarama #lamera #evla30 #jb17 #julesbianchi17 #jb17forever @ Circuito del Jarama - RACE https://t.co/DAUrCOeW8p"}
+{"created_at": "Wed Oct 14 05:03:21 +0000 2015", "text": "#lameracup #jarama #lamera #evla30 @ Circuito del Jarama - RACE https://t.co/xVLiN2b10j"}
+{"created_at": "Wed Oct 14 05:00:37 +0000 2015", "text": "#lameracup #jarama #lamera @ Circuito del Jarama - RACE https://t.co/cstuj947nN"}
+{"created_at": "Wed Oct 14 04:59:15 +0000 2015", "text": "#lameracup #jarama #lamera @ Circuito De El Jarama https://t.co/S1zLUO87Q3"}
+{"created_at": "Fri Oct 09 05:27:01 +0000 2015", "text": "Just posted a photo @ Seattle, Washington https://t.co/xlhj4dFYPx"}
+{"created_at": "Fri Oct 09 04:54:37 +0000 2015", "text": "Radars - V\u00e9hicules de soci\u00e9t\u00e9 : l'impossible nouvelle amende \u00e0 l'encontre des patrons ! http://t.co/SX8gJ5T3xW"}
+{"created_at": "Thu Oct 08 13:32:55 +0000 2015", "text": "Just posted a photo @ Pont de Besal\u00fa https://t.co/YOHF4eFuyE"}
+{"created_at": "Wed Oct 07 09:13:48 +0000 2015", "text": "Poulet \u00e0 la noix de coco #coconut #guadeloupe #creole #cuisine http://t.co/5gCyZkTZqI"}
+{"created_at": "Tue Oct 06 14:28:09 +0000 2015", "text": "garage door http://t.co/4iatml6Nah"}
+{"created_at": "Tue Oct 06 14:27:57 +0000 2015", "text": "Door 19 and ArtKvartal \u2014 Moscow http://t.co/xgXbe98LGO"}
+{"created_at": "Tue Oct 06 14:27:42 +0000 2015", "text": "Oversized pivot door \u00bb\u00ab practical for getting oversized furniture into the house http://t.co/6P8wRvNvDw"}
+{"created_at": "Tue Oct 06 14:27:32 +0000 2015", "text": "White Floors, Brick Walls, Pivot and Sliding door Heaven... i want ! - XTEN Architecture http://t.co/YBoub5bRrq"}
+{"created_at": "Tue Oct 06 14:27:17 +0000 2015", "text": "I like natural elements like these doors when they are incorporated in to an ultra-modern home.  I t http://t.co/vd6IhH3N88"}
+{"created_at": "Tue Oct 06 14:25:54 +0000 2015", "text": "folding screen / decking I wonder how hard it will be to put something like this on a camper http://t.co/Nbzp3lgYvv"}
+{"created_at": "Tue Oct 06 14:25:42 +0000 2015", "text": "Naturally beautiful doors. http://t.co/dG9milPuLK"}
+{"created_at": "Tue Oct 06 14:25:22 +0000 2015", "text": "L'entr\u00e9e par le #patio. C'est en franchissant les vantaux de #bois pivotants que l'on acc\u00e8de \u00e0 la ma http://t.co/I90PsCntK3"}
+{"created_at": "Tue Oct 06 14:25:01 +0000 2015", "text": "ERDOES Slatted sliding door http://t.co/6OZ3sSlBdi"}
+{"created_at": "Tue Oct 06 14:24:51 +0000 2015", "text": "Best looking garage door ever. Looks cool open, closed and even opening! http://t.co/zMbrWkkDgK"}
+{"created_at": "Tue Oct 06 14:14:36 +0000 2015", "text": "Recette bio : Tarte bouquet de roses pomme cannelle \u00e0 la Boisson bio Riz Epeautre Amande de Bonneter http://t.co/PlBkoiCFma"}
+{"created_at": "Tue Oct 06 14:14:29 +0000 2015", "text": "They\u2019re Making Me Hungry http://t.co/i48oRm3DMB"}
+{"created_at": "Tue Oct 06 14:14:16 +0000 2015", "text": "tresse \u00e0 partir d'une pate feuillet\u00e9e et de nutella... @ A. Rougemont Achetez une p\u00e2te feuillet\u00e9e pr http://t.co/4s3m28yiif"}
+{"created_at": "Tue Oct 06 14:14:06 +0000 2015", "text": "Tarte pomme rose http://t.co/ao6UZuRjZu"}
+{"created_at": "Tue Oct 06 14:13:47 +0000 2015", "text": "Rose de Pommes feuillet\u00e9es http://t.co/R3suBsXITI"}
+{"created_at": "Tue Oct 06 14:13:10 +0000 2015", "text": "Fondantsanscuisson 6 http://t.co/Lq70Ffpcxr"}
+{"created_at": "Tue Oct 06 14:10:48 +0000 2015", "text": "Invitation au fait maison: Tarte au citron, un pur d\u00e9lice ! http://t.co/bOb6feEpcj"}
+{"created_at": "Mon Oct 05 20:40:18 +0000 2015", "text": "Just posted a photo https://t.co/Zpyhu5oWUe"}
+{"created_at": "Mon Oct 05 20:38:18 +0000 2015", "text": "Just posted a photo https://t.co/9XUKZ1qnZC"}
+{"created_at": "Mon Oct 05 20:36:31 +0000 2015", "text": "Just posted a photo https://t.co/uTTxrR1d28"}
+{"created_at": "Mon Oct 05 19:09:34 +0000 2015", "text": "Just posted a photo https://t.co/PgrjKUwHnF"}
+{"created_at": "Mon Oct 05 12:45:11 +0000 2015", "text": "Just posted a photo https://t.co/p7dXuIx64c"}
+{"created_at": "Mon Oct 05 11:44:34 +0000 2015", "text": "15 clich\u00e9s a\u00e9riens \u00e0 la beaut\u00e9 inou\u00efe prim\u00e9s lors d\u2019un c\u00e9l\u00e8bre concours photographique http://t.co/i975Kk8F7c via @SooCurious_"}
+{"created_at": "Sun Oct 04 15:38:10 +0000 2015", "text": "Just posted a photo https://t.co/5pMTa2yetC"}
+{"created_at": "Sun Oct 04 15:30:58 +0000 2015", "text": "#apmaventure #apm @ Lille Grand Palais https://t.co/0AWQbkwcuI"}
+{"created_at": "Sun Oct 04 15:13:44 +0000 2015", "text": "#beginagainmovie #beginagain #loststar #keiraknightley https://t.co/GZ6vt69O4E"}
+{"created_at": "Sun Oct 04 15:08:28 +0000 2015", "text": "#loststar #beginagain #beginagainmovie #adamlevine https://t.co/ZQZUbAg7kC"}
+{"created_at": "Sun Oct 04 15:07:00 +0000 2015", "text": "#adamlevine #beginagainmovie #beginagain #loststar https://t.co/ulkB3VsIeq"}
+{"created_at": "Sun Oct 04 15:05:06 +0000 2015", "text": "#beginagainmovie #beginagain #loststar #adamlevine https://t.co/HusZ9o4hbk"}
+{"created_at": "Sun Oct 04 14:57:28 +0000 2015", "text": "#loststar #beginagainmovie https://t.co/F7uLfmDF8N"}
+{"created_at": "Sun Oct 04 14:54:49 +0000 2015", "text": "Just posted a photo https://t.co/ViaAYCgIAL"}
+{"created_at": "Sun Oct 04 14:52:46 +0000 2015", "text": "Just posted a photo https://t.co/38Ar9wpbpl"}
+{"created_at": "Sun Oct 04 14:51:20 +0000 2015", "text": "#beginagainmovie #loststar https://t.co/f3mMVlaKLo"}
+{"created_at": "Sun Oct 04 14:45:50 +0000 2015", "text": "Just posted a photo @ New York, New York https://t.co/krJ7jzebyi"}
+{"created_at": "Sat Oct 03 18:12:53 +0000 2015", "text": "Just posted a photo @ Path\u00e9 Cap Sud Avignon https://t.co/scLXjbRCHy"}
+{"created_at": "Fri Oct 02 18:51:12 +0000 2015", "text": "#laguaffremeert @ Vieux-Lille https://t.co/sOAojgIyzM"}
+{"created_at": "Fri Oct 02 18:48:59 +0000 2015", "text": "#laguaffremeert @ Lille, France https://t.co/I8bmJZmcdq"}
+{"created_at": "Fri Oct 02 18:47:18 +0000 2015", "text": "#laguaffremeert @ Lille, France https://t.co/YZQ9j9B3ZA"}
+{"created_at": "Fri Oct 02 10:29:04 +0000 2015", "text": "#philippecroizon #apmaventure #apm @ Lille Grand Palais https://t.co/YL2fCygiR6"}
+{"created_at": "Fri Oct 02 10:23:39 +0000 2015", "text": "#philippecroizon #apmaventure #apm @ Lille Grand Palais https://t.co/k1VTIXgKun"}
+{"created_at": "Fri Oct 02 10:23:35 +0000 2015", "text": "#philippecroizon #apmaventure #apm @ Lille Grand Palais https://t.co/AAujKoyfSw"}
+{"created_at": "Fri Oct 02 10:12:43 +0000 2015", "text": "#philippecroizon #apmaventure #apm @ Lille Grand Palais https://t.co/ROKLjJbJn5"}
+{"created_at": "Fri Oct 02 09:23:47 +0000 2015", "text": "#philippecroizon #apm #apmaventure @ Lille Grand Palais https://t.co/TYQURa7tzw"}
+{"created_at": "Fri Oct 02 08:29:10 +0000 2015", "text": "Just posted a photo @ Lille Grand Palais https://t.co/dvbSRcVOUE"}
+{"created_at": "Fri Oct 02 08:19:40 +0000 2015", "text": "Improvisation #apm #apmaventure @ Lille Grand Palais https://t.co/n5RHOCUGzb"}
+{"created_at": "Fri Oct 02 08:18:30 +0000 2015", "text": "#apm #apmaventure @ Lille Grand Palais https://t.co/HuXwgZpOkz"}
+{"created_at": "Fri Oct 02 08:17:30 +0000 2015", "text": "#apm #apmaventure @ Lille Grand Palais https://t.co/fFs5fpQkGN"}
+{"created_at": "Fri Oct 02 08:12:32 +0000 2015", "text": "#apmaventure #apm @ Lille Grand Palais https://t.co/tPwrPoDCcH"}
+{"created_at": "Fri Oct 02 08:10:30 +0000 2015", "text": "#apmaventure #apm @ Lille Grand Palais https://t.co/fjhha3xi5H"}
+{"created_at": "Fri Oct 02 07:49:07 +0000 2015", "text": "#apmaventure #apm @ Lille Grand Palais https://t.co/o0njBhD3wo"}
+{"created_at": "Thu Oct 01 17:42:47 +0000 2015", "text": "Just posted a photo @ H\u00f4tel de ville de Lille https://t.co/xktqjamph5"}
+{"created_at": "Thu Oct 01 17:41:43 +0000 2015", "text": "Just posted a photo @ Porte de Paris https://t.co/goPbzaxWB5"}
+{"created_at": "Thu Oct 01 17:23:49 +0000 2015", "text": "Just posted a photo @ H\u00f4tel Hermitage Gantois https://t.co/I3GSnIIKWI"}
+{"created_at": "Thu Oct 01 17:22:25 +0000 2015", "text": "Just posted a photo @ H\u00f4tel Hermitage Gantois https://t.co/4rFqbEotmA"}
+{"created_at": "Thu Oct 01 17:20:05 +0000 2015", "text": "Just posted a photo @ H\u00f4tel Hermitage Gantois https://t.co/dK9haY2fLv"}
+{"created_at": "Thu Oct 01 10:51:11 +0000 2015", "text": "Just posted a photo @ Lille, France https://t.co/CiE7Z6o0DQ"}
+{"created_at": "Thu Oct 01 10:49:56 +0000 2015", "text": "Just posted a photo @ Op\u00e9ra de Lille https://t.co/eG7LNc6PRV"}
+{"created_at": "Thu Oct 01 10:48:11 +0000 2015", "text": "#apmaventure #apm @ Lille Grand Palais https://t.co/SIgpzFQkiR"}
+{"created_at": "Thu Oct 01 10:46:42 +0000 2015", "text": "#apmaventure @ Lille Grand Palais https://t.co/cwXIMZZFJS"}
+{"created_at": "Thu Oct 01 10:40:37 +0000 2015", "text": "Just posted a photo @ La Voix du Nord https://t.co/xPUC2v8kiW"}
+{"created_at": "Thu Oct 01 10:37:52 +0000 2015", "text": "\u00c9tonnant ce bar !! @ Le Dernier Bar Avant La Fin Du Monde https://t.co/wzCGD9Cs7T"}
+{"created_at": "Thu Oct 01 09:24:39 +0000 2015", "text": "@sylvainste30 #apmaventure"}
+{"created_at": "Thu Oct 01 09:08:35 +0000 2015", "text": "#philippecroizon #apm magnifique @ Lille Grand Palais https://t.co/JyNaIA1tO6"}
+{"created_at": "Thu Oct 01 08:32:11 +0000 2015", "text": "Just posted a photo @ Gare de Lille Flandres https://t.co/9CeJTRDfN6"}
+{"created_at": "Thu Oct 01 08:29:15 +0000 2015", "text": "Carnaval @ Gare de Lille Flandres https://t.co/oeaJb9xPQ0"}
+{"created_at": "Wed Sep 30 22:35:22 +0000 2015", "text": "Dessert Lillois  #apmaventure http://t.co/G6FOfsCH3D"}
+{"created_at": "Wed Sep 30 21:51:52 +0000 2015", "text": "Institution de Lille @ Vieux-Lille https://t.co/S1T8AIES2a"}
+{"created_at": "Wed Sep 30 20:53:10 +0000 2015", "text": "Just posted a photo @ Orange Bleue https://t.co/baUBjtpsLw"}
+{"created_at": "Wed Sep 30 19:49:48 +0000 2015", "text": "Partage avant la convention  #apmaventure http://t.co/lqrvF9vJJr"}
+{"created_at": "Wed Sep 30 19:45:10 +0000 2015", "text": "RT @ClaudeALLET: #apmaventure c'est parti http://t.co/BpBDKFu2HM"}
+{"created_at": "Wed Sep 30 18:56:36 +0000 2015", "text": "Just posted a photo @ Orange Bleue https://t.co/50mjdqpqui"}
+{"created_at": "Wed Sep 30 18:54:52 +0000 2015", "text": "Just posted a photo https://t.co/00km02FuJ3"}
+{"created_at": "Wed Sep 30 18:10:24 +0000 2015", "text": "Toi ton @ Bruxelles Gare du Midi https://t.co/RGNMSbcN4s"}
+{"created_at": "Wed Sep 30 17:56:45 +0000 2015", "text": "Just posted a photo @ Atomium https://t.co/glD7bXD2VF"}
+{"created_at": "Wed Sep 30 14:18:04 +0000 2015", "text": "Just posted a photo @ Atomium https://t.co/2sJ97fzGF7"}
+{"created_at": "Tue Sep 29 08:37:28 +0000 2015", "text": "#julesbianchi17 #JB17 #FlyHighJules #foreverjules https://t.co/8ukSLNMaWT"}
+{"created_at": "Tue Sep 29 04:30:54 +0000 2015", "text": "Philippe Bianchi : \"A chaque fois que je vois une F1, c\u2019est insupportable\" https://t.co/8WQ3HrOZJo"}
+{"created_at": "Mon Sep 28 10:27:11 +0000 2015", "text": "Just posted a photo https://t.co/9g8Q8A2zo1"}
+{"created_at": "Mon Sep 28 10:22:22 +0000 2015", "text": "Just posted a photo https://t.co/TtcquZzHJ2"}
+{"created_at": "Mon Sep 28 10:20:24 +0000 2015", "text": "Just posted a photo https://t.co/ElGWjGmwMc"}
+{"created_at": "Mon Sep 28 10:15:39 +0000 2015", "text": "Just posted a photo https://t.co/wa6rw3ah65"}
+{"created_at": "Mon Sep 28 10:07:36 +0000 2015", "text": "Just posted a photo https://t.co/X9l3B5qwiJ"}
+{"created_at": "Mon Sep 28 05:08:22 +0000 2015", "text": "#yvonamiel #VROOAArt https://t.co/gZ5IOQkIv9"}
+{"created_at": "Sun Sep 27 19:09:03 +0000 2015", "text": "Just posted a photo @ Villeneuve-l\u00e8s-Avignon https://t.co/KfnEw8GeJY"}
+{"created_at": "Sun Sep 27 19:06:22 +0000 2015", "text": "Just posted a photo https://t.co/R1EqEmtS7H"}
+{"created_at": "Sun Sep 27 19:06:20 +0000 2015", "text": "Super sortie entre amis @ Villeneuve-l\u00e8s-Avignon https://t.co/KcCBLcwFXW"}
+{"created_at": "Sun Sep 27 11:40:23 +0000 2015", "text": "Travaux sur le petit Rh\u00f4ne @ Aramon, Gard https://t.co/oIB3Ue8tK2"}
+{"created_at": "Sun Sep 27 11:38:30 +0000 2015", "text": "Travaux sur le petit Rh\u00f4ne @ Aramon, Gard https://t.co/81ujxRHiFS"}
+{"created_at": "Sun Sep 27 11:22:42 +0000 2015", "text": "Horse ball @ Aramon, Gard https://t.co/wNYmdRK4Tb"}
+{"created_at": "Sun Sep 27 08:12:44 +0000 2015", "text": "#vrooaart #yvonamiel #Antoinelepilote https://t.co/QIJsyQAPQt"}
+{"created_at": "Sun Sep 27 08:10:01 +0000 2015", "text": "#vrooaart #Antoinelepilote #yvonamiel https://t.co/I1Er9TsVRX"}
+{"created_at": "Sun Sep 27 08:06:30 +0000 2015", "text": "#VROOAArt #antoinelepilote #JB17 #neverforgetjb17 #julesforever #yvonamiel https://t.co/5gcvII1jL1"}
+{"created_at": "Sun Sep 27 08:01:31 +0000 2015", "text": "#vrooaart #yvonamiel https://t.co/VOjaRorVL9"}
+{"created_at": "Sun Sep 27 07:57:48 +0000 2015", "text": "#StephanaOrtelli #yvonamiel #antoinelepilote #VROOAArt https://t.co/zGha7bIeEg"}
+{"created_at": "Sun Sep 27 07:52:42 +0000 2015", "text": "Just posted a photo https://t.co/ZRlWaotQAa"}
+{"created_at": "Sun Sep 27 07:43:35 +0000 2015", "text": "#JB17 #neverforgetjb17 #julesforever https://t.co/Zo91FroulP"}
+{"created_at": "Sun Sep 27 07:42:01 +0000 2015", "text": "#julesforever #neverforgetjb17 #JB17 https://t.co/p71NS8mbz4"}
+{"created_at": "Sun Sep 27 07:11:48 +0000 2015", "text": "#JB17 #neverforgetjb17 #julesforever https://t.co/vSFcmQPqZr"}
+{"created_at": "Sun Sep 27 07:09:00 +0000 2015", "text": "Just posted a photo https://t.co/rHEWWRVOPy"}
+{"created_at": "Sun Sep 27 07:08:01 +0000 2015", "text": "Just posted a photo https://t.co/6EDvxRH8hW"}
+{"created_at": "Sun Sep 27 07:05:58 +0000 2015", "text": "Just posted a photo https://t.co/ACJ9nsY8fA"}
+{"created_at": "Sun Sep 27 07:02:58 +0000 2015", "text": "Just posted a photo https://t.co/hXXzV85zFK"}
+{"created_at": "Sat Sep 26 06:24:25 +0000 2015", "text": "Guisepe @ Napoli Mia https://t.co/zCQ0xPDR4p"}
+{"created_at": "Fri Sep 25 18:23:49 +0000 2015", "text": "Magnifique Mont Fuji @ Mount Fuji https://t.co/c8Cjqf2xpy"}
+{"created_at": "Fri Sep 25 18:19:39 +0000 2015", "text": "Le pont du Gard @ Pont du Gard https://t.co/2uyH7eVco2"}
+{"created_at": "Fri Sep 25 18:15:56 +0000 2015", "text": "Just posted a photo https://t.co/lnrnNXmdwS"}
+{"created_at": "Fri Sep 25 17:57:20 +0000 2015", "text": "Just posted a photo @ Paris, France https://t.co/uF1C8FaPlT"}
+{"created_at": "Fri Sep 25 10:21:56 +0000 2015", "text": "#neverforgetjules #JB17 #julesbianchi17 #EVLA @ Circuit Paul Ricard OFFICIEL https://t.co/ZqQB820Qbw"}
+{"created_at": "Thu Sep 24 21:59:05 +0000 2015", "text": "Just posted a photo @ Napoli Mia https://t.co/Bp3OBGCamp"}
+{"created_at": "Thu Sep 24 20:31:39 +0000 2015", "text": "Just posted a photo @ Les Luminessences d'Avignon https://t.co/qU3rVR2zYN"}
+{"created_at": "Thu Sep 24 20:21:12 +0000 2015", "text": "Just posted a photo @ Les Luminessences d'Avignon https://t.co/5KybsMxcwF"}
+{"created_at": "Thu Sep 24 20:19:15 +0000 2015", "text": "Just posted a photo @ Les Luminessences d'Avignon https://t.co/F3sS9i1kqH"}
+{"created_at": "Thu Sep 24 19:52:38 +0000 2015", "text": "Jean Vilar @ Les Luminessences d'Avignon https://t.co/14Hf3RMwGd"}
+{"created_at": "Thu Sep 24 19:49:54 +0000 2015", "text": "Frederic Mistrak @ Les Luminessences d'Avignon https://t.co/EQReaAEfLd"}
+{"created_at": "Thu Sep 24 19:41:00 +0000 2015", "text": "Just posted a photo @ Les Luminessences d'Avignon https://t.co/vY4e4JV6WW"}
+{"created_at": "Thu Sep 24 19:39:43 +0000 2015", "text": "Just posted a photo @ Les Luminessences d'Avignon https://t.co/aco75Jls8W"}
+{"created_at": "Thu Sep 24 19:37:43 +0000 2015", "text": "Just posted a photo @ Les Luminessences d'Avignon https://t.co/wRayodjR2t"}
+{"created_at": "Thu Sep 24 19:35:10 +0000 2015", "text": "#lesluminessences @ Les Luminessences d'Avignon https://t.co/S2DFTrBUwv"}
+{"created_at": "Thu Sep 24 19:28:53 +0000 2015", "text": "#lesluminessences @ Palais des Papes - Avignon https://t.co/QmWiI9i4ED"}
+{"created_at": "Thu Sep 24 19:26:11 +0000 2015", "text": "#lesluminessences @ Palais des Papes - Avignon https://t.co/d93PTPBM1g"}
+{"created_at": "Thu Sep 24 09:38:46 +0000 2015", "text": "Labelexpo Europe 2015 https://t.co/VQ6tiLA9Zd"}
+{"created_at": "Thu Sep 24 06:20:58 +0000 2015", "text": "#julesbianchi17 #JB17 #neverforgetjules https://t.co/B1tw3YvWhd"}
+{"created_at": "Thu Sep 24 05:21:48 +0000 2015", "text": "Just posted a photo https://t.co/3UebicHO8o"}
+{"created_at": "Wed Sep 23 20:01:51 +0000 2015", "text": "Just posted a photo https://t.co/jB9KcE7uUf"}
+{"created_at": "Wed Sep 23 19:52:48 +0000 2015", "text": "Belle essai de #yannicknyanga #equipedefrancederugby2015 https://t.co/jUWrYni0XW"}
+{"created_at": "Wed Sep 23 19:50:50 +0000 2015", "text": "Bel essai de #yannicknyanga #equipedefrancederugby2015 https://t.co/gGGo3bdYvg"}
+{"created_at": "Wed Sep 23 07:29:24 +0000 2015", "text": "Deuxi\u00e8me \u00e9dition de la Bike and Run de Paris, le 18 octobre 2015 | http://t.co/UOXgLdqqJx http://t.co/jj86tATI1k"}
+{"created_at": "Wed Sep 23 07:22:10 +0000 2015", "text": "Partez \u00e0 la d\u00e9couverte du Mont-Saint-Michel, tr\u00e9sor du patrimoine fran\u00e7ais aux multiples myst\u00e8res http://t.co/ifGeydubEy via @SooCurious_"}
+{"created_at": "Wed Sep 23 05:08:36 +0000 2015", "text": "RT @valek_b: Quand t'essayes d'imiter Spiderman. RIP #TechnoParade http://t.co/apm4s6g8Wg"}
+{"created_at": "Wed Sep 23 05:08:07 +0000 2015", "text": "Frankie Knuckles's vinyl gets a permanent public home@"}
+{"created_at": "Mon Sep 21 06:55:37 +0000 2015", "text": "Le superbe alley-oop de Nicolas Batum http://t.co/FmLgZDqPis via @lequipe"}
+{"created_at": "Mon Sep 21 05:39:33 +0000 2015", "text": "#6hoursofthecircuitoftheamericas #fiawec #benoittreluyer belle 2eme place https://t.co/Amiwoa9GKY"}
+{"created_at": "Mon Sep 21 05:38:40 +0000 2015", "text": "#6hoursofthecircuitoftheamericas #fiawec #benoittreluyer belle 2eme place https://t.co/pZWlzbTja3"}
+{"created_at": "Mon Sep 21 05:35:54 +0000 2015", "text": "Beau podium lmp2 #ligier #juliencanal #romanrusinov #fiawec #6hoursofthecircuitoftheamericas https://t.co/0EeArZODHl"}
+{"created_at": "Mon Sep 21 05:33:44 +0000 2015", "text": "#6hoursofthecircuitoftheamericas #fiawec #juliencanal #romanrusinov f\u00e9licitations https://t.co/0wedjKRHIj"}
+{"created_at": "Mon Sep 21 05:19:31 +0000 2015", "text": "#fiawec #6hoursofthecircuitoftheamericas americas https://t.co/olumlCU3ai"}
+{"created_at": "Sun Sep 20 16:14:14 +0000 2015", "text": "La c........ Rougeasse https://t.co/qrlenrFIUe"}
+{"created_at": "Sun Sep 20 16:11:37 +0000 2015", "text": "Just posted a photo @ Ville de Villeneuve lez Avignon https://t.co/XTek1JJ0Cc"}
+{"created_at": "Sun Sep 20 15:43:41 +0000 2015", "text": "La gambade @ Villeneuve-l\u00e8s-Avignon https://t.co/OrLiqwFxI3"}
+{"created_at": "Sun Sep 20 15:22:29 +0000 2015", "text": "L'Homme qui escalade et ses chiens!!! @ Ville de Villeneuve lez Avignon https://t.co/9jdVPCnGDp"}
+{"created_at": "Sun Sep 20 09:25:01 +0000 2015", "text": "La gambade #villeneuvelesavignon @ Ville de Villeneuve lez Avignon https://t.co/n3GH4djaUR"}
+{"created_at": "Sun Sep 20 09:20:45 +0000 2015", "text": "Vive la gambade #villeneuvelesavignon @ Ville de Villeneuve lez Avignon https://t.co/iBpa4wCyjr"}
+{"created_at": "Sun Sep 20 07:52:33 +0000 2015", "text": "Enfin une sortie d'Homme @ Ville de Villeneuve lez Avignon https://t.co/jgTAZ1xkiT"}
+{"created_at": "Sat Sep 19 06:00:19 +0000 2015", "text": "Just posted a photo https://t.co/rGV2pMbEsV"}
+{"created_at": "Fri Sep 18 13:39:23 +0000 2015", "text": "\u00c7a c'\u00e9tait l'ann\u00e9e derni\u00e8re https://t.co/bDiHpXOaeo"}
+{"created_at": "Fri Sep 18 09:17:44 +0000 2015", "text": "\u00ab\u00a0La tristesse est infinie\u00a0\u00bb - http://t.co/AqxNXftLP7"}
+{"created_at": "Fri Sep 18 09:16:03 +0000 2015", "text": "RT @usdk1: @FIAWEC @circuitamericas going on now http://t.co/J2jtolmlXy"}
+{"created_at": "Fri Sep 18 09:15:42 +0000 2015", "text": "RT @FIAWEC: #WECSound from #WEC #6hCOTA! RT this if you're also excited to hear our machines roar! https://t.co/q7H6gyVl4x"}
+{"created_at": "Fri Sep 18 09:13:37 +0000 2015", "text": "Vincent Collet : \u00ab\u00a0Une succession de cadeaux des arbitres\u00a0\u00bb - http://t.co/fiwoxJ8AKx"}
+{"created_at": "Fri Sep 18 07:28:53 +0000 2015", "text": "#eurobasket2015 #equipedefrance #ffbb https://t.co/mUPP3UOFdF"}
+{"created_at": "Thu Sep 17 06:18:46 +0000 2015", "text": "#mickaelgelabale #equipedefrance #eurobasket2015 #ffbb https://t.co/tM5smpK6fz"}
+{"created_at": "Thu Sep 17 06:14:36 +0000 2015", "text": "#equipedefrance #equipedefrance #ffbb https://t.co/1I4rwWb8WE"}
+{"created_at": "Thu Sep 17 06:14:31 +0000 2015", "text": "#tonyparker #equipedefrance #eurobasket2015 #ffbb https://t.co/16imQvcgwM"}
+{"created_at": "Thu Sep 17 06:10:59 +0000 2015", "text": "#rudygobert #equipedefrance #eurobasket2015 #ffbb https://t.co/bCCqUkzWz3"}
+{"created_at": "Thu Sep 17 06:08:34 +0000 2015", "text": "#eurobasket2015 #ffbb #equipedefrance #rudygobert https://t.co/2sPYNAnTKW"}
+{"created_at": "Tue Sep 15 21:27:44 +0000 2015", "text": "Keep the fighting spirit #tonyparker #eurobasket2015 #equipedefrance #ffb https://t.co/vDR6yfBOnr"}
+{"created_at": "Tue Sep 15 21:25:29 +0000 2015", "text": "#tonyparker is back  #eurobasket2015 #equipedefrance #ffb https://t.co/DYxD92c4Q8"}
+{"created_at": "Tue Sep 15 21:23:55 +0000 2015", "text": "#tonyparker is back  #eurobasket2015 #equipedefrance #ffb https://t.co/kKtuJXqGak"}
+{"created_at": "Tue Sep 15 21:22:02 +0000 2015", "text": "#rudygobert dunk passe de #tonyparker #eurobasket2015 #equipedefrance #ffb https://t.co/gnxK2Kpgxn"}
+{"created_at": "Tue Sep 15 21:20:09 +0000 2015", "text": "#rudygobert dunk passe de #tonyparker #eurobasket2015 #equipedefrance #ffb https://t.co/pOxqhNZB8z"}
+{"created_at": "Tue Sep 15 21:17:48 +0000 2015", "text": "#rudygobert #equipedefrance #eurobasket2015 #ffb https://t.co/zDxKm6EnaT"}
+{"created_at": "Tue Sep 15 21:16:29 +0000 2015", "text": "#rudygobert #equipedefrance #eurobasket2015 #ffb https://t.co/dYvTrxqDQI"}
+{"created_at": "Tue Sep 15 21:14:27 +0000 2015", "text": "Victoire #equipedefrance #eurobasket2015 #ffb #rudygobert #tonyparker https://t.co/1HoLG3dv5B"}
+{"created_at": "Tue Sep 15 21:09:08 +0000 2015", "text": "Victoire de #equipedefrance #eurobasket2015 #rudygobert #tonyparker #ffb https://t.co/7vxK07GOOJ"}
+{"created_at": "Tue Sep 15 21:07:03 +0000 2015", "text": "#eurobasket2015 #equipedefrance #ffb #rudygobert #tonyparker victoire https://t.co/srtOk33dIu"}
+{"created_at": "Tue Sep 15 21:04:53 +0000 2015", "text": "#rudygobert dunk #equipedefrance #eurobasket2015 #ffb https://t.co/mtQO1IpshC"}
+{"created_at": "Tue Sep 15 21:01:18 +0000 2015", "text": "#rudygobert dunk par #tonyparker #eurobasket2015 #equipedefrance #ffb https://t.co/JN8XRleu3X"}
+{"created_at": "Tue Sep 15 20:00:04 +0000 2015", "text": "A la mi temps #equipedefrance m\u00e8ne #eurobasket2015 #tonyparker #ffb https://t.co/WJ5IM3c0n9"}
+{"created_at": "Tue Sep 15 19:57:56 +0000 2015", "text": "#ffb #equipedefrance #eurobasket2015 #tonyparker 3 points https://t.co/GQK6qeezsI"}
+{"created_at": "Tue Sep 15 19:56:03 +0000 2015", "text": "#tonyparker is back #eurobasket2015 #equipedefrance #ffb https://t.co/dkmFEO65Hm"}
+{"created_at": "Tue Sep 15 19:49:01 +0000 2015", "text": "#tonyparker #ffb #equipedefrance #eurobasket2015 https://t.co/Km8X7odAAq"}
+{"created_at": "Tue Sep 15 19:43:00 +0000 2015", "text": "#tonyparker is back #eurobasket2015 #equipedefrance #ffb https://t.co/fpaw8Ndp4h"}
+{"created_at": "Tue Sep 15 13:24:13 +0000 2015", "text": "Wrap de Thon au S\u00e9same &amp; Avocat / Tuna &amp; Avocado Wrap http://t.co/zlrxNfV4u0"}
+{"created_at": "Tue Sep 15 13:22:36 +0000 2015", "text": "Cheesecake avocat et citron vert http://t.co/eKGrvHPbJ8"}
+{"created_at": "Tue Sep 15 13:22:16 +0000 2015", "text": "Pennes demi-compl\u00e8tes avec sa sauce cr\u00e9meuse d\u00e9licatement acidul\u00e9e (v\u00e9g\u00e9talien) http://t.co/JNqxLlrHws"}
+{"created_at": "Tue Sep 15 13:13:43 +0000 2015", "text": "Croque monsieur \u00e9pinard, oignons, cheddar http://t.co/95v8qARlws"}
+{"created_at": "Tue Sep 15 13:09:31 +0000 2015", "text": "biscuit / triangle noix de coco-chocolat { sans oeuf ni beurre } 2 s http://t.co/sU9ZRvNgCH"}
+{"created_at": "Tue Sep 15 13:08:43 +0000 2015", "text": "Mini g\u00e2teau au yaourt au coeur gourmand \u00a9 Christelle Milesi http://t.co/PGsxXopLnH"}
+{"created_at": "Tue Sep 15 13:08:17 +0000 2015", "text": "Le meilleur fondant au chocolat du monde...   (Recette \u00e0 IG bas \u00e0 condition de pas tout manger d'un  http://t.co/KNIvAsMhOj"}
+{"created_at": "Tue Sep 15 13:08:00 +0000 2015", "text": "Bonjour Darling - Blog Illustration, Cuisine et DIY Bordeaux: D\u00e9licieux muffins super chocolat\u00e9s http://t.co/BbRlh1Z74j"}
+{"created_at": "Tue Sep 15 13:07:35 +0000 2015", "text": "Fondant chocolat, banane, coco | sans beurre | Objectif : Z\u00e9ro Miette! http://t.co/k1OPHKZoDH"}
+{"created_at": "Tue Sep 15 13:06:35 +0000 2015", "text": "Sucettes de rose des sables \u00e0 l\u2019amande http://t.co/jlyG08WUqB"}
+{"created_at": "Tue Sep 15 04:35:30 +0000 2015", "text": "Just posted a photo @ Gare d'Avignon TGV https://t.co/zOc7yhYQBk"}
+{"created_at": "Tue Sep 15 03:31:51 +0000 2015", "text": "http://t.co/o10O71GNuQ via @youtube"}
+{"created_at": "Tue Sep 15 03:30:47 +0000 2015", "text": "http://t.co/D1KUXW5Psh via @youtube"}
+{"created_at": "Mon Sep 14 13:20:13 +0000 2015", "text": "#colormerad @ Ville de Villeneuve lez Avignon https://t.co/2MAEnHrOUr"}
+{"created_at": "Mon Sep 14 04:31:10 +0000 2015", "text": "#colormerad @ Ville de Villeneuve lez Avignon https://t.co/ShKN8AqNkM"}
+{"created_at": "Sun Sep 13 19:30:18 +0000 2015", "text": "Just posted a photo @ Ville de Villeneuve lez Avignon https://t.co/KlCC3IAEVi"}
+{"created_at": "Sun Sep 13 19:21:40 +0000 2015", "text": "Just posted a photo @ Ville de Villeneuve lez Avignon https://t.co/0oPV6dRlww"}
+{"created_at": "Sun Sep 13 19:20:53 +0000 2015", "text": "Just posted a photo @ Ville de Villeneuve lez Avignon https://t.co/2gp5VfaQhw"}
+{"created_at": "Sun Sep 13 19:03:27 +0000 2015", "text": "#colormerad @ Ville de Villeneuve lez Avignon https://t.co/mlX9yUgFJ9"}
+{"created_at": "Sun Sep 13 12:41:04 +0000 2015", "text": "#colormerad @ Ville de Villeneuve lez Avignon https://t.co/jNtUAv0DKY"}
+{"created_at": "Sun Sep 13 12:37:38 +0000 2015", "text": "Just posted a photo @ Ville de Villeneuve lez Avignon https://t.co/nVgjbZWInl"}
+{"created_at": "Sun Sep 13 12:31:02 +0000 2015", "text": "#colormerad @ Tour Philippe-le-Bel https://t.co/RmAfiMdh5C"}
+{"created_at": "Sun Sep 13 12:29:41 +0000 2015", "text": "#colormerad @ Tour Philippe-le-Bel https://t.co/u3YFZSYxF7"}
+{"created_at": "Sun Sep 13 12:26:34 +0000 2015", "text": "#colormerad @ Villeneuve-l\u00e8s-Avignon https://t.co/EvFe23NvUm"}
+{"created_at": "Sun Sep 13 12:25:03 +0000 2015", "text": "#colormerad Happy birthday Carla @ Villeneuve-l\u00e8s-Avignon https://t.co/amNwk0YKM6"}
+{"created_at": "Sun Sep 13 12:20:55 +0000 2015", "text": "#colormerad @ Villeneuve-l\u00e8s-Avignon https://t.co/oVOiy8jkAQ"}
+{"created_at": "Sun Sep 13 12:17:55 +0000 2015", "text": "#colormerad @ Villeneuve-l\u00e8s-Avignon https://t.co/KDxraLKbVM"}
+{"created_at": "Sun Sep 13 11:50:38 +0000 2015", "text": "#colormerad @ Villeneuve-l\u00e8s-Avignon https://t.co/zeHTcz2jM9"}
+{"created_at": "Sun Sep 13 10:53:42 +0000 2015", "text": "Just posted a video https://t.co/3206cnYt44"}
+{"created_at": "Sun Sep 13 10:18:22 +0000 2015", "text": "Just posted a photo @ Fort Saint-Andr\u00e9 https://t.co/vBH9mTzrSU"}
+{"created_at": "Sun Sep 13 08:55:02 +0000 2015", "text": "D\u00e9part de la #colormerad avec jean marc roubaud @ Villeneuve Lez Avignon https://t.co/z7tUVrJBQY"}
+{"created_at": "Sun Sep 13 08:13:41 +0000 2015", "text": "#colormerad @ Villeneuve-l\u00e8s-Avignon https://t.co/VJDU3v74HE"}
+{"created_at": "Sun Sep 13 08:04:26 +0000 2015", "text": "Pr\u00eat pour la #colormerad @ Villeneuve-l\u00e8s-Avignon https://t.co/pVssQ6rPQx"}
+{"created_at": "Fri Sep 11 05:58:34 +0000 2015", "text": "@rudygobert15 @tonyparker #equipedefrance #eurobasket2015 #ffbb #montpellierarena https://t.co/9OPkkdMBFJ"}
+{"created_at": "Fri Sep 11 05:56:29 +0000 2015", "text": "#rudygobert @rudygobert15 #ffbb #eurobasket2015 #equipedefrance https://t.co/T5a045TFvw"}
+{"created_at": "Fri Sep 11 05:52:23 +0000 2015", "text": "#montpellierarena #equipedefrance #rudygobert #eurobasket2015 #ffbb en 1/8 de finale @ Park&amp;Suite\u2026 https://t.co/nvpzcImLmJ"}
+{"created_at": "Wed Sep 09 15:43:20 +0000 2015", "text": "Une glace maison faite en 5 mn, avec 2 ingr\u00e9dients, et sans sorbeti\u00e8re ? #Glace #Vanille #Caramel #S http://t.co/YP8Q7X58Mv"}
+{"created_at": "Wed Sep 09 15:42:51 +0000 2015", "text": "Porc au caramel #cuisine #recette #asiatique #porc #caramel #riz #chinese #asian #food http://t.co/PXLeVn9lBr"}
+{"created_at": "Wed Sep 09 15:42:12 +0000 2015", "text": "TEST\u00c9E : UNE TUERIE A REFAIRE !!! ideal pour une entree ou accompagn\u00e9e d'une salade verte au d\u00eener.  http://t.co/tXkPbZe17k"}
+{"created_at": "Wed Sep 09 15:38:07 +0000 2015", "text": "Cannel\u00e9s au Ch\u00e8vre http://t.co/0ITsrcyQI4"}
+{"created_at": "Wed Sep 09 15:37:56 +0000 2015", "text": "Aujourd'hui, je vous popose une recette sal\u00e9e, c'est assez rare. Mais elle est tout de m\u00eame une tuer http://t.co/DB9jkxZBQB"}
+{"created_at": "Wed Sep 09 15:37:28 +0000 2015", "text": "Cannel\u00e9s sal\u00e9s aux tomates s\u00e9ch\u00e9es, jambon, origan &amp; gruy\u00e8re - Les D\u00e9lices De Marina http://t.co/irLACwTORz"}
+{"created_at": "Wed Sep 09 15:37:03 +0000 2015", "text": "Cette recette est une vraie tuerie ! Avec seulement 3 ingr\u00e9dients, faites des barres chocolat\u00e9es \u00e0 l http://t.co/opCuAN8FP2"}
+{"created_at": "Wed Sep 09 15:35:11 +0000 2015", "text": "Japan http://t.co/JT6cgHUq9K"}
+{"created_at": "Wed Sep 09 15:35:01 +0000 2015", "text": "...Japan http://t.co/aznJQf6IoK"}
+{"created_at": "Wed Sep 09 15:34:49 +0000 2015", "text": "Kenjin-ji Temple, Kyoto, Japan http://t.co/fUFE9xHpOH"}
+{"created_at": "Wed Sep 09 15:34:36 +0000 2015", "text": "Tips and suggestions for planning at visit to the Temples of Angkor, Cambodia. http://t.co/7ot5sRiCbm"}
+{"created_at": "Wed Sep 09 15:34:22 +0000 2015", "text": "Cherry blossoms in full bloom at Mount Yoshino, Nara, Japan http://t.co/9HITTWCe1F"}
+{"created_at": "Wed Sep 09 15:34:05 +0000 2015", "text": "Spring\uff5cA cherry tree in full bloom  Sakura, Tokyo Japan http://t.co/0FrMyYvKGi"}
+{"created_at": "Wed Sep 09 15:33:42 +0000 2015", "text": "Japan http://t.co/zTobQwI3Qa"}
+{"created_at": "Wed Sep 09 15:33:39 +0000 2015", "text": "Tokyo, Japan http://t.co/4qhUou5E6W"}
+{"created_at": "Wed Sep 09 15:33:21 +0000 2015", "text": "Kongobu-ji zen garden, Koyasan, Japan. http://t.co/9xDn6HLfPI"}
+{"created_at": "Wed Sep 09 15:33:03 +0000 2015", "text": "Travel Tips - Things to see and do in Tokyo, Japan http://t.co/LwLGMUfntG"}
+{"created_at": "Wed Sep 09 15:32:52 +0000 2015", "text": "Temple, cherry, blossoms, Japan! http://t.co/0ibF07asXN"}
+{"created_at": "Wed Sep 09 15:32:43 +0000 2015", "text": "Tokyo, Japan - Double click on the photo to get a #travel itinerary to #Tokyo at http://t.co/HQgyxqzAHB http://t.co/O7uPSiEiP2"}
+{"created_at": "Wed Sep 09 15:32:26 +0000 2015", "text": "Spring in Daikaku-ji Temple, Kyoto, Japan http://t.co/mPaHaDm6Q7"}
+{"created_at": "Wed Sep 09 15:32:11 +0000 2015", "text": "Tokyo, Japan http://t.co/cDmg1Olo5o"}
+{"created_at": "Wed Sep 09 15:32:02 +0000 2015", "text": "Senso-ji, Asakusa, Tokyo, Japan http://t.co/GA5sdwOE4m"}
+{"created_at": "Wed Sep 09 15:31:41 +0000 2015", "text": "Paris, France http://t.co/hXqI3DYuc6"}
+{"created_at": "Wed Sep 09 15:31:30 +0000 2015", "text": "#Paris #France http://t.co/G0qCS6xgEw"}
+{"created_at": "Wed Sep 09 15:31:16 +0000 2015", "text": "Paris, France http://t.co/R3lgQjDCNn"}
+{"created_at": "Wed Sep 09 15:31:04 +0000 2015", "text": "Paris, France http://t.co/FVjBjMWVpm"}
+{"created_at": "Wed Sep 09 15:30:58 +0000 2015", "text": "Paris, France http://t.co/COqCFtidMV"}
+{"created_at": "Wed Sep 09 15:30:32 +0000 2015", "text": "Paris, France http://t.co/IlAimDwO5H"}
+{"created_at": "Wed Sep 09 15:30:08 +0000 2015", "text": "Fontaine de M\u00e9dicis, Paris, France (HDR) http://t.co/S7dbgwTYQg"}
+{"created_at": "Wed Sep 09 15:29:57 +0000 2015", "text": "Tour Eiffel &amp; Sacr\u00e9 Coeur, Paris, France (HDR / DRI) at the Blue Hour http://t.co/KBlf8QrnpM"}
+{"created_at": "Wed Sep 09 15:29:25 +0000 2015", "text": "5 ingredient homemade ice cream http://t.co/BBB3TBiQJi"}
+{"created_at": "Wed Sep 09 15:29:14 +0000 2015", "text": "5 ingredient homemade ice cream http://t.co/zhG7QX1Oxo"}
+{"created_at": "Tue Sep 08 07:14:08 +0000 2015", "text": "#tonyparker #ffbb #eurobasket2015 #equipedefrance #montpellierarena @ Park&amp;Suite Arena - Montpellier https://t.co/nFdXCuju8K"}
+{"created_at": "Tue Sep 08 05:47:29 +0000 2015", "text": "Allez les bleus #equipedefrance #eurobasket2015 #montpellierarena #ffbb @ Park&amp;Suite Arena - Montpellier https://t.co/25wBwkIKwr"}
+{"created_at": "Tue Sep 08 05:42:50 +0000 2015", "text": "#ffbb #montpellierarena #eurobasket2015 #equipedefrance @ Park&amp;Suite Arena - Montpellier https://t.co/Sz6HD8lPPZ"}
+{"created_at": "Tue Sep 08 05:38:29 +0000 2015", "text": "Victoire contre la Pologne #eurobasket2015 #montpellierarena #ffbb @ Park&amp;Suite Arena - Montpellier https://t.co/mV6lQ75yB6"}
+{"created_at": "Tue Sep 08 05:01:52 +0000 2015", "text": "Une histoire de classement face \u00e0 la Pologne http://t.co/bhTHA6AMPZ via @lequipe"}
+{"created_at": "Mon Sep 07 21:31:38 +0000 2015", "text": "#eurobasket2015 #montpellierarena #ffbb https://t.co/58jaMZJrhl"}
+{"created_at": "Mon Sep 07 21:31:05 +0000 2015", "text": "#ffbb #montpellierarena #eurobasket2015 allez les bleus https://t.co/Hz02IuMYZZ"}
+{"created_at": "Mon Sep 07 14:16:31 +0000 2015", "text": "EN DIRECT. Eurobasket: Les Bleus d\u00e9marrent fort contre la Bosnie https://t.co/8WoBxaIxiF"}
+{"created_at": "Mon Sep 07 14:16:15 +0000 2015", "text": "Eurobasket: L'\u00e9crasante victoire de la France contre la Bosnie \u00e0 revivre en direct - http://t.co/mKPaM4YgtT via @20minutes"}
+{"created_at": "Mon Sep 07 07:46:40 +0000 2015", "text": "Ce soir avec les amis allez L'equipe de france #ffbb #montpellierarena #eurobasket2015 https://t.co/m0E35t5kKw"}
+{"created_at": "Sun Sep 06 10:27:05 +0000 2015", "text": "Just posted a photo @ Domazam https://t.co/PtC1pjTRZZ"}
+{"created_at": "Fri Sep 04 10:11:38 +0000 2015", "text": "\u00c9ventail de pommes de terre \u00e0 lail et \u00e0 la fleur de sel http://t.co/EyWan52Ad9"}
+{"created_at": "Fri Sep 04 10:11:03 +0000 2015", "text": "Mini croissants feuillet\u00e9s sauce aux tomates s\u00e9ch\u00e9es et mozzarella http://t.co/eIv90DaD8I"}
+{"created_at": "Fri Sep 04 10:10:54 +0000 2015", "text": "Poulet croustillant au citron et salade de courgettes/fenouil http://t.co/k81W7IkLZj"}
+{"created_at": "Fri Sep 04 10:10:39 +0000 2015", "text": "croquettes de riz http://t.co/hHbknDRfkR"}
+{"created_at": "Fri Sep 04 10:09:56 +0000 2015", "text": "Cuisine design pour de petits plats parfaits / Design kitchen to cook perfectly http://t.co/KtGZvhQKBQ"}
+{"created_at": "Fri Sep 04 10:09:19 +0000 2015", "text": "Easy Homemade Bounty aka Mounds http://t.co/KTTmTh0yik"}
+{"created_at": "Fri Sep 04 10:08:54 +0000 2015", "text": "Cette recette est une vraie tuerie ! Avec seulement 3 ingr\u00e9dients, faites des barres chocolat\u00e9es \u00e0 l http://t.co/8UOtzvP381"}
+{"created_at": "Fri Sep 04 10:08:14 +0000 2015", "text": "Loft http://t.co/dGAnkN8J0p"}
+{"created_at": "Fri Sep 04 10:07:56 +0000 2015", "text": "Amsterdam : Warehouse. / Le loft familial de Marius Haverkamp. http://t.co/M31QMCb15F"}
+{"created_at": "Fri Sep 04 10:07:45 +0000 2015", "text": "Amsterdam : Warehouse. / Le loft familial de Marius Haverkamp. http://t.co/8q0Rynlevv"}
+{"created_at": "Fri Sep 04 10:07:41 +0000 2015", "text": "Loft a http://t.co/lsgWbcuQkj"}
+{"created_at": "Fri Sep 04 10:07:33 +0000 2015", "text": "Interior design, decoration, loft, furniture, Industrial http://t.co/PXxzdZbbnf"}
+{"created_at": "Fri Sep 04 10:07:10 +0000 2015", "text": "loft http://t.co/Mye8OFZAJp"}
+{"created_at": "Fri Sep 04 10:06:47 +0000 2015", "text": "Cuisine en acier dans un loft \u00e0 San Francisco, photo par Scott Hargis pour Muratore / Notre Loft http://t.co/2N9VNee5Ir"}
+{"created_at": "Fri Sep 04 10:06:28 +0000 2015", "text": "well, hello open space. http://t.co/VNfk0oj9E6"}
+{"created_at": "Fri Sep 04 10:06:06 +0000 2015", "text": "Loft boh\u00e8me en r\u00e9gion parisienne | Le magazine Ateliers Lofts &amp; Associ\u00e9s http://t.co/dCaYRr8acY"}
+{"created_at": "Thu Sep 03 12:47:40 +0000 2015", "text": "Amazingly Symmetrical Reflections of NYC Captured from the Tops of Skyscrapers - My Modern Met http://t.co/QZgJTiqiSI"}
+{"created_at": "Thu Sep 03 12:47:31 +0000 2015", "text": "Every day, be hustling. Love, NYC. http://t.co/971QcUaVpi"}
+{"created_at": "Thu Sep 03 12:47:18 +0000 2015", "text": "Awesome picture and an Autumn/Winter Guide to New York City -- personally my favourite time to visit http://t.co/UNHozLdYr5"}
+{"created_at": "Thu Sep 03 12:47:07 +0000 2015", "text": "New York City Tourist Attractions Map http://t.co/jfaP4n54yt"}
+{"created_at": "Thu Sep 03 12:46:57 +0000 2015", "text": "Money-saving tips for a trip to #NYC on a #budget http://t.co/ZVbz7zEeO8"}
+{"created_at": "Wed Sep 02 12:03:50 +0000 2015", "text": "Tapenade de courgette \u00e0 la coriandre - Recette - Marciatack.fr : recettes faciles | Tout pour cuisin http://t.co/Z9ZfJgMkAy"}
+{"created_at": "Wed Sep 02 08:02:52 +0000 2015", "text": "Les moustiques vous envahissent ? Voil\u00e0 comment s'en d\u00e9barrasser tr\u00e8s facilement ! http://t.co/t9JwsUohV0 via @ohmymagfr"}
+{"created_at": "Wed Sep 02 07:59:34 +0000 2015", "text": "Radar chantier : Il flashe 900 fois en 24 h ! http://t.co/tkdjXLAg8V via @Gentside"}
+{"created_at": "Tue Sep 01 04:57:00 +0000 2015", "text": "En mode TGV @ Les Angles 30 https://t.co/gBCF1UMoJg"}
+{"created_at": "Tue Sep 01 04:27:27 +0000 2015", "text": "Just posted a photo @ Villeneuve-Lez-Avignon, Languedoc-Roussillon, France https://t.co/xpPfuGRG0s"}
+{"created_at": "Tue Sep 01 04:20:41 +0000 2015", "text": "De la caramude la vue est fantastique @ Villeneuve-Lez-Avignon, Languedoc-Roussillon, France https://t.co/SrBOEx5zDM"}
+{"created_at": "Tue Sep 01 04:18:15 +0000 2015", "text": "Dans le trou de la lune @ Les Angles 30 https://t.co/tOt7UGiWLJ"}
+{"created_at": "Sun Aug 30 17:55:29 +0000 2015", "text": "Fabuleux #benoittreluyer \u00e0 5h de course se bat pour la 2 eme place #fiawec_official #nurburgring @\u2026 https://t.co/X47ZLfl9yy"}
+{"created_at": "Sun Aug 30 17:53:30 +0000 2015", "text": "Fabuleux #benoittreluyer \u00e0 5h de course se bat pour la 2 eme place #fiawec_official #nurburgring @\u2026 https://t.co/XcfijzYi1N"}
+{"created_at": "Sun Aug 30 17:50:56 +0000 2015", "text": "Fabuleux #benoittreluyer \u00e0 5h de course se bat pour la 2 eme place #fiawec_official #nurburgring @\u2026 https://t.co/BSzcT7ArFi"}
+{"created_at": "Sun Aug 30 17:49:10 +0000 2015", "text": "Fabuleux #benoittreluyer \u00e0 5h de course se bat pour la 2 eme place #fiawec_official #nurburgring @\u2026 https://t.co/O8F6d3Oq56"}
+{"created_at": "Sun Aug 30 16:19:22 +0000 2015", "text": "Fabuleux #benoittreluyer \u00e0 5h de course se bat pour la 2 eme place #fiawec_official #nurburgring @\u2026 https://t.co/Kik5djvYmj"}
+{"created_at": "Sun Aug 30 16:17:38 +0000 2015", "text": "Fabuleux #benoittreluyer \u00e0 5h de course se bat pour la 2 eme place #fiawec_official #nurburgring @\u2026 https://t.co/JL798ABYYG"}
+{"created_at": "Sun Aug 30 16:14:37 +0000 2015", "text": "Encouragement de #dculrich pour le Fabuleux #benoittreluyer \u00e0 5h de course se bat pour la 2 eme place\u2026 https://t.co/EyKdQN2iYu"}
+{"created_at": "Sun Aug 30 16:12:30 +0000 2015", "text": "Fabuleux #benoittreluyer \u00e0 5h de course se bat pour la 2 eme place #fiawec_official #nurburgring @\u2026 https://t.co/DXmXxSQDtY"}
+{"created_at": "Sun Aug 30 12:13:59 +0000 2015", "text": "Sortie entre amis @ Les Angles 30 https://t.co/ZUgFTm34E5"}
+{"created_at": "Sat Aug 29 21:36:53 +0000 2015", "text": "Repas entre amis @ L'Olivier Rouge https://t.co/j5VHjrG4TW"}
+{"created_at": "Fri Aug 28 08:51:45 +0000 2015", "text": "A l'\u00e9coute https://t.co/GVrIqyvLvr"}
+{"created_at": "Fri Aug 28 08:49:14 +0000 2015", "text": "Just arrived https://t.co/myNzQ5PFsi"}
+{"created_at": "Fri Aug 28 08:47:37 +0000 2015", "text": "On th\u00e9 road https://t.co/MW2hFoYyqY"}
+{"created_at": "Fri Aug 28 08:46:12 +0000 2015", "text": "#calamontgo @ L'escala Espagne https://t.co/h8YUeGQ6KL"}
+{"created_at": "Fri Aug 28 08:43:09 +0000 2015", "text": "#calamontgo @ L'escala Espagne https://t.co/0yFiZQA74Q"}
+{"created_at": "Fri Aug 28 08:41:48 +0000 2015", "text": "#calamontgo @ L'escala Espagne https://t.co/8oyL3Ll57K"}

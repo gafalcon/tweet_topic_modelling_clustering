@@ -1,0 +1,600 @@
+{"created_at": "Tue Jan 26 02:30:08 +0000 2016", "text": "On average, Paris's Trends for last Monday 25 had 10 characters long: https://t.co/VERJTVJ19w #trndnl"}
+{"created_at": "Tue Jan 26 01:44:44 +0000 2016", "text": "The hashtag #SiJetaisUnSorcierJe took the 7th place in the Top20 of Paris's Trends for Monday 25: https://t.co/VERJTVJ19w #trndnl"}
+{"created_at": "Tue Jan 26 00:44:45 +0000 2016", "text": "Did you know that #SiJetaisUnSorcierJe was Trending Topic on Monday 25 for 8 hours in Paris? https://t.co/VERJTVJ19w #trndnl"}
+{"created_at": "Mon Jan 25 21:44:28 +0000 2016", "text": "On Sunday 24, #LeTube was Trending Topic in Paris for 9 hours: https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Mon Jan 25 18:44:30 +0000 2016", "text": "On Sunday 24, #PSGSCO was Trending Topic in Paris for 10 hours: https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Mon Jan 25 17:44:26 +0000 2016", "text": "Did you know that #planB was Trending Topic on Sunday 24 for 10 hours in Paris? https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Mon Jan 25 15:44:35 +0000 2016", "text": "On Sunday 24, #PalestineSuffers was Trending Topic in Paris for 8 hours: https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Mon Jan 25 15:30:13 +0000 2016", "text": "49% of the Paris's Trends for Sunday 24 were hashtags: https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Mon Jan 25 13:44:33 +0000 2016", "text": "On Sunday 24, 'Payet' was Trending Topic in Paris for 10 hours: https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Mon Jan 25 11:44:30 +0000 2016", "text": "The hashtag #OLOM took the 1st place in the Top20 of Paris's Trends for Sunday 24: https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Mon Jan 25 09:44:30 +0000 2016", "text": "Did you know that #FCNFCGB was Trending Topic on Sunday 24 for 10 hours in Paris? https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Mon Jan 25 05:44:31 +0000 2016", "text": "Did you know that #LEDLT was Trending Topic on Sunday 24 for 10 hours in Paris? https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Mon Jan 25 04:30:06 +0000 2016", "text": "The largest number of Trends in Paris for Sunday 24 was at 17 hours: https://t.co/fLDAqKkbjP https://t.co/QwFcRC45qV"}
+{"created_at": "Mon Jan 25 03:44:37 +0000 2016", "text": "The hashtag #CongratulationsLouis took the 3rd place in the Top20 of Paris's Trends for Sunday 24: https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Mon Jan 25 03:30:23 +0000 2016", "text": "On Sunday 24, a total of 351 words, phrases and hashtags were Trending Topic in Paris: https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Mon Jan 25 02:44:34 +0000 2016", "text": "The hashtag #OGCNFCL took the 19th place in the Top20 of Paris's Trends for Sunday 24: https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Mon Jan 25 01:30:29 +0000 2016", "text": "The shortest Trends on Sunday 24 in Paris had only 4 characters long: https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Mon Jan 25 00:44:27 +0000 2016", "text": "The hashtag #AskLoup took the 14th place in the Top20 of Paris's Trends for Sunday 24: https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Sun Jan 24 23:44:33 +0000 2016", "text": "Did you know that #LeGrandBlindTest was Trending Topic on Sunday 24 for 10 hours in Paris? https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Sun Jan 24 23:29:57 +0000 2016", "text": "The hashtag #OLOM took the 1st place in the Top20 of Paris's Trends for Sunday 24: https://t.co/fLDAqKkbjP #trndnl"}
+{"created_at": "Sun Jan 24 22:44:29 +0000 2016", "text": "The hashtag #VTEP took the 6th place in the Top20 of Paris's Trends for Saturday 23: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 21:44:29 +0000 2016", "text": "On Saturday 23, #SiTuVoisUnHomoDansTaFamille was Trending Topic in Paris for 9 hours: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 21:30:10 +0000 2016", "text": "The shortest Trends on Saturday 23 in Paris had only 4 characters long: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 20:44:33 +0000 2016", "text": "Did you know that #The100 was Trending Topic on Saturday 23 for 10 hours in Paris? https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 19:44:25 +0000 2016", "text": "The hashtag #VTEP took the 7th place in the Top20 of Paris's Trends for Saturday 23: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 19:30:26 +0000 2016", "text": "On Saturday 23, #DPDA was Trending Topic in Paris for 10 hours: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 18:30:01 +0000 2016", "text": "The hashtag #LesExtraordinaires took the 10th place in the Top20 of Paris's Trends for Saturday 23: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 17:44:30 +0000 2016", "text": "'David Blatt' appeared on Saturday 23 at the 13th place in the Top20 of Paris's Trends: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 16:44:30 +0000 2016", "text": "The hashtag #VTEP took the 5th place in the Top20 of Paris's Trends for Saturday 23: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 16:30:28 +0000 2016", "text": "54% of the Paris's Trends for Saturday 23 were hashtags: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 15:44:26 +0000 2016", "text": "Did you know that #WelcomeHistory was Trending Topic on Saturday 23 for 9 hours in Paris? https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 14:44:30 +0000 2016", "text": "'Wil Aime' appeared on Saturday 23 at the 11th place in the Top20 of Paris's Trends: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 13:44:37 +0000 2016", "text": "On Saturday 23, #Snowzilla was Trending Topic in Paris for 9 hours: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 12:30:37 +0000 2016", "text": "On Saturday 23, a total of 350 words, phrases and hashtags were Trending Topic in Paris: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 11:44:33 +0000 2016", "text": "On Saturday 23, 'Donna Summer' was Trending Topic in Paris for 12 hours: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 09:29:42 +0000 2016", "text": "Peak hours in Paris's Trends for Saturday 23 were at 15 and 18: https://t.co/qKf0qIdRSk https://t.co/zRq2INdKDS"}
+{"created_at": "Sun Jan 24 07:44:42 +0000 2016", "text": "Did you know that 'Wil Aime' was Trending Topic on Saturday 23 for 9 hours in Paris? https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 06:44:31 +0000 2016", "text": "The hashtag #WelcomeHistory took the 20th place in the Top20 of Paris's Trends for Saturday 23: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 05:44:31 +0000 2016", "text": "Did you know that #XES2016 was Trending Topic on Saturday 23 for 9 hours in Paris? https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 04:44:29 +0000 2016", "text": "The hashtag #VTEP took the 7th place in the Top20 of Paris's Trends for Saturday 23: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 04:30:28 +0000 2016", "text": "'Bouletmaton' appeared on Saturday 23 at the 15th place in the Top20 of Paris's Trends: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 03:44:32 +0000 2016", "text": "The hashtag #coucoumagali took the 4th place in the Top20 of Paris's Trends for Saturday 23: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 02:44:32 +0000 2016", "text": "The hashtag #XES2016 took the 16th place in the Top20 of Paris's Trends for Saturday 23: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 01:44:27 +0000 2016", "text": "The hashtag #LesExtraordinaires took the 10th place in the Top20 of Paris's Trends for Saturday 23: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 00:44:33 +0000 2016", "text": "Did you know that #PSGSCO was Trending Topic on Saturday 23 for 12 hours in Paris? https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sun Jan 24 00:30:02 +0000 2016", "text": "54% of the Paris's Trends for Saturday 23 were hashtags: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sat Jan 23 23:44:27 +0000 2016", "text": "'Donna Summer' appeared on Saturday 23 at the 1st place in the Top20 of Paris's Trends: https://t.co/qKf0qIdRSk #trndnl"}
+{"created_at": "Sat Jan 23 22:44:27 +0000 2016", "text": "On Friday 22, #SRFCGFCA was Trending Topic in Paris for 8 hours: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 21:44:24 +0000 2016", "text": "Did you know that #NationalHugDay was Trending Topic on Friday 22 for 9 hours in Paris? https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 20:44:30 +0000 2016", "text": "On Friday 22, #LaFrancePourLaVie was Trending Topic in Paris for 9 hours: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 18:44:27 +0000 2016", "text": "Did you know that #PSGOL was Trending Topic on Friday 22 for 9 hours in Paris? https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 17:44:27 +0000 2016", "text": "The hashtag #PSGOL took the 5th place in the Top20 of Paris's Trends for Friday 22: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 17:30:44 +0000 2016", "text": "The largest number of Trends in Paris for Friday 22 was at 19 hours: https://t.co/nmKbs3DUVK https://t.co/dk5fNBIUCw"}
+{"created_at": "Sat Jan 23 16:44:31 +0000 2016", "text": "The hashtag #400ansDEesclavagePour took the 13th place in the Top20 of Paris's Trends for Friday 22: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 15:44:36 +0000 2016", "text": "Did you know that 'Louis XVI' was Trending Topic on Friday 22 for 7 hours in Paris? https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 14:44:29 +0000 2016", "text": "On Friday 22, #NationalHugDay was Trending Topic in Paris for 9 hours: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 13:44:28 +0000 2016", "text": "Did you know that #AliliaWeLoveYou was Trending Topic on Friday 22 for 7 hours in Paris? https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 12:44:22 +0000 2016", "text": "The hashtag #SRFCGFCA took the 12th place in the Top20 of Paris's Trends for Friday 22: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 09:30:08 +0000 2016", "text": "The longest Trends for Friday 22 in Paris was 28 characters: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 08:44:27 +0000 2016", "text": "The hashtag #agriculteurs took the 18th place in the Top20 of Paris's Trends for Friday 22: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 07:44:28 +0000 2016", "text": "Did you know that #LaFrancePourLaVie was Trending Topic on Friday 22 for 9 hours in Paris? https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 07:30:41 +0000 2016", "text": "The hashtag #NationalHugDay took the 3rd place in the Top20 of Paris's Trends for Friday 22: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 06:44:28 +0000 2016", "text": "The hashtag #FRABLR took the 17th place in the Top20 of Paris's Trends for Friday 22: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 05:44:31 +0000 2016", "text": "Did you know that #SRFCGFCA was Trending Topic on Friday 22 for 8 hours in Paris? https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 04:44:26 +0000 2016", "text": "The hashtag #OUATsurM6 took the 8th place in the Top20 of Paris's Trends for Friday 22: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 04:29:50 +0000 2016", "text": "The hashtag #CyrilPrendsConfianceEnToi took the 10th place in the Top20 of Paris's Trends for Friday 22: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 03:30:10 +0000 2016", "text": "The largest number of Trends in Paris for Friday 22 was at 19 hours: https://t.co/nmKbs3DUVK https://t.co/k5ZdRO8xrl"}
+{"created_at": "Sat Jan 23 02:44:27 +0000 2016", "text": "Did you know that #400ansDEesclavagePour was Trending Topic on Friday 22 for 8 hours in Paris? https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Sat Jan 23 01:44:27 +0000 2016", "text": "Did you know that #The100 was Trending Topic on Friday 22 for 8 hours in Paris? https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Fri Jan 22 23:44:26 +0000 2016", "text": "The hashtag #The100 took the 11th place in the Top20 of Paris's Trends for Friday 22: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Fri Jan 22 23:29:57 +0000 2016", "text": "On average, Paris's Trends for last Friday 22 had 11 characters long: https://t.co/nmKbs3DUVK #trndnl"}
+{"created_at": "Fri Jan 22 21:44:26 +0000 2016", "text": "The hashtag #guillaumetoutseul took the 6th place in the Top20 of Paris's Trends for Thursday 21: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 21:30:06 +0000 2016", "text": "The longest Trends for Thursday 21 in Paris was 29 characters: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 20:44:26 +0000 2016", "text": "On Thursday 21, #JeudiConfession was Trending Topic in Paris for 7 hours: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 19:44:30 +0000 2016", "text": "Did you know that #fcmfcn was Trending Topic on Thursday 21 for 6 hours in Paris? https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 17:44:30 +0000 2016", "text": "On Thursday 21, #fcmfcn was Trending Topic in Paris for 6 hours: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 16:31:12 +0000 2016", "text": "The shortest Trends on Thursday 21 in Paris had only 4 characters long: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 15:44:35 +0000 2016", "text": "The hashtag #cesoirjaiunplan took the 10th place in the Top20 of Paris's Trends for Thursday 21: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 14:44:38 +0000 2016", "text": "The hashtag #enpleinenature took the 18th place in the Top20 of Paris's Trends for Thursday 21: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 13:44:33 +0000 2016", "text": "On Thursday 21, #enpleinenature was Trending Topic in Paris for 6 hours: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 12:44:30 +0000 2016", "text": "Did you know that #ommhsc was Trending Topic on Thursday 21 for 8 hours in Paris? https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 11:44:30 +0000 2016", "text": "The hashtag #patronincognito took the 13th place in the Top20 of Paris's Trends for Thursday 21: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 10:44:27 +0000 2016", "text": "The hashtag #MamanJeTaimeMais took the 4th place in the Top20 of Paris's Trends for Thursday 21: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 09:44:39 +0000 2016", "text": "Did you know that #ommhsc was Trending Topic on Thursday 21 for 8 hours in Paris? https://t.co/IC10ADosW0 #trndnl"}
+{"created_at": "Fri Jan 22 08:44:42 +0000 2016", "text": "On Thursday 21, #ricoshow was Trending Topic in Paris for 6 hours: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 08:30:07 +0000 2016", "text": "The longest Trends for Thursday 21 in Paris was 29 characters: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 07:44:40 +0000 2016", "text": "The hashtag #fcmfcn took the 20th place in the Top20 of Paris's Trends for Thursday 21: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 06:44:42 +0000 2016", "text": "'gabano' appeared on Thursday 21 at the 9th place in the Top20 of Paris's Trends: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 06:30:33 +0000 2016", "text": "59% of the Paris's Trends for Thursday 21 were hashtags: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 05:44:55 +0000 2016", "text": "On Thursday 21, #cesoirjaiunplan was Trending Topic in Paris for 7 hours: https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Fri Jan 22 04:44:38 +0000 2016", "text": "On Thursday 21, #JeudiConfession was Trending Topic in Paris for 7 hours: https://t.co/IC10ADosW0 #trndnl"}
+{"created_at": "Fri Jan 22 03:44:47 +0000 2016", "text": "The hashtag #selfieforseb took the 17th place in the Top20 of Paris's Trends for Thursday 21: https://t.co/IC10ADosW0 #trndnl"}
+{"created_at": "Fri Jan 22 02:44:46 +0000 2016", "text": "'gabano' appeared on Thursday 21 at the 9th place in the Top20 of Paris's Trends: https://t.co/IC10ADosW0 #trndnl"}
+{"created_at": "Fri Jan 22 00:29:41 +0000 2016", "text": "Do you want to know which were the 419 Trends on Thursday 21 in Paris? https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Thu Jan 21 23:44:29 +0000 2016", "text": "Did you know that 'bulls' was Trending Topic on Thursday 21 for 6 hours in Paris? https://t.co/IC10AD6Rxq #trndnl"}
+{"created_at": "Thu Jan 21 22:44:29 +0000 2016", "text": "The hashtag #Balkany took the 10th place in the Top20 of Paris's Trends for Wednesday 20: https://t.co/E9lq0As7po #trndnl"}
+{"created_at": "Thu Jan 21 20:44:29 +0000 2016", "text": "On Wednesday 20, 'Sarah Palin' was Trending Topic in Paris for 10 hours: https://t.co/E9lq0As7po #trndnl"}
+{"created_at": "Thu Jan 21 18:44:34 +0000 2016", "text": "'Ettore Scola' appeared on Wednesday 20 at the 2nd place in the Top20 of Paris's Trends: https://t.co/E9lq0As7po #trndnl"}
+{"created_at": "Thu Jan 21 17:44:31 +0000 2016", "text": "The hashtag #FRAPOL took the 5th place in the Top20 of Paris's Trends for Wednesday 20: https://t.co/E9lq0As7po #trndnl"}
+{"created_at": "Thu Jan 21 16:44:33 +0000 2016", "text": "On Wednesday 20, #MagconComeHere was Trending Topic in Paris for 7 hours: https://t.co/E9lq0As7po #trndnl"}
+{"created_at": "Thu Jan 21 15:44:33 +0000 2016", "text": "'Pamela Anderson' appeared on Wednesday 20 at the 4th place in the Top20 of Paris's Trends: https://t.co/E9lq0As7po #trndnl"}
+{"created_at": "Thu Jan 21 14:44:44 +0000 2016", "text": "'Ettore Scola' appeared on Wednesday 20 at the 2nd place in the Top20 of Paris's Trends: https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Thu Jan 21 12:44:49 +0000 2016", "text": "The hashtag #FRAPOL took the 5th place in the Top20 of Paris's Trends for Wednesday 20: https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Thu Jan 21 11:44:44 +0000 2016", "text": "'Sarah Palin' appeared on Wednesday 20 at the 1st place in the Top20 of Paris's Trends: https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Thu Jan 21 10:44:38 +0000 2016", "text": "The hashtag #QuandIlFaitFroidJeKiff took the 15th place in the Top20 of Paris's Trends for Wednesday 20: https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Thu Jan 21 10:30:45 +0000 2016", "text": "On Wednesday 20, #SRFCFBBP was Trending Topic in Paris for 7 hours: https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Thu Jan 21 07:44:44 +0000 2016", "text": "'Glenn Frey' appeared on Wednesday 20 at the 13th place in the Top20 of Paris's Trends: https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Thu Jan 21 06:44:40 +0000 2016", "text": "The hashtag #ledivan took the 8th place in the Top20 of Paris's Trends for Wednesday 20: https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Thu Jan 21 06:30:33 +0000 2016", "text": "59% of the Paris's Trends for Wednesday 20 were hashtags: https://t.co/E9lq0As7po #trndnl"}
+{"created_at": "Thu Jan 21 05:44:49 +0000 2016", "text": "On Wednesday 20, #SuicideSquad was Trending Topic in Paris for 9 hours: https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Thu Jan 21 04:44:42 +0000 2016", "text": "The hashtag #secretsdhistoire took the 20th place in the Top20 of Paris's Trends for Wednesday 20: https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Thu Jan 21 03:44:47 +0000 2016", "text": "Did you know that 'Jihadi John' was Trending Topic on Wednesday 20 for 7 hours in Paris? https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Thu Jan 21 02:44:43 +0000 2016", "text": "'Jihadi John' appeared on Wednesday 20 at the 18th place in the Top20 of Paris's Trends: https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Thu Jan 21 01:44:39 +0000 2016", "text": "Did you know that #MaisonAVendre was Trending Topic on Wednesday 20 for 7 hours in Paris? https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Thu Jan 21 00:44:41 +0000 2016", "text": "'Sarah Palin' appeared on Wednesday 20 at the 1st place in the Top20 of Paris's Trends: https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Wed Jan 20 23:44:39 +0000 2016", "text": "On Wednesday 20, 'Ettore Scola' was Trending Topic in Paris for 9 hours: https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Wed Jan 20 23:29:53 +0000 2016", "text": "Do you want to know which were the 403 Trends on Wednesday 20 in Paris? https://t.co/E9lq0AJINY #trndnl"}
+{"created_at": "Wed Jan 20 22:44:44 +0000 2016", "text": "Did you know that 'Glenn Frey' was Trending Topic on Tuesday 19 for 8 hours in Paris? https://t.co/SKky41IYwK #trndnl"}
+{"created_at": "Wed Jan 20 21:44:25 +0000 2016", "text": "On Tuesday 19, #AusOpen was Trending Topic in Paris for 7 hours: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 20:44:35 +0000 2016", "text": "On Tuesday 19, #WhatWomenWantIn5Words was Trending Topic in Paris for 7 hours: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 20:29:59 +0000 2016", "text": "'Meek Mill' appeared on Tuesday 19 at the 6th place in the Top20 of Paris's Trends: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 19:44:29 +0000 2016", "text": "'Michel Tournier' appeared on Tuesday 19 at the 20th place in the Top20 of Paris's Trends: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 18:44:24 +0000 2016", "text": "On Tuesday 19, #LesDeuxTours was Trending Topic in Paris for 6 hours: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 17:44:26 +0000 2016", "text": "On Tuesday 19, #AskCauet was Trending Topic in Paris for 6 hours: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 16:44:29 +0000 2016", "text": "The hashtag #PlaceMouleDansUneEmissionTV took the 19th place in the Top20 of Paris's Trends for Tuesday 19: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 15:44:34 +0000 2016", "text": "'Glenn Frey' appeared on Tuesday 19 at the 7th place in the Top20 of Paris's Trends: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 14:44:39 +0000 2016", "text": "On Tuesday 19, 'Leila Alaoui' was Trending Topic in Paris for 12 hours: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 13:44:38 +0000 2016", "text": "On Tuesday 19, #ASSEOL was Trending Topic in Paris for 7 hours: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 12:44:31 +0000 2016", "text": "The hashtag #AskCauet took the 18th place in the Top20 of Paris's Trends for Tuesday 19: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 11:44:28 +0000 2016", "text": "On Tuesday 19, 'Glenn Frey' was Trending Topic in Paris for 8 hours: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 10:44:35 +0000 2016", "text": "On Tuesday 19, #AskCupCake was Trending Topic in Paris for 10 hours: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 09:44:31 +0000 2016", "text": "Did you know that #SMCOM was Trending Topic on Tuesday 19 for 8 hours in Paris? https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 08:30:21 +0000 2016", "text": "The largest number of Trends in Paris for Tuesday 19 was at 18 hours: https://t.co/SKky41rn8a https://t.co/d92ybxQb4T"}
+{"created_at": "Wed Jan 20 07:44:33 +0000 2016", "text": "On Tuesday 19, 'Michel Tournier' was Trending Topic in Paris for 6 hours: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 06:44:31 +0000 2016", "text": "On Tuesday 19, #JeTaimePlusQue was Trending Topic in Paris for 8 hours: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 05:44:33 +0000 2016", "text": "The hashtag #WhatWomenWantIn5Words took the 9th place in the Top20 of Paris's Trends for Tuesday 19: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 02:44:39 +0000 2016", "text": "Did you know that #TeamAmelie was Trending Topic on Tuesday 19 for 8 hours in Paris? https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 01:44:29 +0000 2016", "text": "On Tuesday 19, #cdanslair was Trending Topic in Paris for 7 hours: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Wed Jan 20 00:44:33 +0000 2016", "text": "The hashtag #LesDeuxTours took the 14th place in the Top20 of Paris's Trends for Tuesday 19: https://t.co/SKky41rn8a #trndnl"}
+{"created_at": "Tue Jan 19 18:44:46 +0000 2016", "text": "On Monday 18, #AusOpen was Trending Topic in Paris for 9 hours: https://t.co/vx3jnaIqwN #trndnl"}
+{"created_at": "Tue Jan 19 17:44:52 +0000 2016", "text": "The hashtag #BlueMonday took the 2nd place in the Top20 of Paris's Trends for Monday 18: https://t.co/vx3jnaIqwN #trndnl"}
+{"created_at": "Tue Jan 19 12:44:41 +0000 2016", "text": "Did you know that #BlueMonday was Trending Topic on Monday 18 for 12 hours in Paris? https://t.co/vx3jnaIqwN #trndnl"}
+{"created_at": "Tue Jan 19 11:30:31 +0000 2016", "text": "Do you want to know which were the 373 Trends on Monday 18 in Paris? https://t.co/vx3jnaIqwN #trndnl"}
+{"created_at": "Tue Jan 19 10:30:07 +0000 2016", "text": "The longest Trends for Monday 18 in Paris was 26 characters: https://t.co/vx3jnaIqwN #trndnl"}
+{"created_at": "Tue Jan 19 06:44:26 +0000 2016", "text": "The hashtag #AusOpen took the 12th place in the Top20 of Paris's Trends for Monday 18: https://t.co/vx3jnaqPFf #trndnl"}
+{"created_at": "Tue Jan 19 05:44:32 +0000 2016", "text": "The hashtag #ZoneInterdite took the 3rd place in the Top20 of Paris's Trends for Monday 18: https://t.co/vx3jnaIqwN #trndnl"}
+{"created_at": "Mon Jan 18 05:44:29 +0000 2016", "text": "The hashtag #NFLExtra took the 11th place in the Top20 of Paris's Trends for Sunday 17: https://t.co/AQZ7cONRfM #trndnl"}
+{"created_at": "Mon Jan 18 03:44:29 +0000 2016", "text": "The hashtag #MissPrestigeNational took the 17th place in the Top20 of Paris's Trends for Sunday 17: https://t.co/AQZ7cONRfM #trndnl"}
+{"created_at": "Mon Jan 18 02:44:30 +0000 2016", "text": "The hashtag #Ouagadougou took the 9th place in the Top20 of Paris's Trends for Sunday 17: https://t.co/AQZ7cONRfM #trndnl"}
+{"created_at": "Mon Jan 18 02:30:07 +0000 2016", "text": "'Mojito' appeared on Sunday 17 at the 15th place in the Top20 of Paris's Trends: https://t.co/AQZ7cONRfM #trndnl"}
+{"created_at": "Mon Jan 18 01:44:28 +0000 2016", "text": "'Ben Arfa' appeared on Sunday 17 at the 20th place in the Top20 of Paris's Trends: https://t.co/AQZ7cONRfM #trndnl"}
+{"created_at": "Mon Jan 18 00:44:30 +0000 2016", "text": "The hashtag #ProA took the 18th place in the Top20 of Paris's Trends for Sunday 17: https://t.co/AQZ7cONRfM #trndnl"}
+{"created_at": "Sun Jan 17 23:29:35 +0000 2016", "text": "The hashtag #TFCPSG took the 13th place in the Top20 of Paris's Trends for Sunday 17: https://t.co/AQZ7cONRfM #trndnl"}
+{"created_at": "Sun Jan 17 22:44:25 +0000 2016", "text": "On Saturday 16, #RemilieDamourOuDamitie was Trending Topic in Paris for 9 hours: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 21:44:28 +0000 2016", "text": "'Jos\u00e9 Garcia' appeared on Saturday 16 at the 18th place in the Top20 of Paris's Trends: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 18:44:28 +0000 2016", "text": "'Mojito' appeared on Saturday 16 at the 6th place in the Top20 of Paris's Trends: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 17:44:32 +0000 2016", "text": "The hashtag #HHL16 took the 12th place in the Top20 of Paris's Trends for Saturday 16: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 15:44:38 +0000 2016", "text": "The hashtag #TFCPSG took the 1st place in the Top20 of Paris's Trends for Saturday 16: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 14:44:39 +0000 2016", "text": "The hashtag #BRITDRAGMEDOWN took the 20th place in the Top20 of Paris's Trends for Saturday 16: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 13:44:38 +0000 2016", "text": "The hashtag #RemilieDamourOuDamitie took the 15th place in the Top20 of Paris's Trends for Saturday 16: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 12:44:26 +0000 2016", "text": "On Saturday 16, 'Mojito' was Trending Topic in Paris for 12 hours: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 11:44:30 +0000 2016", "text": "The hashtag #ISILfic took the 2nd place in the Top20 of Paris's Trends for Saturday 16: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 10:44:26 +0000 2016", "text": "The hashtag #Ouagadougou took the 2nd place in the Top20 of Paris's Trends for Saturday 16: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 09:44:26 +0000 2016", "text": "The hashtag #ISILfic took the 3rd place in the Top20 of Paris's Trends for Saturday 16: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 08:44:26 +0000 2016", "text": "On Saturday 16, #neige was Trending Topic in Paris for 10 hours: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 08:30:03 +0000 2016", "text": "On Saturday 16, a total of 301 words, phrases and hashtags were Trending Topic in Paris: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 07:44:28 +0000 2016", "text": "On Saturday 16, #OGCNSCO was Trending Topic in Paris for 9 hours: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 06:44:31 +0000 2016", "text": "The hashtag #sanstambour took the 5th place in the Top20 of Paris's Trends for Saturday 16: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 05:44:33 +0000 2016", "text": "On Saturday 16, #FRAMAC was Trending Topic in Paris for 9 hours: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 04:44:37 +0000 2016", "text": "On Saturday 16, #ISILfic was Trending Topic in Paris for 14 hours: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 03:44:31 +0000 2016", "text": "Did you know that #HHL16 was Trending Topic on Saturday 16 for 10 hours in Paris? https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 02:44:26 +0000 2016", "text": "The hashtag #TFCPSG took the 1st place in the Top20 of Paris's Trends for Saturday 16: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 01:44:25 +0000 2016", "text": "The hashtag #NuitOriginale took the 17th place in the Top20 of Paris's Trends for Saturday 16: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sun Jan 17 00:44:27 +0000 2016", "text": "The hashtag #FRAMAC took the 19th place in the Top20 of Paris's Trends for Saturday 16: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sat Jan 16 23:44:27 +0000 2016", "text": "'Jos\u00e9 Garcia' appeared on Saturday 16 at the 18th place in the Top20 of Paris's Trends: https://t.co/3bXUoC2JQE #trndnl"}
+{"created_at": "Sat Jan 16 21:44:27 +0000 2016", "text": "The hashtag #MaChansonBalavoine took the 15th place in the Top20 of Paris's Trends for Friday 15: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 20:44:26 +0000 2016", "text": "Did you know that 'Ashley Olsen' was Trending Topic on Friday 15 for 6 hours in Paris? https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 19:44:31 +0000 2016", "text": "The hashtag #BRITDRAGMEDOWN took the 2nd place in the Top20 of Paris's Trends for Friday 15: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 18:44:27 +0000 2016", "text": "Did you know that #Jakarta was Trending Topic on Friday 15 for 6 hours in Paris? https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 17:44:27 +0000 2016", "text": "Did you know that #EnvoyeSpecial was Trending Topic on Friday 15 for 10 hours in Paris? https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 16:44:30 +0000 2016", "text": "'Vincent Lindon' appeared on Friday 15 at the 16th place in the Top20 of Paris's Trends: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 15:44:32 +0000 2016", "text": "'Death Note' appeared on Friday 15 at the 14th place in the Top20 of Paris's Trends: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 14:44:35 +0000 2016", "text": "On Friday 15, 'Ashley Olsen' was Trending Topic in Paris for 6 hours: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 13:44:31 +0000 2016", "text": "On Friday 15, #9YearsOfKidrauhl was Trending Topic in Paris for 10 hours: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 12:30:53 +0000 2016", "text": "On Friday 15, #EnvoyeSpecial was Trending Topic in Paris for 10 hours: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 11:44:27 +0000 2016", "text": "The hashtag #TPMP took the 12th place in the Top20 of Paris's Trends for Friday 15: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 10:44:35 +0000 2016", "text": "On Friday 15, #PSGOL was Trending Topic in Paris for 8 hours: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 08:44:32 +0000 2016", "text": "The hashtag #VendrediLecture took the 6th place in the Top20 of Paris's Trends for Friday 15: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 08:30:38 +0000 2016", "text": "61% of the Paris's Trends for Friday 15 were hashtags: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 07:44:25 +0000 2016", "text": "'C\u00e9line Dion' appeared on Friday 15 at the 13th place in the Top20 of Paris's Trends: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 06:44:32 +0000 2016", "text": "Did you know that 'C\u00e9line Dion' was Trending Topic on Friday 15 for 7 hours in Paris? https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 05:44:40 +0000 2016", "text": "'Thauvin' appeared on Friday 15 at the 18th place in the Top20 of Paris's Trends: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 02:44:40 +0000 2016", "text": "On Friday 15, #VendrediLecture was Trending Topic in Paris for 8 hours: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Sat Jan 16 01:44:38 +0000 2016", "text": "On Friday 15, #TCDF2015 was Trending Topic in Paris for 7 hours: https://t.co/xI99gGROot #trndnl"}
+{"created_at": "Fri Jan 15 23:44:40 +0000 2016", "text": "The hashtag #VendrediLecture took the 6th place in the Top20 of Paris's Trends for Friday 15: https://t.co/xI99gH9pN3 #trndnl"}
+{"created_at": "Fri Jan 15 21:44:46 +0000 2016", "text": "The hashtag #FriendsReunion took the 15th place in the Top20 of Paris's Trends for Thursday 14: https://t.co/wRph3gOAtC #trndnl"}
+{"created_at": "Fri Jan 15 20:44:30 +0000 2016", "text": "On Thursday 14, 'Rabiot' was Trending Topic in Paris for 7 hours: https://t.co/wRph3gOAtC #trndnl"}
+{"created_at": "Fri Jan 15 18:44:26 +0000 2016", "text": "The hashtag #Jakarta took the 11th place in the Top20 of Paris's Trends for Thursday 14: https://t.co/wRph3gOAtC #trndnl"}
+{"created_at": "Fri Jan 15 16:44:43 +0000 2016", "text": "Did you know that #kippa was Trending Topic on Thursday 14 for 7 hours in Paris? https://t.co/wRph3h6bSc #trndnl"}
+{"created_at": "Fri Jan 15 14:44:59 +0000 2016", "text": "'Pastore' appeared on Thursday 14 at the 17th place in the Top20 of Paris's Trends: https://t.co/wRph3h6bSc #trndnl"}
+{"created_at": "Fri Jan 15 13:44:34 +0000 2016", "text": "The hashtag #TitreDeMaSexTape took the 8th place in the Top20 of Paris's Trends for Thursday 14: https://t.co/wRph3gOAtC #trndnl"}
+{"created_at": "Fri Jan 15 07:44:30 +0000 2016", "text": "The hashtag #Oscars2016 took the 2nd place in the Top20 of Paris's Trends for Thursday 14: https://t.co/wRph3gOAtC #trndnl"}
+{"created_at": "Thu Jan 14 05:44:34 +0000 2016", "text": "On Wednesday 13, #TeamJul was Trending Topic in Paris for 7 hours: https://t.co/SRllsGCXC8 #trndnl"}
+{"created_at": "Wed Jan 13 05:44:32 +0000 2016", "text": "On Tuesday 12, #HappyBirthdayZayn was Trending Topic in Paris for 11 hours: https://t.co/yCpEqacJhd #trndnl"}
+{"created_at": "Tue Jan 12 06:44:27 +0000 2016", "text": "'Kenza Farah' appeared on Monday 11 at the 10th place in the Top20 of Paris's Trends: https://t.co/XUNhUpCoG2 #trndnl"}
+{"created_at": "Tue Jan 12 05:44:34 +0000 2016", "text": "The hashtag #LaCommunauteDelAnneau took the 12th place in the Top20 of Paris's Trends for Monday 11: https://t.co/XUNhUpCoG2 #trndnl"}
+{"created_at": "Tue Jan 12 00:44:22 +0000 2016", "text": "'Paul McCartney' appeared on Monday 11 at the 7th place in the Top20 of Paris's Trends: https://t.co/XUNhUpCoG2 #trndnl"}
+{"created_at": "Mon Jan 11 22:44:33 +0000 2016", "text": "Did you know that #BuyMadeInTheAM was Trending Topic on Sunday 10 for 9 hours in Paris? https://t.co/EXQmyGY8Jy #trndnl"}
+{"created_at": "Mon Jan 11 12:44:32 +0000 2016", "text": "The hashtag #OLESTAC took the 7th place in the Top20 of Paris's Trends for Sunday 10: https://t.co/EXQmyGY8Jy #trndnl"}
+{"created_at": "Mon Jan 11 04:44:31 +0000 2016", "text": "Did you know that #ONPC was Trending Topic on Sunday 10 for 11 hours in Paris? https://t.co/EXQmyGY8Jy #trndnl"}
+{"created_at": "Mon Jan 11 03:44:25 +0000 2016", "text": "On Sunday 10, #HappyBirthdayNinaDobrev was Trending Topic in Paris for 8 hours: https://t.co/EXQmyGY8Jy #trndnl"}
+{"created_at": "Mon Jan 11 03:30:31 +0000 2016", "text": "53% of the Paris's Trends for Sunday 10 were hashtags: https://t.co/EXQmyGY8Jy #trndnl"}
+{"created_at": "Mon Jan 11 02:44:26 +0000 2016", "text": "On Sunday 10, #MHSCFCGB was Trending Topic in Paris for 9 hours: https://t.co/EXQmyGY8Jy #trndnl"}
+{"created_at": "Mon Jan 11 01:44:34 +0000 2016", "text": "Did you know that #BuyMadeInTheAM was Trending Topic on Sunday 10 for 9 hours in Paris? https://t.co/EXQmyGY8Jy #trndnl"}
+{"created_at": "Mon Jan 11 00:44:28 +0000 2016", "text": "The hashtag #HappyBirthdayNinaDobrev took the 15th place in the Top20 of Paris's Trends for Sunday 10: https://t.co/EXQmyGY8Jy #trndnl"}
+{"created_at": "Sun Jan 10 23:44:26 +0000 2016", "text": "Did you know that #ByeBrouisHelloLarry was Trending Topic on Sunday 10 for 7 hours in Paris? https://t.co/EXQmyGY8Jy #trndnl"}
+{"created_at": "Sun Jan 10 22:44:32 +0000 2016", "text": "The hashtag #ConfessionsIntimes took the 9th place in the Top20 of Paris's Trends for Saturday 9: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 20:44:29 +0000 2016", "text": "The hashtag #FavNashVid took the 5th place in the Top20 of Paris's Trends for Saturday 9: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 20:30:24 +0000 2016", "text": "On Saturday 9, a total of 298 words, phrases and hashtags were Trending Topic in Paris: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 19:44:36 +0000 2016", "text": "On Saturday 9, #FavNashVid was Trending Topic in Paris for 11 hours: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 18:44:33 +0000 2016", "text": "The hashtag #VTEP took the 2nd place in the Top20 of Paris's Trends for Saturday 9: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 17:44:27 +0000 2016", "text": "Did you know that #OLESTAC was Trending Topic on Saturday 9 for 9 hours in Paris? https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 15:44:36 +0000 2016", "text": "The hashtag #EnvoyeSpecial took the 17th place in the Top20 of Paris's Trends for Saturday 9: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 15:30:16 +0000 2016", "text": "The longest Trends for Saturday 9 in Paris was 26 characters: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 14:44:29 +0000 2016", "text": "Did you know that #PSGSCB was Trending Topic on Saturday 9 for 12 hours in Paris? https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 13:44:30 +0000 2016", "text": "The hashtag #UberAuxAntilles took the 12th place in the Top20 of Paris's Trends for Saturday 9: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 12:44:30 +0000 2016", "text": "On Saturday 9, 'El Chapo' was Trending Topic in Paris for 8 hours: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 11:44:28 +0000 2016", "text": "The hashtag #30millionsdamis took the 13th place in the Top20 of Paris's Trends for Saturday 9: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 11:30:53 +0000 2016", "text": "52% of the Paris's Trends for Saturday 9 were hashtags: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 09:44:29 +0000 2016", "text": "The hashtag #ConfessionsIntimes took the 9th place in the Top20 of Paris's Trends for Saturday 9: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 08:30:18 +0000 2016", "text": "Did you know that #EnvoyeSpecial was Trending Topic on Saturday 9 for 8 hours in Paris? https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 07:44:31 +0000 2016", "text": "Did you know that #SkateradeTourInParis was Trending Topic on Saturday 9 for 8 hours in Paris? https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 05:44:37 +0000 2016", "text": "On Saturday 9, #ConfessionsIntimes was Trending Topic in Paris for 10 hours: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 04:44:27 +0000 2016", "text": "The hashtag #PSGSCB took the 1st place in the Top20 of Paris's Trends for Saturday 9: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 04:30:08 +0000 2016", "text": "The hashtag #U2forParis took the 14th place in the Top20 of Paris's Trends for Saturday 9: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 03:44:33 +0000 2016", "text": "The hashtag #EnvoyeSpecial took the 17th place in the Top20 of Paris's Trends for Saturday 9: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 02:44:29 +0000 2016", "text": "Did you know that #CES2016 was Trending Topic on Saturday 9 for 11 hours in Paris? https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 01:44:30 +0000 2016", "text": "'El Chapo' appeared on Saturday 9 at the 19th place in the Top20 of Paris's Trends: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sun Jan 10 00:44:29 +0000 2016", "text": "The hashtag #OLESTAC took the 16th place in the Top20 of Paris's Trends for Saturday 9: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sat Jan 09 23:44:28 +0000 2016", "text": "The hashtag #LarryKiss took the 15th place in the Top20 of Paris's Trends for Saturday 9: https://t.co/DLnwokN1k3 #trndnl"}
+{"created_at": "Sat Jan 09 22:30:34 +0000 2016", "text": "Did you know that 'Crystal' was Trending Topic on Friday 8 for 8 hours in Paris? https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 21:44:27 +0000 2016", "text": "On Friday 8, #Barbes was Trending Topic in Paris for 10 hours: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 20:44:29 +0000 2016", "text": "'Paris is in Germany' appeared on Friday 8 at the 18th place in the Top20 of Paris's Trends: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 19:44:30 +0000 2016", "text": "The hashtag #Creed took the 17th place in the Top20 of Paris's Trends for Friday 8: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 19:29:54 +0000 2016", "text": "The hashtag #CES2016 took the 4th place in the Top20 of Paris's Trends for Friday 8: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 18:44:33 +0000 2016", "text": "The hashtag #FriendsTrip took the 20th place in the Top20 of Paris's Trends for Friday 8: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 16:44:29 +0000 2016", "text": "The hashtag #OUATsurM6 took the 4th place in the Top20 of Paris's Trends for Friday 8: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 15:44:36 +0000 2016", "text": "The hashtag #VendrediLecture took the 7th place in the Top20 of Paris's Trends for Friday 8: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 14:44:30 +0000 2016", "text": "Did you know that #TheTrumanShow was Trending Topic on Friday 8 for 7 hours in Paris? https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 13:30:34 +0000 2016", "text": "55% of the Paris's Trends for Friday 8 were hashtags: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 12:44:29 +0000 2016", "text": "The hashtag #LoupYEsTu took the 11th place in the Top20 of Paris's Trends for Friday 8: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 11:44:26 +0000 2016", "text": "Did you know that #Instinct was Trending Topic on Friday 8 for 7 hours in Paris? https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 11:30:26 +0000 2016", "text": "Do you want to know which were the 360 Trends on Friday 8 in Paris? https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 10:44:33 +0000 2016", "text": "The hashtag #PSGSCB took the 12th place in the Top20 of Paris's Trends for Friday 8: https://t.co/SSWZ0w0ues #trndnl"}
+{"created_at": "Sat Jan 09 08:44:31 +0000 2016", "text": "On Friday 8, 'Crystal' was Trending Topic in Paris for 8 hours: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 08:29:57 +0000 2016", "text": "The largest number of Trends in Paris for Friday 8 was at 21 hours: https://t.co/SSWZ0vISPS https://t.co/ijY8FgwcJC"}
+{"created_at": "Sat Jan 09 07:44:29 +0000 2016", "text": "On Friday 8, #Taubira was Trending Topic in Paris for 8 hours: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 06:44:29 +0000 2016", "text": "On Friday 8, #OUATsurM6 was Trending Topic in Paris for 9 hours: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 05:44:31 +0000 2016", "text": "The hashtag #JeremstarBieberBabar took the 15th place in the Top20 of Paris's Trends for Friday 8: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 04:44:26 +0000 2016", "text": "Did you know that #OUATsurM6 was Trending Topic on Friday 8 for 9 hours in Paris? https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 03:44:31 +0000 2016", "text": "The hashtag #LaPhraseQuiMetDeBonneHumeur took the 5th place in the Top20 of Paris's Trends for Friday 8: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 02:44:31 +0000 2016", "text": "Did you know that #VendrediLecture was Trending Topic on Friday 8 for 8 hours in Paris? https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 02:30:31 +0000 2016", "text": "On Friday 8, #ZaynOnBillboard was Trending Topic in Paris for 10 hours: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 01:44:28 +0000 2016", "text": "'Ademo' appeared on Friday 8 at the 6th place in the Top20 of Paris's Trends: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Sat Jan 09 00:44:27 +0000 2016", "text": "The hashtag #Taubira took the 9th place in the Top20 of Paris's Trends for Friday 8: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Fri Jan 08 23:44:31 +0000 2016", "text": "'Paris is in Germany' appeared on Friday 8 at the 18th place in the Top20 of Paris's Trends: https://t.co/SSWZ0vISPS #trndnl"}
+{"created_at": "Fri Jan 08 22:44:29 +0000 2016", "text": "The hashtag #TopGearFrance took the 12th place in the Top20 of Paris's Trends for Thursday 7: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 22:30:10 +0000 2016", "text": "Did you know that #SELFIEFORSEB was Trending Topic on Thursday 7 for 8 hours in Paris? https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 21:44:28 +0000 2016", "text": "On Thursday 7, #JeSuisToujoursCharlie was Trending Topic in Paris for 8 hours: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 20:44:27 +0000 2016", "text": "'Afida Turner' appeared on Thursday 7 at the 3rd place in the Top20 of Paris's Trends: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 19:44:31 +0000 2016", "text": "Did you know that 'Patrick Henry' was Trending Topic on Thursday 7 for 7 hours in Paris? https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 18:30:37 +0000 2016", "text": "On Thursday 7, #TeenWolf was Trending Topic in Paris for 9 hours: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 13:44:29 +0000 2016", "text": "The hashtag #JeSuisToujoursCharlie took the 11th place in the Top20 of Paris's Trends for Thursday 7: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 12:44:41 +0000 2016", "text": "The hashtag #OculusRift took the 7th place in the Top20 of Paris's Trends for Thursday 7: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 11:44:27 +0000 2016", "text": "On Thursday 7, #FriendsTrip was Trending Topic in Paris for 10 hours: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 10:44:28 +0000 2016", "text": "The hashtag #JoyeuxAnniversaireMa2x took the 13th place in the Top20 of Paris's Trends for Thursday 7: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 09:44:29 +0000 2016", "text": "On Thursday 7, #soldes was Trending Topic in Paris for 10 hours: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 06:44:26 +0000 2016", "text": "On Thursday 7, #Twitter10k was Trending Topic in Paris for 7 hours: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 05:44:30 +0000 2016", "text": "'Cor\u00e9e du Nord' appeared on Thursday 7 at the 15th place in the Top20 of Paris's Trends: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 04:44:30 +0000 2016", "text": "On Thursday 7, 'Cor\u00e9e du Nord' was Trending Topic in Paris for 7 hours: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 02:44:27 +0000 2016", "text": "The hashtag #JeSuisToujoursCharlie took the 9th place in the Top20 of Paris's Trends for Thursday 7: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 01:44:33 +0000 2016", "text": "The hashtag #FriendsTrip took the 2nd place in the Top20 of Paris's Trends for Thursday 7: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Fri Jan 08 00:44:29 +0000 2016", "text": "On Thursday 7, #TeenWolf was Trending Topic in Paris for 9 hours: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Thu Jan 07 23:44:27 +0000 2016", "text": "The hashtag #Cologne took the 19th place in the Top20 of Paris's Trends for Thursday 7: https://t.co/Kt0BP2HyjH #trndnl"}
+{"created_at": "Thu Jan 07 22:44:34 +0000 2016", "text": "Did you know that #Twitter10k was Trending Topic on Wednesday 6 for 10 hours in Paris? https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 21:44:28 +0000 2016", "text": "On Wednesday 6, #soldes was Trending Topic in Paris for 11 hours: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 20:44:33 +0000 2016", "text": "The hashtag #Wolinski took the 18th place in the Top20 of Paris's Trends for Wednesday 6: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 19:44:38 +0000 2016", "text": "On Wednesday 6, #TideTuesday was Trending Topic in Paris for 7 hours: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 18:44:33 +0000 2016", "text": "On Wednesday 6, 'Cor\u00e9e du Nord' was Trending Topic in Paris for 7 hours: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 18:30:23 +0000 2016", "text": "'Coachella' appeared on Wednesday 6 at the 16th place in the Top20 of Paris's Trends: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 17:44:34 +0000 2016", "text": "'Si Twitter' appeared on Wednesday 6 at the 19th place in the Top20 of Paris's Trends: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 16:44:31 +0000 2016", "text": "The hashtag #FriendsTrip took the 1st place in the Top20 of Paris's Trends for Wednesday 6: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 15:44:46 +0000 2016", "text": "'Lacazette' appeared on Wednesday 6 at the 6th place in the Top20 of Paris's Trends: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 14:44:39 +0000 2016", "text": "On Wednesday 6, #FriendsTrip was Trending Topic in Paris for 12 hours: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 13:44:33 +0000 2016", "text": "'Cor\u00e9e du Nord' appeared on Wednesday 6 at the 14th place in the Top20 of Paris's Trends: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 12:44:37 +0000 2016", "text": "The hashtag #Cologne took the 5th place in the Top20 of Paris's Trends for Wednesday 6: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 10:44:31 +0000 2016", "text": "Did you know that 'Zidane' was Trending Topic on Wednesday 6 for 8 hours in Paris? https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 09:44:30 +0000 2016", "text": "The hashtag #TPMP took the 17th place in the Top20 of Paris's Trends for Wednesday 6: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 08:44:27 +0000 2016", "text": "The hashtag #TPMP took the 19th place in the Top20 of Paris's Trends for Wednesday 6: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 07:44:30 +0000 2016", "text": "'Si Twitter' appeared on Wednesday 6 at the 18th place in the Top20 of Paris's Trends: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 06:44:28 +0000 2016", "text": "The hashtag #TEENWOLF5BTODAY took the 7th place in the Top20 of Paris's Trends for Wednesday 6: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 06:30:30 +0000 2016", "text": "On Wednesday 6, a total of 392 words, phrases and hashtags were Trending Topic in Paris: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 05:44:32 +0000 2016", "text": "Did you know that #Angoul\u00eame was Trending Topic on Wednesday 6 for 7 hours in Paris? https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 02:44:34 +0000 2016", "text": "'Lacazette' appeared on Wednesday 6 at the 6th place in the Top20 of Paris's Trends: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Thu Jan 07 01:30:34 +0000 2016", "text": "58% of the Paris's Trends for Wednesday 6 were hashtags: https://t.co/FCKRfqbifE #trndnl"}
+{"created_at": "Wed Jan 06 21:44:32 +0000 2016", "text": "On Tuesday 5, #LPDA3 was Trending Topic in Paris for 11 hours: https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 20:44:27 +0000 2016", "text": "On Tuesday 5, 'Hailey' was Trending Topic in Paris for 7 hours: https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 15:30:14 +0000 2016", "text": "On Tuesday 5, a total of 360 words, phrases and hashtags were Trending Topic in Paris: https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 14:44:35 +0000 2016", "text": "Did you know that #TPMP was Trending Topic on Tuesday 5 for 13 hours in Paris? https://t.co/RQoMXiBtpv #trndnl"}
+{"created_at": "Wed Jan 06 10:44:26 +0000 2016", "text": "On Tuesday 5, 'Cologne' was Trending Topic in Paris for 7 hours: https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 09:44:33 +0000 2016", "text": "Did you know that 'Michel Galabru' was Trending Topic on Tuesday 5 for 10 hours in Paris? https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 07:44:27 +0000 2016", "text": "The hashtag #ADP10Ans took the 13th place in the Top20 of Paris's Trends for Tuesday 5: https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 06:44:26 +0000 2016", "text": "'Cologne' appeared on Tuesday 5 at the 17th place in the Top20 of Paris's Trends: https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 05:44:33 +0000 2016", "text": "The hashtag #SCHsurSkyrock took the 10th place in the Top20 of Paris's Trends for Tuesday 5: https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 04:44:34 +0000 2016", "text": "Did you know that #OGCNSRFC was Trending Topic on Tuesday 5 for 10 hours in Paris? https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 03:44:25 +0000 2016", "text": "On Tuesday 5, #Cologne was Trending Topic in Paris for 8 hours: https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 03:30:53 +0000 2016", "text": "Do you want to know which were the 360 Trends on Tuesday 5 in Paris? https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 02:44:26 +0000 2016", "text": "On Tuesday 5, #BallondOr was Trending Topic in Paris for 6 hours: https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 01:44:27 +0000 2016", "text": "On Tuesday 5, #LPDA3 was Trending Topic in Paris for 11 hours: https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 01:30:21 +0000 2016", "text": "The shortest Trends on Tuesday 5 in Paris had only 4 characters long: https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Wed Jan 06 00:44:26 +0000 2016", "text": "The hashtag #Cologne took the 14th place in the Top20 of Paris's Trends for Tuesday 5: https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Tue Jan 05 23:44:24 +0000 2016", "text": "The hashtag #France3 took the 11th place in the Top20 of Paris's Trends for Tuesday 5: https://t.co/RQoMXijS0V #trndnl"}
+{"created_at": "Tue Jan 05 22:44:32 +0000 2016", "text": "'Colton Haynes' appeared on Monday 4 at the 17th place in the Top20 of Paris's Trends: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 21:44:27 +0000 2016", "text": "The hashtag #1DHistoryVideo took the 14th place in the Top20 of Paris's Trends for Monday 4: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 20:44:29 +0000 2016", "text": "On Monday 4, #InventeUnHoroscope was Trending Topic in Paris for 7 hours: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 19:44:34 +0000 2016", "text": "The hashtag #EnqueteExclusive took the 3rd place in the Top20 of Paris's Trends for Monday 4: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 17:44:32 +0000 2016", "text": "Did you know that #Rentree2016 was Trending Topic on Monday 4 for 7 hours in Paris? https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 16:44:28 +0000 2016", "text": "Did you know that #ALPC was Trending Topic on Monday 4 for 6 hours in Paris? https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 15:44:32 +0000 2016", "text": "Did you know that 'Colton Haynes' was Trending Topic on Monday 4 for 6 hours in Paris? https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 13:44:35 +0000 2016", "text": "On Monday 4, #SMCOM was Trending Topic in Paris for 9 hours: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 12:44:29 +0000 2016", "text": "On Monday 4, #1DHistoryVideo was Trending Topic in Paris for 6 hours: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 11:44:29 +0000 2016", "text": "On Monday 4, #1DInfectionMap was Trending Topic in Paris for 6 hours: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 10:44:27 +0000 2016", "text": "On Monday 4, #FrenchiesWantBeaInFrance was Trending Topic in Paris for 7 hours: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 08:44:27 +0000 2016", "text": "The hashtag #1DInfectionMap took the 19th place in the Top20 of Paris's Trends for Monday 4: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 07:44:30 +0000 2016", "text": "On Monday 4, #ACAL was Trending Topic in Paris for 7 hours: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 06:44:30 +0000 2016", "text": "Did you know that #InventeUnHoroscope was Trending Topic on Monday 4 for 7 hours in Paris? https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 05:44:31 +0000 2016", "text": "The hashtag #FrenchiesWantBeaInFrance took the 9th place in the Top20 of Paris's Trends for Monday 4: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 04:44:30 +0000 2016", "text": "On Monday 4, 'JE VEUX DORMIR' was Trending Topic in Paris for 6 hours: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 03:44:33 +0000 2016", "text": "The hashtag #1DHistoryVideo took the 14th place in the Top20 of Paris's Trends for Monday 4: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 03:30:11 +0000 2016", "text": "The shortest Trends on Monday 4 in Paris had only 4 characters long: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 02:44:29 +0000 2016", "text": "'Colton Haynes' appeared on Monday 4 at the 17th place in the Top20 of Paris's Trends: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 01:44:30 +0000 2016", "text": "The hashtag #InventeUnHoroscope took the 10th place in the Top20 of Paris's Trends for Monday 4: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 00:44:28 +0000 2016", "text": "The hashtag #ACAL took the 4th place in the Top20 of Paris's Trends for Monday 4: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Tue Jan 05 00:29:52 +0000 2016", "text": "Did you know that #EnqueteExclusive was Trending Topic on Monday 4 for 8 hours in Paris? https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Mon Jan 04 23:44:35 +0000 2016", "text": "'Hailey' appeared on Monday 4 at the 8th place in the Top20 of Paris's Trends: https://t.co/9UZDTiuke9 #trndnl"}
+{"created_at": "Mon Jan 04 22:44:40 +0000 2016", "text": "The hashtag #ufc195 took the 12th place in the Top20 of Paris's Trends for Sunday 3: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 21:44:30 +0000 2016", "text": "Did you know that #SoireeSeriesUpdatesFR was Trending Topic on Sunday 3 for 10 hours in Paris? https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 18:44:26 +0000 2016", "text": "The hashtag #NewBand1DelightOfJB took the 14th place in the Top20 of Paris's Trends for Sunday 3: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 17:30:26 +0000 2016", "text": "The largest number of Trends in Paris for Sunday 3 was at 14 hours: https://t.co/xiqRGievf9 https://t.co/MRs5TArX9L"}
+{"created_at": "Mon Jan 04 16:44:31 +0000 2016", "text": "On Sunday 3, #En2016JeProfiteDe was Trending Topic in Paris for 8 hours: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 15:44:33 +0000 2016", "text": "'Slimani' appeared on Sunday 3 at the 20th place in the Top20 of Paris's Trends: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 14:44:33 +0000 2016", "text": "The hashtag #AskEthanAndGrayson took the 11th place in the Top20 of Paris's Trends for Sunday 3: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 13:44:28 +0000 2016", "text": "'Sherlock' appeared on Sunday 3 at the 8th place in the Top20 of Paris's Trends: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 13:30:35 +0000 2016", "text": "On average, Paris's Trends for last Sunday 3 had 11 characters long: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 12:44:27 +0000 2016", "text": "Did you know that #SoireeScenesCultes was Trending Topic on Sunday 3 for 8 hours in Paris? https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 11:44:27 +0000 2016", "text": "The hashtag #HowWeLivinMusicVideo took the 9th place in the Top20 of Paris's Trends for Sunday 3: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 10:44:25 +0000 2016", "text": "On Sunday 3, #AskKevAdams was Trending Topic in Paris for 11 hours: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 10:30:48 +0000 2016", "text": "The shortest Trends on Sunday 3 in Paris had only 4 characters long: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 09:44:26 +0000 2016", "text": "The hashtag #En2016JeProfiteDe took the 9th place in the Top20 of Paris's Trends for Sunday 3: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 08:44:27 +0000 2016", "text": "On Sunday 3, #Puppets was Trending Topic in Paris for 11 hours: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 07:44:28 +0000 2016", "text": "On Sunday 3, #CongratsLarryForYourCO was Trending Topic in Paris for 8 hours: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 06:44:26 +0000 2016", "text": "The hashtag #NewBand1DelightOfJB took the 14th place in the Top20 of Paris's Trends for Sunday 3: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 03:44:30 +0000 2016", "text": "Did you know that #ufc195 was Trending Topic on Sunday 3 for 8 hours in Paris? https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Mon Jan 04 00:44:29 +0000 2016", "text": "The hashtag #OnVeutUneSextapeDePascal took the 3rd place in the Top20 of Paris's Trends for Sunday 3: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Sun Jan 03 23:44:28 +0000 2016", "text": "On Sunday 3, #HowWeLivinMusicVideo was Trending Topic in Paris for 8 hours: https://t.co/xiqRGievf9 #trndnl"}
+{"created_at": "Sun Jan 03 20:44:31 +0000 2016", "text": "The hashtag #OnEstEn2016Mais took the 2nd place in the Top20 of Paris's Trends for Saturday 2: https://t.co/7HqQabdW01 #trndnl"}
+{"created_at": "Sun Jan 03 18:44:37 +0000 2016", "text": "On Saturday 2, #CongratsLarryForYourCO was Trending Topic in Paris for 12 hours: https://t.co/7HqQabdW01 #trndnl"}
+{"created_at": "Sun Jan 03 16:44:31 +0000 2016", "text": "The hashtag #CoupeDeFrance took the 19th place in the Top20 of Paris's Trends for Saturday 2: https://t.co/7HqQabdW01 #trndnl"}
+{"created_at": "Sun Jan 03 15:44:35 +0000 2016", "text": "The hashtag #confessionsintimes took the 9th place in the Top20 of Paris's Trends for Saturday 2: https://t.co/7HqQabdW01 #trndnl"}
+{"created_at": "Sun Jan 03 12:44:34 +0000 2016", "text": "On Saturday 2, #QVGDM was Trending Topic in Paris for 10 hours: https://t.co/7HqQabdW01 #trndnl"}
+{"created_at": "Sun Jan 03 10:44:32 +0000 2016", "text": "Did you know that #SkateradeTourInParis was Trending Topic on Saturday 2 for 11 hours in Paris? https://t.co/7HqQabdW01 #trndnl"}
+{"created_at": "Sun Jan 03 09:44:27 +0000 2016", "text": "The hashtag #QVGDM took the 15th place in the Top20 of Paris's Trends for Saturday 2: https://t.co/7HqQabdW01 #trndnl"}
+{"created_at": "Sun Jan 03 08:44:25 +0000 2016", "text": "Did you know that 'En 2016' was Trending Topic on Saturday 2 for 9 hours in Paris? https://t.co/7HqQabdW01 #trndnl"}
+{"created_at": "Sun Jan 03 07:44:30 +0000 2016", "text": "'Kendall' appeared on Saturday 2 at the 14th place in the Top20 of Paris's Trends: https://t.co/7HqQabdW01 #trndnl"}
+{"created_at": "Sun Jan 03 06:44:30 +0000 2016", "text": "Did you know that #MaChansonPourBienSeR\u00e9veiller was Trending Topic on Saturday 2 for 10 hours in Paris? https://t.co/7HqQabdW01 #trndnl"}
+{"created_at": "Sun Jan 03 05:44:32 +0000 2016", "text": "'En 2016' appeared on Saturday 2 at the 20th place in the Top20 of Paris's Trends: https://t.co/7HqQabdW01 #trndnl"}
+{"created_at": "Sat Jan 02 05:44:32 +0000 2016", "text": "The hashtag #ZifouMort took the 18th place in the Top20 of Paris's Trends for Friday 1: https://t.co/rGvG2SFolH #trndnl"}
+{"created_at": "Sat Jan 02 05:30:25 +0000 2016", "text": "On Friday 1, a total of 239 words, phrases and hashtags were Trending Topic in Paris: https://t.co/rGvG2SFolH #trndnl"}
+{"created_at": "Sat Jan 02 04:44:26 +0000 2016", "text": "The hashtag #Happy2016 took the 14th place in the Top20 of Paris's Trends for Friday 1: https://t.co/rGvG2SFolH #trndnl"}
+{"created_at": "Sat Jan 02 03:44:25 +0000 2016", "text": "'BONNE ANN\u00c9E' appeared on Friday 1 at the 10th place in the Top20 of Paris's Trends: https://t.co/rGvG2SFolH #trndnl"}
+{"created_at": "Sat Jan 02 03:30:41 +0000 2016", "text": "50% of the Paris's Trends for Friday 1 were hashtags: https://t.co/rGvG2SFolH #trndnl"}
+{"created_at": "Sat Jan 02 02:44:22 +0000 2016", "text": "The hashtag #2016IsZaynsYear took the 5th place in the Top20 of Paris's Trends for Friday 1: https://t.co/rGvG2SFolH #trndnl"}
+{"created_at": "Sat Jan 02 01:44:32 +0000 2016", "text": "The hashtag #HowWeLivinMusicVideo took the 4th place in the Top20 of Paris's Trends for Friday 1: https://t.co/rGvG2SFolH #trndnl"}
+{"created_at": "Sat Jan 02 00:44:29 +0000 2016", "text": "On Friday 1, #2016IsZaynsYear was Trending Topic in Paris for 13 hours: https://t.co/rGvG2SFolH #trndnl"}
+{"created_at": "Sat Jan 02 00:30:29 +0000 2016", "text": "The longest Trends for Friday 1 in Paris was 29 characters: https://t.co/rGvG2SFolH #trndnl"}
+{"created_at": "Fri Jan 01 23:44:29 +0000 2016", "text": "'Duba\u00ef' appeared on Friday 1 at the 12th place in the Top20 of Paris's Trends: https://t.co/rGvG2SFolH #trndnl"}
+{"created_at": "Fri Jan 01 23:29:55 +0000 2016", "text": "On average, Paris's Trends for last Friday 1 had 12 characters long: https://t.co/rGvG2SFolH #trndnl"}
+{"created_at": "Fri Jan 01 22:44:27 +0000 2016", "text": "Did you know that #ASG2015 was Trending Topic on Thursday 31 for 10 hours in Paris? https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 21:44:31 +0000 2016", "text": "Did you know that #selfieforseb was Trending Topic on Thursday 31 for 9 hours in Paris? https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 20:44:29 +0000 2016", "text": "The hashtag #Samcestmoi took the 13th place in the Top20 of Paris's Trends for Thursday 31: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 18:29:57 +0000 2016", "text": "Did you know that #HappyNewYear was Trending Topic on Thursday 31 for 9 hours in Paris? https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 16:44:23 +0000 2016", "text": "The hashtag #Team1DFranceConcours2016 took the 11th place in the Top20 of Paris's Trends for Thursday 31: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 15:44:22 +0000 2016", "text": "'P\u00f4le Nord' appeared on Thursday 31 at the 9th place in the Top20 of Paris's Trends: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 14:44:30 +0000 2016", "text": "On Thursday 31, #TeenPopNRJHits was Trending Topic in Paris for 10 hours: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 14:29:55 +0000 2016", "text": "The hashtag #ISILfic took the 8th place in the Top20 of Paris's Trends for Thursday 31: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 13:44:30 +0000 2016", "text": "The hashtag #FCBBetis took the 19th place in the Top20 of Paris's Trends for Thursday 31: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 12:44:29 +0000 2016", "text": "Did you know that #InterPSG was Trending Topic on Thursday 31 for 12 hours in Paris? https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 12:29:39 +0000 2016", "text": "52% of the Paris's Trends for Thursday 31 were hashtags: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 11:44:27 +0000 2016", "text": "On Thursday 31, #WTC37 was Trending Topic in Paris for 13 hours: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 09:44:27 +0000 2016", "text": "'Dans 24h' appeared on Thursday 31 at the 18th place in the Top20 of Paris's Trends: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 09:30:16 +0000 2016", "text": "On Thursday 31, a total of 268 words, phrases and hashtags were Trending Topic in Paris: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 08:44:28 +0000 2016", "text": "The hashtag #WTC37 took the 4th place in the Top20 of Paris's Trends for Thursday 31: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 07:44:32 +0000 2016", "text": "On Thursday 31, #BxlParis was Trending Topic in Paris for 16 hours: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 06:44:30 +0000 2016", "text": "The hashtag #TeenPopNRJHits took the 12th place in the Top20 of Paris's Trends for Thursday 31: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 05:44:31 +0000 2016", "text": "Did you know that #AlgerieBoss was Trending Topic on Thursday 31 for 9 hours in Paris? https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 04:44:32 +0000 2016", "text": "The hashtag #Remember1D2015 took the 6th place in the Top20 of Paris's Trends for Thursday 31: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 03:44:32 +0000 2016", "text": "The hashtag #ASG2015 took the 10th place in the Top20 of Paris's Trends for Thursday 31: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 02:44:31 +0000 2016", "text": "On Thursday 31, #ISILfic was Trending Topic in Paris for 12 hours: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 02:29:59 +0000 2016", "text": "Did you know that #ASG2015 was Trending Topic on Thursday 31 for 10 hours in Paris? https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 01:44:29 +0000 2016", "text": "The hashtag #TheVamps2015 took the 14th place in the Top20 of Paris's Trends for Thursday 31: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 01:29:57 +0000 2016", "text": "Did you know that #WTC37 was Trending Topic on Thursday 31 for 13 hours in Paris? https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Fri Jan 01 00:44:30 +0000 2016", "text": "Did you know that #HappyNewYear was Trending Topic on Thursday 31 for 9 hours in Paris? https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Thu Dec 31 23:44:28 +0000 2015", "text": "On Thursday 31, 'P\u00f4le Nord' was Trending Topic in Paris for 10 hours: https://t.co/JUt7ZyyY08 #trndnl"}
+{"created_at": "Thu Dec 31 22:44:29 +0000 2015", "text": "The hashtag #HAPPYVDAY2015 took the 20th place in the Top20 of Paris's Trends for Wednesday 30: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 22:31:05 +0000 2015", "text": "48% of the Paris's Trends for Wednesday 30 were hashtags: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 19:44:30 +0000 2015", "text": "Did you know that #KendjiAvecNRJ was Trending Topic on Wednesday 30 for 10 hours in Paris? https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 18:44:34 +0000 2015", "text": "Did you know that #QuandJeRegardePLL was Trending Topic on Wednesday 30 for 12 hours in Paris? https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 18:30:45 +0000 2015", "text": "The longest Trends for Wednesday 30 in Paris was 30 characters: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 15:44:37 +0000 2015", "text": "Did you know that #LPDLA3 was Trending Topic on Wednesday 30 for 8 hours in Paris? https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 14:44:43 +0000 2015", "text": "The hashtag #AucuneSoir\u00e9eSans took the 4th place in the Top20 of Paris's Trends for Wednesday 30: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 11:44:37 +0000 2015", "text": "The hashtag #ShawnComeSeeYourFrenchies took the 5th place in the Top20 of Paris's Trends for Wednesday 30: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 10:44:37 +0000 2015", "text": "'Chihiro' appeared on Wednesday 30 at the 11th place in the Top20 of Paris's Trends: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 09:44:31 +0000 2015", "text": "On Wednesday 30, #1YearWithoutO2L was Trending Topic in Paris for 9 hours: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 08:44:32 +0000 2015", "text": "On Wednesday 30, #KendjiAvecNRJ was Trending Topic in Paris for 10 hours: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 07:44:34 +0000 2015", "text": "On Wednesday 30, #LeDernierGaulois was Trending Topic in Paris for 11 hours: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 06:44:35 +0000 2015", "text": "The hashtag #2015auPoste took the 13th place in the Top20 of Paris's Trends for Wednesday 30: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 05:44:40 +0000 2015", "text": "The hashtag #LHDLTR took the 18th place in the Top20 of Paris's Trends for Wednesday 30: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 04:44:33 +0000 2015", "text": "Did you know that #AlgerieBoss was Trending Topic on Wednesday 30 for 10 hours in Paris? https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 03:44:32 +0000 2015", "text": "'Jena Lee' appeared on Wednesday 30 at the 7th place in the Top20 of Paris's Trends: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 02:44:32 +0000 2015", "text": "Did you know that #2015auPoste was Trending Topic on Wednesday 30 for 10 hours in Paris? https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 01:44:32 +0000 2015", "text": "The hashtag #MessageForMyCrush took the 2nd place in the Top20 of Paris's Trends for Wednesday 30: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Thu Dec 31 00:44:31 +0000 2015", "text": "On Wednesday 30, #LHDLTR was Trending Topic in Paris for 8 hours: https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Wed Dec 30 23:44:31 +0000 2015", "text": "Did you know that #LPDLA3 was Trending Topic on Wednesday 30 for 8 hours in Paris? https://t.co/SEDwVz9Q9h #trndnl"}
+{"created_at": "Wed Dec 30 22:44:37 +0000 2015", "text": "The hashtag #2015bestnine took the 4th place in the Top20 of Paris's Trends for Tuesday 29: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 21:44:53 +0000 2015", "text": "'Sergi Guardiola' appeared on Tuesday 29 at the 19th place in the Top20 of Paris's Trends: https://t.co/OcpPLtBEn6 #trndnl"}
+{"created_at": "Wed Dec 30 20:44:56 +0000 2015", "text": "On Tuesday 29, #EchangeStandard was Trending Topic in Paris for 10 hours: https://t.co/OcpPLtBEn6 #trndnl"}
+{"created_at": "Wed Dec 30 19:44:43 +0000 2015", "text": "The hashtag #SOOMPIAWARDS2015 took the 9th place in the Top20 of Paris's Trends for Tuesday 29: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 19:30:41 +0000 2015", "text": "The longest Trends for Tuesday 29 in Paris was 28 characters: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 18:44:32 +0000 2015", "text": "Did you know that #KennyGirlsAreConfident was Trending Topic on Tuesday 29 for 9 hours in Paris? https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 17:44:29 +0000 2015", "text": "On Tuesday 29, #HappyBirthdayNash was Trending Topic in Paris for 13 hours: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 16:44:30 +0000 2015", "text": "The hashtag #EchangeStandard took the 12th place in the Top20 of Paris's Trends for Tuesday 29: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 16:30:32 +0000 2015", "text": "On average, Paris's Trends for last Tuesday 29 had 11 characters long: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 15:44:47 +0000 2015", "text": "The hashtag #KendjiAvecNRJ took the 7th place in the Top20 of Paris's Trends for Tuesday 29: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 14:44:36 +0000 2015", "text": "On Tuesday 29, 'Sergi Guardiola' was Trending Topic in Paris for 9 hours: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 14:31:01 +0000 2015", "text": "The shortest Trends on Tuesday 29 in Paris had only 4 characters long: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 13:44:33 +0000 2015", "text": "On Tuesday 29, #MaFlemmeEnEmoji was Trending Topic in Paris for 10 hours: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 11:44:33 +0000 2015", "text": "On Tuesday 29, #MonAnneeFoot2015 was Trending Topic in Paris for 9 hours: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 09:44:38 +0000 2015", "text": "The hashtag #99ThingsAboutMe took the 6th place in the Top20 of Paris's Trends for Tuesday 29: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 08:44:31 +0000 2015", "text": "The hashtag #LesAnges8 took the 8th place in the Top20 of Paris's Trends for Tuesday 29: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 07:44:39 +0000 2015", "text": "On Tuesday 29, #2015bestnine was Trending Topic in Paris for 12 hours: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 07:29:59 +0000 2015", "text": "On Tuesday 29, a total of 319 words, phrases and hashtags were Trending Topic in Paris: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 06:44:33 +0000 2015", "text": "The hashtag #300choeurspourlesfetes took the 3rd place in the Top20 of Paris's Trends for Tuesday 29: https://t.co/OcpPLtBEn6 #trndnl"}
+{"created_at": "Wed Dec 30 05:44:36 +0000 2015", "text": "Did you know that #KendjiAvecNRJ was Trending Topic on Tuesday 29 for 12 hours in Paris? https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 04:44:34 +0000 2015", "text": "On Tuesday 29, #HappyBirthdayNash was Trending Topic in Paris for 13 hours: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 03:44:34 +0000 2015", "text": "On Tuesday 29, #2015en3mots was Trending Topic in Paris for 14 hours: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 02:44:29 +0000 2015", "text": "Did you know that 'De Gea' was Trending Topic on Tuesday 29 for 9 hours in Paris? https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 02:30:14 +0000 2015", "text": "The hashtag #KennyGirlsAreConfident took the 15th place in the Top20 of Paris's Trends for Tuesday 29: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Wed Dec 30 00:44:46 +0000 2015", "text": "On Tuesday 29, 'Sergi Guardiola' was Trending Topic in Paris for 9 hours: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Tue Dec 29 23:44:43 +0000 2015", "text": "The hashtag #Raiponce took the 9th place in the Top20 of Paris's Trends for Tuesday 29: https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Tue Dec 29 23:30:38 +0000 2015", "text": "Do you want to know which were the 319 Trends on Tuesday 29 in Paris? https://t.co/OcpPLtTfeE #trndnl"}
+{"created_at": "Tue Dec 29 21:44:32 +0000 2015", "text": "The hashtag #5SOSIsDeadParty took the 2nd place in the Top20 of Paris's Trends for Monday 28: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 20:44:36 +0000 2015", "text": "On Monday 28, #frenchOTHparty was Trending Topic in Paris for 10 hours: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 18:44:40 +0000 2015", "text": "On Monday 28, 'Billy Elliot' was Trending Topic in Paris for 10 hours: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 17:44:39 +0000 2015", "text": "The hashtag #MissYouNash took the 4th place in the Top20 of Paris's Trends for Monday 28: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 16:44:32 +0000 2015", "text": "Did you know that 'Billy Elliot' was Trending Topic on Monday 28 for 10 hours in Paris? https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 15:44:37 +0000 2015", "text": "The hashtag #EnqueteExclusive took the 9th place in the Top20 of Paris's Trends for Monday 28: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 14:30:32 +0000 2015", "text": "On Monday 28, a total of 321 words, phrases and hashtags were Trending Topic in Paris: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 12:44:40 +0000 2015", "text": "On Monday 28, #20ThingsIWantFor2016 was Trending Topic in Paris for 10 hours: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 11:44:33 +0000 2015", "text": "Did you know that #TheHoliday was Trending Topic on Monday 28 for 12 hours in Paris? https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 09:44:31 +0000 2015", "text": "The hashtag #frenchOTHparty took the 17th place in the Top20 of Paris's Trends for Monday 28: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 08:30:08 +0000 2015", "text": "Did you know that #Ajaccio was Trending Topic on Monday 28 for 12 hours in Paris? https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 07:44:34 +0000 2015", "text": "Did you know that #frenchOTHparty was Trending Topic on Monday 28 for 10 hours in Paris? https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 07:30:44 +0000 2015", "text": "The hashtag #LeKFCEstGratuitDemain took the 3rd place in the Top20 of Paris's Trends for Monday 28: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 06:44:33 +0000 2015", "text": "The hashtag #KendjiAvecNRJ took the 5th place in the Top20 of Paris's Trends for Monday 28: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 05:44:39 +0000 2015", "text": "On Monday 28, 'Billy Elliot' was Trending Topic in Paris for 10 hours: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 04:30:23 +0000 2015", "text": "52% of the Paris's Trends for Monday 28 were hashtags: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 03:44:32 +0000 2015", "text": "On Monday 28, #AskTheVamps was Trending Topic in Paris for 11 hours: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 02:44:32 +0000 2015", "text": "The hashtag #mattylovesya took the 11th place in the Top20 of Paris's Trends for Monday 28: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 01:44:35 +0000 2015", "text": "Did you know that #mattylovesya was Trending Topic on Monday 28 for 11 hours in Paris? https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 01:30:18 +0000 2015", "text": "Do you want to know which were the 321 Trends on Monday 28 in Paris? https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Tue Dec 29 00:44:39 +0000 2015", "text": "The hashtag #NFLExtra took the 20th place in the Top20 of Paris's Trends for Monday 28: https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Mon Dec 28 23:44:39 +0000 2015", "text": "Did you know that #20ThingsIWantFor2016 was Trending Topic on Monday 28 for 10 hours in Paris? https://t.co/7dLhdpICLR #trndnl"}
+{"created_at": "Mon Dec 28 22:44:37 +0000 2015", "text": "The hashtag #askossy took the 16th place in the Top20 of Paris's Trends for Sunday 27: https://t.co/XOMyf1fQ5d #trndnl"}
+{"created_at": "Mon Dec 28 21:44:34 +0000 2015", "text": "The hashtag #SkypeWithLexxi took the 12th place in the Top20 of Paris's Trends for Sunday 27: https://t.co/XOMyf1fQ5d #trndnl"}
+{"created_at": "Mon Dec 28 20:44:36 +0000 2015", "text": "'Southampton' appeared on Sunday 27 at the 8th place in the Top20 of Paris's Trends: https://t.co/XOMyf1fQ5d #trndnl"}
+{"created_at": "Mon Dec 28 18:44:32 +0000 2015", "text": "The hashtag #Noel2015 took the 15th place in the Top20 of Paris's Trends for Sunday 27: https://t.co/XOMyf1fQ5d #trndnl"}
+{"created_at": "Mon Dec 28 17:44:36 +0000 2015", "text": "The hashtag #StayStrongAaron took the 20th place in the Top20 of Paris's Trends for Sunday 27: https://t.co/XOMyf1fQ5d #trndnl"}
+{"created_at": "Mon Dec 28 16:44:36 +0000 2015", "text": "The hashtag #LEDLT took the 11th place in the Top20 of Paris's Trends for Sunday 27: https://t.co/XOMyf1fQ5d #trndnl"}
+{"created_at": "Mon Dec 28 14:44:41 +0000 2015", "text": "On Sunday 27, 'Miami' was Trending Topic in Paris for 12 hours: https://t.co/XOMyf1fQ5d #trndnl"}
+{"created_at": "Mon Dec 28 13:44:36 +0000 2015", "text": "Did you know that 'Robert M\u00e9nard' was Trending Topic on Sunday 27 for 11 hours in Paris? https://t.co/XOMyf1fQ5d #trndnl"}
+{"created_at": "Mon Dec 28 09:44:36 +0000 2015", "text": "The hashtag #5SOSIsDeadParty took the 13th place in the Top20 of Paris's Trends for Sunday 27: https://t.co/XOMyf1fQ5d #trndnl"}
+{"created_at": "Mon Dec 28 08:44:35 +0000 2015", "text": "'Robert M\u00e9nard' appeared on Sunday 27 at the 14th place in the Top20 of Paris's Trends: https://t.co/XOMyf1fQ5d #trndnl"}
+{"created_at": "Mon Dec 28 06:44:38 +0000 2015", "text": "On Sunday 27, #StayStrongAaron was Trending Topic in Paris for 10 hours: https://t.co/XOMyf1fQ5d #trndnl"}
+{"created_at": "Mon Dec 28 05:44:42 +0000 2015", "text": "The hashtag #FreeMoussa took the 6th place in the Top20 of Paris's Trends for Sunday 27: https://t.co/XOMyf1fQ5d #trndnl"}
+{"created_at": "Sun Dec 27 08:44:29 +0000 2015", "text": "Did you know that #20thingsiwantfor2016 was Trending Topic on Saturday 26 for 17 hours in Paris? https://t.co/qerH3dkcyK #trndnl"}
+{"created_at": "Sun Dec 27 07:44:34 +0000 2015", "text": "'LeBron' appeared on Saturday 26 at the 9th place in the Top20 of Paris's Trends: https://t.co/qerH3dkcyK #trndnl"}
+{"created_at": "Sun Dec 27 06:44:38 +0000 2015", "text": "On Saturday 26, 'Curry' was Trending Topic in Paris for 12 hours: https://t.co/qerH3dkcyK #trndnl"}
+{"created_at": "Sun Dec 27 05:44:37 +0000 2015", "text": "Did you know that 'Cavs' was Trending Topic on Saturday 26 for 11 hours in Paris? https://t.co/qerH3dkcyK #trndnl"}
+{"created_at": "Sat Dec 26 05:30:39 +0000 2015", "text": "The hashtag #JackpotFnac took the 1st place in the Top20 of Paris's Trends for Friday 25: https://t.co/uRyOtEY86S #trndnl"}
+{"created_at": "Sat Dec 26 02:44:32 +0000 2015", "text": "On Friday 25, 'iPhone 6s' was Trending Topic in Paris for 16 hours: https://t.co/uRyOtEY86S #trndnl"}
+{"created_at": "Fri Dec 25 22:44:28 +0000 2015", "text": "The hashtag #Taubira took the 15th place in the Top20 of Paris's Trends for Thursday 24: https://t.co/bWUiJWg6Ll #trndnl"}
+{"created_at": "Fri Dec 25 21:44:28 +0000 2015", "text": "The hashtag #AwardMeilleureFamille took the 14th place in the Top20 of Paris's Trends for Thursday 24: https://t.co/bWUiJWg6Ll #trndnl"}
+{"created_at": "Fri Dec 25 12:44:32 +0000 2015", "text": "On Thursday 24, #AwardCoupleLePlusAttendu was Trending Topic in Paris for 8 hours: https://t.co/bWUiJWg6Ll #trndnl"}
+{"created_at": "Fri Dec 25 08:44:25 +0000 2015", "text": "On Thursday 24, #Releve was Trending Topic in Paris for 7 hours: https://t.co/bWUiJWg6Ll #trndnl"}
+{"created_at": "Fri Dec 25 07:44:36 +0000 2015", "text": "The hashtag #Releve took the 17th place in the Top20 of Paris's Trends for Thursday 24: https://t.co/bWUiJWg6Ll #trndnl"}
+{"created_at": "Fri Dec 25 06:44:33 +0000 2015", "text": "Did you know that #reveillon was Trending Topic on Thursday 24 for 9 hours in Paris? https://t.co/bWUiJWg6Ll #trndnl"}
+{"created_at": "Fri Dec 25 05:44:40 +0000 2015", "text": "The hashtag #Taubira took the 15th place in the Top20 of Paris's Trends for Thursday 24: https://t.co/bWUiJWg6Ll #trndnl"}
+{"created_at": "Fri Dec 25 04:44:33 +0000 2015", "text": "On Thursday 24, #Pour2016JeVeux was Trending Topic in Paris for 7 hours: https://t.co/bWUiJWg6Ll #trndnl"}
+{"created_at": "Fri Dec 25 03:44:33 +0000 2015", "text": "The hashtag #SodaTheEnd took the 4th place in the Top20 of Paris's Trends for Thursday 24: https://t.co/bWUiJWg6Ll #trndnl"}
+{"created_at": "Fri Dec 25 01:44:28 +0000 2015", "text": "On Thursday 24, #BruelRTNo\u00ebl was Trending Topic in Paris for 6 hours: https://t.co/bWUiJWg6Ll #trndnl"}
+{"created_at": "Fri Dec 25 01:30:51 +0000 2015", "text": "On Thursday 24, #AwardMortLaPlusTriste was Trending Topic in Paris for 16 hours: https://t.co/bWUiJWg6Ll #trndnl"}
+{"created_at": "Fri Dec 25 00:44:35 +0000 2015", "text": "Did you know that #DALSFinale was Trending Topic on Thursday 24 for 17 hours in Paris? https://t.co/bWUiJWg6Ll #trndnl"}
+{"created_at": "Thu Dec 24 23:44:28 +0000 2015", "text": "On Thursday 24, #peoplearebeautifulchallenge was Trending Topic in Paris for 7 hours: https://t.co/bWUiJWg6Ll #trndnl"}
+{"created_at": "Thu Dec 24 21:44:30 +0000 2015", "text": "Did you know that #LeMeilleurDesQuatreTiers was Trending Topic on Wednesday 23 for 8 hours in Paris? https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 21:30:23 +0000 2015", "text": "The hashtag #WeAreAll1D took the 10th place in the Top20 of Paris's Trends for Wednesday 23: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 20:44:32 +0000 2015", "text": "Did you know that #ShareaCoke was Trending Topic on Wednesday 23 for 11 hours in Paris? https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 19:30:53 +0000 2015", "text": "Did you know that #GMW9 was Trending Topic on Wednesday 23 for 14 hours in Paris? https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 16:44:39 +0000 2015", "text": "The hashtag #CatchRAW took the 20th place in the Top20 of Paris's Trends for Wednesday 23: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 14:44:42 +0000 2015", "text": "On Wednesday 23, 'L'acc de Liam' was Trending Topic in Paris for 12 hours: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 12:44:34 +0000 2015", "text": "On Wednesday 23, #SpaceX was Trending Topic in Paris for 8 hours: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 11:44:32 +0000 2015", "text": "The hashtag #HandsToMyselfVideoTODAY took the 16th place in the Top20 of Paris's Trends for Wednesday 23: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 08:31:17 +0000 2015", "text": "The longest Trends for Wednesday 23 in Paris was 28 characters: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 07:44:33 +0000 2015", "text": "Did you know that #MonSouvenirDe2015 was Trending Topic on Wednesday 23 for 13 hours in Paris? https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 06:44:32 +0000 2015", "text": "'Yassin Salhi' appeared on Wednesday 23 at the 2nd place in the Top20 of Paris's Trends: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 06:30:33 +0000 2015", "text": "The largest number of Trends in Paris for Wednesday 23 was at 10 hours: https://t.co/kgeynOfPz5 https://t.co/QBKSN569Td"}
+{"created_at": "Thu Dec 24 05:44:38 +0000 2015", "text": "The hashtag #ShareaCoke took the 11th place in the Top20 of Paris's Trends for Wednesday 23: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 05:31:26 +0000 2015", "text": "On Wednesday 23, a total of 293 words, phrases and hashtags were Trending Topic in Paris: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 04:44:26 +0000 2015", "text": "On Wednesday 23, #hdle was Trending Topic in Paris for 13 hours: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 02:44:26 +0000 2015", "text": "The hashtag #LeMeilleurDesQuatreTiers took the 17th place in the Top20 of Paris's Trends for Wednesday 23: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 01:44:29 +0000 2015", "text": "'Danielle' appeared on Wednesday 23 at the 12th place in the Top20 of Paris's Trends: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Thu Dec 24 00:44:29 +0000 2015", "text": "The hashtag #GMW9 took the 1st place in the Top20 of Paris's Trends for Wednesday 23: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Wed Dec 23 23:44:29 +0000 2015", "text": "The hashtag #MonSouvenirDe2015 took the 5th place in the Top20 of Paris's Trends for Wednesday 23: https://t.co/kgeynOfPz5 #trndnl"}
+{"created_at": "Wed Dec 23 22:44:35 +0000 2015", "text": "'Hermione' appeared on Tuesday 22 at the 9th place in the Top20 of Paris's Trends: https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Wed Dec 23 20:44:30 +0000 2015", "text": "The hashtag #AFCvMCFC took the 19th place in the Top20 of Paris's Trends for Tuesday 22: https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Wed Dec 23 17:44:29 +0000 2015", "text": "The hashtag #WeAreAllNiall took the 2nd place in the Top20 of Paris's Trends for Tuesday 22: https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Wed Dec 23 16:44:26 +0000 2015", "text": "'Giroud' appeared on Tuesday 22 at the 16th place in the Top20 of Paris's Trends: https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Wed Dec 23 15:44:34 +0000 2015", "text": "The hashtag #LaGuerreDesBoutons took the 12th place in the Top20 of Paris's Trends for Tuesday 22: https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Wed Dec 23 14:30:16 +0000 2015", "text": "59% of the Paris's Trends for Tuesday 22 were hashtags: https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Wed Dec 23 11:44:26 +0000 2015", "text": "On Tuesday 22, #WWParis was Trending Topic in Paris for 7 hours: https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Wed Dec 23 10:44:31 +0000 2015", "text": "The hashtag #HandsToMyselfVideoTODAY took the 7th place in the Top20 of Paris's Trends for Tuesday 22: https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Wed Dec 23 09:44:36 +0000 2015", "text": "'Milla' appeared on Tuesday 22 at the 5th place in the Top20 of Paris's Trends: https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Wed Dec 23 08:44:31 +0000 2015", "text": "Did you know that 'Ozil' was Trending Topic on Tuesday 22 for 7 hours in Paris? https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Wed Dec 23 08:30:32 +0000 2015", "text": "Peak hours in Paris's Trends for Tuesday 22 were at 17 and 18: https://t.co/fORg4wBgND https://t.co/Oca9KkzbfE"}
+{"created_at": "Wed Dec 23 06:30:33 +0000 2015", "text": "Do you want to know which were the 313 Trends on Tuesday 22 in Paris? https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Wed Dec 23 05:44:37 +0000 2015", "text": "The hashtag #PotterheadPartySnow took the 13th place in the Top20 of Paris's Trends for Tuesday 22: https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Wed Dec 23 03:44:32 +0000 2015", "text": "The hashtag #MissUniverse2015 took the 3rd place in the Top20 of Paris's Trends for Tuesday 22: https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Wed Dec 23 02:44:29 +0000 2015", "text": "Did you know that 'No\u00ebl' was Trending Topic on Tuesday 22 for 9 hours in Paris? https://t.co/fORg4wBgND #trndnl"}
+{"created_at": "Tue Dec 22 22:44:30 +0000 2015", "text": "'Danielle' appeared on Monday 21 at the 19th place in the Top20 of Paris's Trends: https://t.co/ij5aQRk09L #trndnl"}
+{"created_at": "Tue Dec 22 20:44:35 +0000 2015", "text": "'Hermione' appeared on Monday 21 at the 1st place in the Top20 of Paris's Trends: https://t.co/ij5aQRBByl #trndnl"}
+{"created_at": "Tue Dec 22 15:44:40 +0000 2015", "text": "The hashtag #Tapie took the 12th place in the Top20 of Paris's Trends for Monday 21: https://t.co/ij5aQRk09L #trndnl"}
+{"created_at": "Tue Dec 22 12:44:30 +0000 2015", "text": "Did you know that #MoiMocheEtMechant2 was Trending Topic on Monday 21 for 9 hours in Paris? https://t.co/ij5aQRk09L #trndnl"}
+{"created_at": "Tue Dec 22 05:44:33 +0000 2015", "text": "The hashtag #50ShadesOfLouisAss took the 11th place in the Top20 of Paris's Trends for Monday 21: https://t.co/ij5aQRk09L #trndnl"}
+{"created_at": "Tue Dec 22 05:31:06 +0000 2015", "text": "Do you want to know which were the 327 Trends on Monday 21 in Paris? https://t.co/ij5aQRk09L #trndnl"}
+{"created_at": "Tue Dec 22 04:44:31 +0000 2015", "text": "On Monday 21, #EnqueteExclusive was Trending Topic in Paris for 9 hours: https://t.co/ij5aQRk09L #trndnl"}
+{"created_at": "Tue Dec 22 03:44:30 +0000 2015", "text": "On Monday 21, 'Steve Harvey' was Trending Topic in Paris for 9 hours: https://t.co/ij5aQRk09L #trndnl"}
+{"created_at": "Tue Dec 22 02:44:27 +0000 2015", "text": "The hashtag #ASSESCO took the 16th place in the Top20 of Paris's Trends for Monday 21: https://t.co/ij5aQRk09L #trndnl"}
+{"created_at": "Tue Dec 22 01:44:36 +0000 2015", "text": "The hashtag #WYWWakeUpWorldTour took the 17th place in the Top20 of Paris's Trends for Monday 21: https://t.co/ij5aQRk09L #trndnl"}
+{"created_at": "Tue Dec 22 00:44:34 +0000 2015", "text": "The hashtag #EnqueteExclusive took the 7th place in the Top20 of Paris's Trends for Monday 21: https://t.co/ij5aQRk09L #trndnl"}
+{"created_at": "Mon Dec 21 21:44:31 +0000 2015", "text": "'Bernard Tapie' appeared on Sunday 20 at the 8th place in the Top20 of Paris's Trends: https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 20:44:28 +0000 2015", "text": "The hashtag #ASMEXE took the 13th place in the Top20 of Paris's Trends for Sunday 20: https://t.co/Y58I5OZb7L #trndnl"}
+{"created_at": "Mon Dec 21 19:44:29 +0000 2015", "text": "Did you know that 'Iris Mittenaere' was Trending Topic on Sunday 20 for 4 hours in Paris? https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 19:30:00 +0000 2015", "text": "On Sunday 20, a total of 303 words, phrases and hashtags were Trending Topic in Paris: https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 18:44:39 +0000 2015", "text": "On Sunday 20, #GFCAOL was Trending Topic in Paris for 4 hours: https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 17:44:26 +0000 2015", "text": "The hashtag #WeAreAllHarry took the 1st place in the Top20 of Paris's Trends for Sunday 20: https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 16:44:32 +0000 2015", "text": "The hashtag #GFCAOL took the 14th place in the Top20 of Paris's Trends for Sunday 20: https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 15:44:34 +0000 2015", "text": "Did you know that 'Morgane' was Trending Topic on Sunday 20 for 4 hours in Paris? https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 14:44:34 +0000 2015", "text": "On Sunday 20, #MissFrance2016 was Trending Topic in Paris for 5 hours: https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 11:44:32 +0000 2015", "text": "Did you know that #OnEstBient\u00f4tEn2016Et was Trending Topic on Sunday 20 for 7 hours in Paris? https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 09:44:32 +0000 2015", "text": "'Flora Coquerel' appeared on Sunday 20 at the 4th place in the Top20 of Paris's Trends: https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 08:44:31 +0000 2015", "text": "The hashtag #DemDebate took the 15th place in the Top20 of Paris's Trends for Sunday 20: https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 07:44:31 +0000 2015", "text": "The hashtag #PourNoelJeVeux took the 10th place in the Top20 of Paris's Trends for Sunday 20: https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 06:44:27 +0000 2015", "text": "Did you know that #DemDebate was Trending Topic on Sunday 20 for 4 hours in Paris? https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 04:30:20 +0000 2015", "text": "The hashtag #AltaBadia took the 20th place in the Top20 of Paris's Trends for Sunday 20: https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Mon Dec 21 01:44:35 +0000 2015", "text": "Did you know that #GFCAOL was Trending Topic on Sunday 20 for 4 hours in Paris? https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Sun Dec 20 23:30:37 +0000 2015", "text": "'Morgane' appeared on Sunday 20 at the 17th place in the Top20 of Paris's Trends: https://t.co/Y58I5OHzJb #trndnl"}
+{"created_at": "Sun Dec 20 21:30:28 +0000 2015", "text": "The hashtag #OGCNMHSC took the 5th place in the Top20 of Paris's Trends for Saturday 19: https://t.co/sxER4iLwhx #trndnl"}
+{"created_at": "Sun Dec 20 20:44:36 +0000 2015", "text": "On Saturday 19, #OklmRadio was Trending Topic in Paris for 8 hours: https://t.co/sxER4iLwhx #trndnl"}
+{"created_at": "Sun Dec 20 16:44:31 +0000 2015", "text": "Did you know that #Thalassa was Trending Topic on Saturday 19 for 8 hours in Paris? https://t.co/sxER4iLwhx #trndnl"}
+{"created_at": "Sun Dec 20 14:31:05 +0000 2015", "text": "On Saturday 19, a total of 260 words, phrases and hashtags were Trending Topic in Paris: https://t.co/sxER4iLwhx #trndnl"}
+{"created_at": "Sun Dec 20 13:31:13 +0000 2015", "text": "The hashtag #DALS took the 3rd place in the Top20 of Paris's Trends for Saturday 19: https://t.co/sxER4iLwhx #trndnl"}
+{"created_at": "Sun Dec 20 11:44:37 +0000 2015", "text": "The hashtag #LPDLA3 took the 15th place in the Top20 of Paris's Trends for Saturday 19: https://t.co/sxER4iLwhx #trndnl"}
+{"created_at": "Sun Dec 20 09:44:32 +0000 2015", "text": "The hashtag #OklmRadio took the 20th place in the Top20 of Paris's Trends for Saturday 19: https://t.co/sxER4iLwhx #trndnl"}
+{"created_at": "Sun Dec 20 08:29:38 +0000 2015", "text": "On average, Paris's Trends for last Saturday 19 had 12 characters long: https://t.co/sxER4iLwhx #trndnl"}
+{"created_at": "Sun Dec 20 07:44:35 +0000 2015", "text": "On Saturday 19, #SomethingSweetOniTunes was Trending Topic in Paris for 8 hours: https://t.co/sxER4iLwhx #trndnl"}
+{"created_at": "Sat Dec 19 07:44:34 +0000 2015", "text": "On Friday 18, #KeenVChezCauetSurNRJ was Trending Topic in Paris for 6 hours: https://t.co/tXDPFtxWxH #trndnl"}
+{"created_at": "Sat Dec 19 06:44:34 +0000 2015", "text": "Did you know that #2015In5Words was Trending Topic on Friday 18 for 10 hours in Paris? https://t.co/tXDPFtxWxH #trndnl"}
+{"created_at": "Sat Dec 19 05:44:34 +0000 2015", "text": "The hashtag #SMCPSG took the 14th place in the Top20 of Paris's Trends for Friday 18: https://t.co/tXDPFtxWxH #trndnl"}
+{"created_at": "Sat Dec 19 04:44:33 +0000 2015", "text": "The hashtag #StarWars took the 9th place in the Top20 of Paris's Trends for Friday 18: https://t.co/tXDPFtxWxH #trndnl"}
+{"created_at": "Sat Dec 19 03:44:27 +0000 2015", "text": "The hashtag #JetBlackHeartMusicVideo took the 4th place in the Top20 of Paris's Trends for Friday 18: https://t.co/tXDPFtxWxH #trndnl"}
+{"created_at": "Sat Dec 19 02:44:31 +0000 2015", "text": "Did you know that #JeSoutiensBDS was Trending Topic on Friday 18 for 7 hours in Paris? https://t.co/tXDPFtxWxH #trndnl"}
+{"created_at": "Sat Dec 19 01:44:32 +0000 2015", "text": "On Friday 18, #EnvoyeSpecial was Trending Topic in Paris for 8 hours: https://t.co/tXDPFtxWxH #trndnl"}
+{"created_at": "Sat Dec 19 00:44:44 +0000 2015", "text": "The hashtag #Zemmour took the 10th place in the Top20 of Paris's Trends for Friday 18: https://t.co/tXDPFtxWxH #trndnl"}
+{"created_at": "Fri Dec 18 23:44:26 +0000 2015", "text": "The hashtag #PhraseDeMaman took the 6th place in the Top20 of Paris's Trends for Friday 18: https://t.co/tXDPFtxWxH #trndnl"}
+{"created_at": "Fri Dec 18 23:30:19 +0000 2015", "text": "On Friday 18, #StarWars was Trending Topic in Paris for 7 hours: https://t.co/tXDPFtxWxH #trndnl"}
+{"created_at": "Fri Dec 18 22:44:51 +0000 2015", "text": "On Thursday 17, #PSGASSE was Trending Topic in Paris for 8 hours: https://t.co/KFm0nInyEj #trndnl"}
+{"created_at": "Fri Dec 18 19:44:26 +0000 2015", "text": "The hashtag #RomanceCasesXmas took the 12th place in the Top20 of Paris's Trends for Thursday 17: https://t.co/KFm0nInyEj #trndnl"}
+{"created_at": "Fri Dec 18 17:44:24 +0000 2015", "text": "The hashtag #JeuTPMP took the 16th place in the Top20 of Paris's Trends for Thursday 17: https://t.co/KFm0nInyEj #trndnl"}
+{"created_at": "Fri Dec 18 16:44:26 +0000 2015", "text": "Did you know that #JeudiConfession was Trending Topic on Thursday 17 for 11 hours in Paris? https://t.co/KFm0nInyEj #trndnl"}
+{"created_at": "Fri Dec 18 15:44:37 +0000 2015", "text": "The hashtag #RomanceCasesXmas took the 13th place in the Top20 of Paris's Trends for Thursday 17: https://t.co/KFm0nInyEj #trndnl"}
+{"created_at": "Fri Dec 18 14:44:34 +0000 2015", "text": "The hashtag #ToutLeMondeChante took the 5th place in the Top20 of Paris's Trends for Thursday 17: https://t.co/KFm0nInyEj #trndnl"}

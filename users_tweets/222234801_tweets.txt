@@ -1,0 +1,598 @@
+{"created_at": "Mon Jan 25 19:08:10 +0000 2016", "text": "#JeuTPMP toujours"}
+{"created_at": "Mon Jan 25 19:03:06 +0000 2016", "text": "#TPMP on savait que @JeanLucLemoine \u00e9tait tr\u00e8s intelligent #JeuTPMP"}
+{"created_at": "Mon Jan 25 18:57:54 +0000 2016", "text": "RT @TPMPofficiel: \"Je suis votre go\u00fbteur officiel ?! Alors ok.\" @Mdelormeau #TPMP #LJBC https://t.co/dUtvdvSVgc"}
+{"created_at": "Mon Jan 25 18:40:52 +0000 2016", "text": "RT @TPMPofficiel: \ud83d\udca8\ud83d\udca8\ud83d\udca8\ud83d\udca8\ud83d\udca8 @Mdelormeau #TPMP https://t.co/laD6b4PvLU"}
+{"created_at": "Mon Jan 25 18:38:05 +0000 2016", "text": "Ohhh le vent #TPMP"}
+{"created_at": "Mon Jan 25 18:28:42 +0000 2016", "text": "Bon r\u00e9tablissement a toi @BenaimValerie"}
+{"created_at": "Mon Jan 25 18:22:55 +0000 2016", "text": "@TPMPofficiel @EnoraMofficiel elle m'a manqu\u00e9"}
+{"created_at": "Mon Jan 25 18:22:36 +0000 2016", "text": "RT @TPMPofficiel: Pour son retour @EnoraMofficiel va nous danser de la country !\ud83d\udc83\ud83c\udffb #TPMP https://t.co/tN2PcThaFm"}
+{"created_at": "Mon Jan 25 18:22:31 +0000 2016", "text": "RT @TPMPofficiel: Le mec ne s'arr\u00eate jamais ! \ud83d\ude05 #TPMP @Mdelormeau https://t.co/p9Uph3ALxj"}
+{"created_at": "Mon Jan 25 18:22:19 +0000 2016", "text": "RT @TPMPofficiel: -Mais elle est immense !!\n-Oui je sais on me le dit souvent !\n@Riktwitte #TPMP https://t.co/YqVYkQidzc"}
+{"created_at": "Mon Jan 25 18:22:12 +0000 2016", "text": "RT @PMU_Sportif: \ud83c\udd99 Ne ratez pas l'occasion d'assister \u00e0 #PSGTFC mercredi, 2*2 places \u00e0 gagner ! \ud83d\ude0a https://t.co/Jf3GtAnNE1"}
+{"created_at": "Mon Jan 25 18:16:42 +0000 2016", "text": "RT @TPMPofficiel: \"J'suis d'accord pour faire l'\u00e9mission gratuit.\" @courbet_julien #TPMP #FinDuGame https://t.co/QelhIgGMRi"}
+{"created_at": "Mon Jan 25 18:11:03 +0000 2016", "text": "RT @TPMPofficiel: \"Vous savez tr\u00e8s bien que quand je ne suis pas \u00e0 ma place de premi\u00e8re dame je suis d\u00e9stabilis\u00e9...\" @Mdelormeau #TPMP http\u2026"}
+{"created_at": "Mon Jan 25 18:10:44 +0000 2016", "text": "@montaggioni1 @Mdelormeau il est magique"}
+{"created_at": "Mon Jan 25 18:10:29 +0000 2016", "text": "RT @montaggioni1: @Mdelormeau j en \u00e9tais s\u00fbre Matt le iauvre"}
+{"created_at": "Mon Jan 25 18:09:17 +0000 2016", "text": "RT @TPMPofficiel: Jeudi soir pendant le prime #TPMPVoeux on va offrir \u00e0 l'un(e) d'entre vous l'ann\u00e9e 2016 !! #TPMP https://t.co/B3CsLB8euK"}
+{"created_at": "Mon Jan 25 18:08:46 +0000 2016", "text": "#tpmp a ouai c'est du lourd jeudi #JeuTPMP"}
+{"created_at": "Mon Jan 25 18:07:16 +0000 2016", "text": "RT @VIGO006: @TPMPofficiel \u00e7a craint ! Y'a du doss dans l'air !"}
+{"created_at": "Mon Jan 25 18:07:07 +0000 2016", "text": "#JeuTPMP c'est partie #TPMP"}
+{"created_at": "Mon Jan 25 18:06:19 +0000 2016", "text": "RT @NessVanessa59: \u00c7a commence c'est trop bon \ud83d\ude1c\ud83d\udc4d\ud83d\udc4d\u2764\ufe0f @Cyrilhanouna @TPMPofficiel #JeuTPMP"}
+{"created_at": "Mon Jan 25 18:05:25 +0000 2016", "text": "RT @montaggioni1: @Mdelormeau mon.matt je sens qye baba va parler de ton changement de ton profil et ton bonnet mdr"}
+{"created_at": "Mon Jan 25 18:04:55 +0000 2016", "text": "RT @TPMS: Le miracul\u00e9 du week-end : Aksel Lund Svindal \u00e0 l'hosto ! #TPMS https://t.co/NKqCmuPjda"}
+{"created_at": "Mon Jan 25 18:04:51 +0000 2016", "text": "RT @montaggioni1: @Mdelormeau yes"}
+{"created_at": "Mon Jan 25 18:04:47 +0000 2016", "text": "@Mdelormeau a fond force et courage"}
+{"created_at": "Mon Jan 25 18:04:30 +0000 2016", "text": "RT @Mdelormeau: Ready \ud83d\ude00\u270c\ufe0f! Et vous ? #TPMP"}
+{"created_at": "Mon Jan 25 18:04:03 +0000 2016", "text": "RT @TPMS: Aubameyang compar\u00e9 \u00e0 Justin Bieber, Michael Jackson et \u00e0 un Ferrero Rocher sur Twitter ! \ud83d\ude02 #TPMS https://t.co/KNuSC0T1kv"}
+{"created_at": "Mon Jan 25 18:03:46 +0000 2016", "text": "RT @TPMS: Les styles du week-end : Aubameyang brille de mille feux ! #TPMS https://t.co/wtsXCVEpjG"}
+{"created_at": "Mon Jan 25 18:02:44 +0000 2016", "text": "@Cyrilhanouna comme d'hab enfaite soit bon la famille comme d'hab aussi force et courage"}
+{"created_at": "Mon Jan 25 18:01:46 +0000 2016", "text": "RT @Cyrilhanouna: Le lundi , c'est reparti \ud83c\udf89 pour vous faire kiffer #TPMP je tourne en rond dans ma loge ! #excite"}
+{"created_at": "Mon Jan 25 17:44:17 +0000 2016", "text": "RT @TPMS: Notre @ludivinesagna trop classe pour aller au tennis ! #TPMS https://t.co/OkdbqULebb"}
+{"created_at": "Mon Jan 25 17:44:13 +0000 2016", "text": "Allez rentre du taf direct@D8TV @TPMS suivi de #TPMP"}
+{"created_at": "Mon Jan 25 15:17:56 +0000 2016", "text": "@Mdelormeau @D8TV ah bah voil\u00e0 la c'est mieux la famille"}
+{"created_at": "Mon Jan 25 15:17:23 +0000 2016", "text": "RT @Hanounissime: @Mdelormeau @D8TV ALORS LA ! BRAVO MATTHIEU\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83c\udf89"}
+{"created_at": "Mon Jan 25 12:49:57 +0000 2016", "text": "RT @Fanzouze_BaBa: @alexbenzak Follow moi s'il te plait \ud83d\ude18\ud83d\ude04"}
+{"created_at": "Mon Jan 25 12:43:57 +0000 2016", "text": "Y'a que moi pour filmer mon coll\u00e8gue en train de dormir la bouche ouverte comme  un gorais"}
+{"created_at": "Mon Jan 25 12:16:44 +0000 2016", "text": "RT @VirginTonicOff: #Selfou bisou ! #VirginTonic https://t.co/e5zltvuB96"}
+{"created_at": "Mon Jan 25 11:23:28 +0000 2016", "text": "@VIGO006 @flosamtin ah ouaiiii lol"}
+{"created_at": "Mon Jan 25 11:22:26 +0000 2016", "text": "@Cyrilhanouna @Europe1 s'est quand qu'on sait la famille"}
+{"created_at": "Mon Jan 25 11:21:39 +0000 2016", "text": "RT @TopAchat: Tirage demain !!\nVous avez RT ? =) https://t.co/zWhIKiTBFs"}
+{"created_at": "Mon Jan 25 11:21:24 +0000 2016", "text": "RT @flosamtin: https://t.co/Z0vowyBlKe\u00e9tit https://t.co/amasaD3rL5"}
+{"created_at": "Mon Jan 25 11:13:26 +0000 2016", "text": "Gros hollande au lieude signer des contrats en Inde tu ferai mieux de t'occuper de ton pays le ch\u00f4mage les agriculteurs et j'en passe"}
+{"created_at": "Mon Jan 25 10:57:13 +0000 2016", "text": "RT @LDLC: Qui sera le 1er heureux gagnant pour les #20ansLDLC ?\n=&gt; https://t.co/KzytoY5RYk https://t.co/bo48XbMPgU"}
+{"created_at": "Mon Jan 25 10:56:52 +0000 2016", "text": "RT @PDLPodcast: C'\u00e9tait dans #PDLP : \nSur cette photo, il manque @bchameroy. Voici pourquoi -&gt;\nhttps://t.co/BKrJd11AU6 #TPMP https://t.co/l\u2026"}
+{"created_at": "Mon Jan 25 10:33:13 +0000 2016", "text": "@montaggioni1 @VIGO006 bonne app aussi biz"}
+{"created_at": "Mon Jan 25 10:32:50 +0000 2016", "text": "@VIGO006 bonne app et t'inqui\u00e8te sa va le faire"}
+{"created_at": "Mon Jan 25 10:32:23 +0000 2016", "text": "RT @VIGO006: @jerometommasino \ud83c\udf5c\ud83c\udf92 oui moi aussi. Bon app !"}
+{"created_at": "Mon Jan 25 10:21:31 +0000 2016", "text": "Bon bah on va pr\u00e9parer la gamelle comme ont dit"}
+{"created_at": "Mon Jan 25 08:45:52 +0000 2016", "text": "RT @Ant1Adam: Maltraiter des personnes \u00e2g\u00e9es malades et filmer la sc\u00e8ne pour s'en vanter sur les r\u00e9seaux sociaux... Triste \u00e9poque. https://\u2026"}
+{"created_at": "Mon Jan 25 08:27:22 +0000 2016", "text": "@VIGO006  https://t.co/MwOwo2phvF"}
+{"created_at": "Mon Jan 25 08:26:42 +0000 2016", "text": "@VIGO006  https://t.co/R7Ae9drf9v"}
+{"created_at": "Mon Jan 25 08:25:33 +0000 2016", "text": "@VIGO006  https://t.co/7NUGn4WW0a"}
+{"created_at": "Mon Jan 25 08:17:28 +0000 2016", "text": "@montaggioni1 @VIGO006 j'aurai a sa au moins"}
+{"created_at": "Mon Jan 25 08:17:00 +0000 2016", "text": "@VIGO006 derien sa me fait plaisir"}
+{"created_at": "Mon Jan 25 08:16:07 +0000 2016", "text": "RT @montaggioni1: @jerometommasino @VIGO006  je peux partager ton anonce  sur mon mur jerome"}
+{"created_at": "Mon Jan 25 08:14:10 +0000 2016", "text": "@VIGO006 derien s'est un kiff d'aider les gens je vais matter sur des sites pour voir"}
+{"created_at": "Mon Jan 25 08:08:46 +0000 2016", "text": "Si vous \u00eates du c\u00f4t\u00e9 de Nice @VIGO006 recherche un emploi dans l'administration secr\u00e9tairia ou comptabilit\u00e9 on sait jamais"}
+{"created_at": "Mon Jan 25 08:01:05 +0000 2016", "text": "@VIGO006 @montaggioni1 je peut me permettre de passer une annonce"}
+{"created_at": "Mon Jan 25 07:54:00 +0000 2016", "text": "@montaggioni1 @VIGO006 moi j'ai habite  19 ans a bondy Seine saint Denis et la sa fait 10 ans que je suis au pavillon sous bois"}
+{"created_at": "Mon Jan 25 07:38:09 +0000 2016", "text": "@VIGO006 @montaggioni1 tu habite ou dans quel r\u00e9gion"}
+{"created_at": "Mon Jan 25 07:28:25 +0000 2016", "text": "@VIGO006 @montaggioni1 tu cherche dans quel secteur"}
+{"created_at": "Mon Jan 25 07:27:41 +0000 2016", "text": "@montaggioni1 @VIGO006 moi aussi je travaille mais entre 2 coup de b\u00eache et ramassage de feuille  je suis la"}
+{"created_at": "Mon Jan 25 07:24:04 +0000 2016", "text": "@VIGO006 @montaggioni1 c'est normal t'inqui\u00e8te"}
+{"created_at": "Mon Jan 25 07:17:10 +0000 2016", "text": "RT @Cyrilhanouna: Bravo sliderman ! @Gael_Monfils Direction les 1/4 \ud83c\udfbe #tennis #onestla https://t.co/jK9boOrvhK"}
+{"created_at": "Mon Jan 25 07:17:01 +0000 2016", "text": "RT @TanguyNoblet: Retenez bien ce tweet !!!\nSi le Stade Rennais NE finit pas dans les 3 premiers de la ligue 1, j'offre un macdo \u00e0 toutes l\u2026"}
+{"created_at": "Mon Jan 25 07:16:47 +0000 2016", "text": "@VIGO006 @montaggioni1 si tu veut en parler on n'ai la la famille"}
+{"created_at": "Mon Jan 25 07:02:29 +0000 2016", "text": "@VIGO006 oui exact ta tout r\u00e9sume"}
+{"created_at": "Mon Jan 25 07:01:54 +0000 2016", "text": "@montaggioni1 @TPMPOFF bonne journ\u00e9e a toi aussi et bonne semaine"}
+{"created_at": "Mon Jan 25 06:51:13 +0000 2016", "text": "Y'a vraiment des gens sympa sur Twitter sa me r\u00e9concilie avec l'\u00eatre humain"}
+{"created_at": "Mon Jan 25 06:36:55 +0000 2016", "text": "@VIGO006 passe une bonne semaine"}
+{"created_at": "Mon Jan 25 06:32:39 +0000 2016", "text": "@flosamtin s'est le lundi le plu dur apr\u00e8s sa passe vite passe une bonne semaine"}
+{"created_at": "Mon Jan 25 06:29:56 +0000 2016", "text": "@flosamtin bonjour comment sa va en ce lundi"}
+{"created_at": "Mon Jan 25 06:25:24 +0000 2016", "text": "RT @flosamtin: Bonjour \u00e0 vous https://t.co/z9kPGMHJlo"}
+{"created_at": "Mon Jan 25 06:02:57 +0000 2016", "text": "RT @Actualites_FOOT: Steve Mandanda ce soir \ud83d\udcaa https://t.co/u42K68GXCQ"}
+{"created_at": "Mon Jan 25 05:58:38 +0000 2016", "text": "@VirginTonicOff j'ai m\u00eame pas d'habille dans ma penderie lol"}
+{"created_at": "Mon Jan 25 05:55:14 +0000 2016", "text": "@TPMPOFF @montaggioni1 ahahah oui moi aussi j'ai h\u00e2te"}
+{"created_at": "Mon Jan 25 05:54:52 +0000 2016", "text": "RT @TPMPOFF: A ce soir les ch\u00e9ries ! H\u00e2te d'\u00eatre avec vous ce soir ! \ud83d\ude18#TPMP"}
+{"created_at": "Mon Jan 25 05:14:54 +0000 2016", "text": "Soir\u00e9e de ouf niveau Twitter se faire tweet par Alex benzak miss France 2016 et en r\u00e9ponse de gilles verdez s'est la classe"}
+{"created_at": "Sun Jan 24 23:38:13 +0000 2016", "text": "RT @FBB_PORTEPAROLE: Contre le braconnage des oiseaux et pour l'interdiction totale de la chasse \u00e0 la glu, signez et partagez la p\u00e9tition h\u2026"}
+{"created_at": "Sun Jan 24 23:37:55 +0000 2016", "text": "Bonne anniversaire a @IrisMittenaereO en te souhaitent bonne ann\u00e9e et pleins de beaux projets pour toi"}
+{"created_at": "Sun Jan 24 23:35:06 +0000 2016", "text": "RT @CKevinnnn: Voil\u00e0 les amis,je vais \u00e0 #TPMP le 10 f\u00e9vrier, trop d'y \u00eatre, voir @Cyrilhanouna  \ud83d\ude1c\ud83d\ude1c\ud83d\ude1c je ferais des photos de mon voyage, je \u2026"}
+{"created_at": "Sun Jan 24 23:34:39 +0000 2016", "text": "RT @switch_officiel: CONCOURS ! RT + Follow pour tenter de gagner des goodies #AlvinEtLesChipmunks &gt;&gt; https://t.co/7WNcRtK8pA https://t.co/\u2026"}
+{"created_at": "Sun Jan 24 23:34:19 +0000 2016", "text": "@fleur2014 @CKevinnnn @ParisNoLimit @MATUIDIBlaise tu peut faire quelque chose"}
+{"created_at": "Sun Jan 24 22:46:25 +0000 2016", "text": "@alexbenzak ah oui je confirme avec un di maria en feu cette \u00e9quipe sera imbattable"}
+{"created_at": "Sun Jan 24 22:44:20 +0000 2016", "text": "RT @alexbenzak: Et en + il manque le meilleur joueur notre artiste  Javier Pastore.  Reviens vite https://t.co/8PB2VllGy9"}
+{"created_at": "Sun Jan 24 22:36:09 +0000 2016", "text": "@Chafik_Douaoui @estlld si vous en avez de trop n'h\u00e9site pas a m'en donn\u00e9 vous emb\u00eate pas avec tout sa"}
+{"created_at": "Sun Jan 24 22:29:03 +0000 2016", "text": "@virginiecapric tu comprend pourquoi les arbitres fran\u00e7ais ne sont pas en coupe du monde ou en euro"}
+{"created_at": "Sun Jan 24 22:27:55 +0000 2016", "text": "RT @gillesverdez: @jerometommasino @itele merci Jerome!"}
+{"created_at": "Sun Jan 24 22:27:46 +0000 2016", "text": "@gillesverdez @itele de rien c'est sinc\u00e8re"}
+{"created_at": "Sun Jan 24 22:25:38 +0000 2016", "text": "RT @infosportplus: #Tolisso : \"Il faut f\u00e9liciter @SteveMandanda. Il a fait de beaux arr\u00eats. Son \u00e9quipe peut le remercier\" #OLOM https://t.c\u2026"}
+{"created_at": "Sun Jan 24 22:20:53 +0000 2016", "text": "@alexbenzak ici c'est PARIS"}
+{"created_at": "Sun Jan 24 22:20:30 +0000 2016", "text": "RT @alexbenzak: OM 30 points + OL 30 points =60 points\nPSG 60 points.  Hallucinant \ud83d\ude28"}
+{"created_at": "Sun Jan 24 22:18:21 +0000 2016", "text": "@Cyrilhanouna dit tu pourrai invite Sandrine kiberlin dans @TPMPofficiel car c'est une excellente actrice"}
+{"created_at": "Sun Jan 24 22:15:29 +0000 2016", "text": "@PDLPodcast @LoveTpmp31 ah j'aime cette actrice belle et talentueuse"}
+{"created_at": "Sun Jan 24 22:14:39 +0000 2016", "text": "RT @PDLPodcast: Demain l'\u00e9quipe de #PDLP re\u00e7oit \u00e0 17h30 Sandrine Kiberlain !\nRendez vous \u00e0 16h ;D\nhttps://t.co/Qojf5d1hRW https://t.co/Kot7\u2026"}
+{"created_at": "Sun Jan 24 22:14:25 +0000 2016", "text": "@OziStoja @gillesverdez @itele @TPMPofficiel s'est ce que je pense et puis il connait le sport"}
+{"created_at": "Sun Jan 24 22:10:50 +0000 2016", "text": "@OziStoja @gillesverdez @itele exact dans @TPMPofficiel je le supporte pas"}
+{"created_at": "Sun Jan 24 22:10:16 +0000 2016", "text": "@alexbenzak c'est le meilleur gardien de France il devrai \u00eatre num\u00e9ro 1 en \u00e9quipe de France"}
+{"created_at": "Sun Jan 24 22:09:08 +0000 2016", "text": "RT @alexbenzak: \u00c9norme  https://t.co/wO1pnFwIkT"}
+{"created_at": "Sun Jan 24 22:07:40 +0000 2016", "text": "Belle analyse de @gillesverdez sur @itele la je t'appr\u00e9cie"}
+{"created_at": "Sun Jan 24 22:06:35 +0000 2016", "text": "RT @CHRISMACARI: LES INROCKS.\nITW DE Chris Macari PAR Sarah Dahan. https://t.co/22oETR2bL5"}
+{"created_at": "Sun Jan 24 22:02:56 +0000 2016", "text": "@AymericBonnery @Sgc62 mandanda m\u00eame si je suis pour PSG j'avoue que s'est le meilleur de notre ligue 1"}
+{"created_at": "Sun Jan 24 22:01:04 +0000 2016", "text": "RT @alexbenzak: Je r\u00e9alise toutes vos demandes sur le plateau de  @TPMS \ud83d\ude1c  https://t.co/Hz3aH5wWFA"}
+{"created_at": "Sun Jan 24 21:54:42 +0000 2016", "text": "RT @VirginTonicOff: Dormez bien les Copains, demain c'est lundi et c'est tant mieux puisqu'on se retrouve d\u00e8s 6h !! \ud83d\ude01 #VirginTonic"}
+{"created_at": "Sun Jan 24 21:54:02 +0000 2016", "text": "Bravo pour ma 2\u00e8me \u00e9quipe de c\u0153ur la juventus de Turin qui bat la roma"}
+{"created_at": "Sun Jan 24 21:52:33 +0000 2016", "text": "RT @DanielRiolo: Egalisation d\u00e9di\u00e9e \u00e0 tous les d\u00e9fenseurs aveugles de la video ! On va contr\u00f4ler les peno et une action comme ca, on fait q\u2026"}
+{"created_at": "Sun Jan 24 21:52:20 +0000 2016", "text": "@alexbenzak dommage que j'\u00e9tais occuper car je pouvais avoir une place"}
+{"created_at": "Sun Jan 24 21:51:08 +0000 2016", "text": "RT @alexbenzak: Avec notre baba d'amours hier au parc. On a assist\u00e9 \u00e0 un super spectacle avec un PSG ligue des champions \ud83d\ude1c https://t.co/vSQ\u2026"}
+{"created_at": "Sun Jan 24 21:48:30 +0000 2016", "text": "RT @alexbenzak: \u00c9norme c lui qui qui donne pour le moment l\u00e0 victoire https://t.co/iyIib08dkN"}
+{"created_at": "Sun Jan 24 20:44:19 +0000 2016", "text": "RT @alexbenzak: Je l'esp\u00e8re en + j'\u2764cette \u00e9mission et j'adore l'animation et le travail de @PascalPraud sur#13hfoot et sur #ORLM \ud83d\udc4d https://\u2026"}
+{"created_at": "Sun Jan 24 20:43:44 +0000 2016", "text": "@gillesverdez @NMalaboeuf @itele @antoinegenton @JPasquet la tu est ta place gilles je te pr\u00e9f\u00e8re parlant de sport que dans @TPMPofficiel"}
+{"created_at": "Sun Jan 24 20:22:28 +0000 2016", "text": "@Cyrilhanouna ont s'en doute pas la famille dit a @D8TV si il peuvent mettre des replay le week-end prend soins de toi et de ta famille"}
+{"created_at": "Sun Jan 24 20:20:10 +0000 2016", "text": "RT @Cyrilhanouna: Tr\u00e8s tr\u00e8s h\u00e2te de vous retrouver demain! J ai pr\u00e9par\u00e9 des rigolades tout le we, trop press\u00e9 de vous les montrer! #undiman\u2026"}
+{"created_at": "Sun Jan 24 19:55:33 +0000 2016", "text": "@VIGO006 @nt1 merci bonne soir\u00e9e aussi biz"}
+{"created_at": "Sun Jan 24 19:47:02 +0000 2016", "text": "RT @flosamtin: Lundi demain... https://t.co/eL6WdvdixN"}
+{"created_at": "Sun Jan 24 19:46:21 +0000 2016", "text": "Se soir c'est TED sur @nt1"}
+{"created_at": "Sun Jan 24 17:40:23 +0000 2016", "text": "RT @D8TV: Gagnez vos places pour le nouveau spectacle de Arnaud @tsamere &gt;&gt; https://t.co/iUnSf9tJ5F https://t.co/WanuRALdGj"}
+{"created_at": "Sun Jan 24 17:02:44 +0000 2016", "text": "RT @ThierryMoreauT7: La neige \u00e0 NYC, c'est pas le pied... https://t.co/s3mYrg8LJ5"}
+{"created_at": "Sun Jan 24 16:54:32 +0000 2016", "text": "@LePakiUnGenie c'est la que je me r\u00e9concilie avec l'\u00eatre humain et sa m'\u00e9tonne pas de lui il a toujours eu un grand c\u0153ur et sinc\u00e8re"}
+{"created_at": "Sun Jan 24 16:51:48 +0000 2016", "text": "RT @courbet_julien: J oubliais le prime #tpmp jeudi !!!!!"}
+{"created_at": "Sun Jan 24 16:50:31 +0000 2016", "text": "@alexbenzak avec les joueurs qui ont j'esp\u00e8re qu'il iront en ligue des champions la saison prochaine"}
+{"created_at": "Sun Jan 24 16:49:07 +0000 2016", "text": "RT @alexbenzak: Grosse saison pour Naples et gonzalo .un vrai buteur en pleine cofiance \ud83d\udc4d\ud83d\udcaa https://t.co/UR5X1o49Pm"}
+{"created_at": "Sun Jan 24 16:41:36 +0000 2016", "text": "@Mythenephthys @JulienLepers @Letterman @jayleno @jimmyfallon oui il a l'\u00e9nergie a revendre il sera bon"}
+{"created_at": "Sun Jan 24 16:40:36 +0000 2016", "text": "RT @Mythenephthys: @jerometommasino @JulienLepers @Letterman @jayleno @jimmyfallon c'est un show Man notre Julien je le vois faire ce genre\u2026"}
+{"created_at": "Sun Jan 24 16:37:33 +0000 2016", "text": "RT @CKevinnnn: Plus qu'un \ud83d\ude1c\ud83d\ude1c\ud83d\ude1c\ud83d\ude1c\ud83d\ude1c\ud83d\ude1c\ud83d\ude1c\ud83d\ude1c\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d #TPMP"}
+{"created_at": "Sun Jan 24 16:37:13 +0000 2016", "text": "@JulienLepers @Mythenephthys @Letterman @jayleno @jimmyfallon comme @jayleno ta le talent pour"}
+{"created_at": "Sun Jan 24 16:36:16 +0000 2016", "text": "RT @JulienLepers: Me verriez-vous pr\u00e9senter un Late Night Show ? Comme @Letterman @jayleno @jimmyfallon ?"}
+{"created_at": "Sun Jan 24 16:36:00 +0000 2016", "text": "RT @alexbenzak: Vendredi prochain \ud83d\ude0aj'attends avec impatience pour kiffer avec vous sur @TPMS \ud83d\ude1c https://t.co/xZejVbtOIn"}
+{"created_at": "Sun Jan 24 16:35:49 +0000 2016", "text": "Bon courage au habitants de Calais qui subissent la loi de la gauche et qui n'ont rien demander juste a vivre tranquille"}
+{"created_at": "Sun Jan 24 16:21:56 +0000 2016", "text": "RT @ParionsSport: #JeuConcours #ParionsSport Follow + RT + tweetez pour gagner des places de #Ligue 1 https://t.co/MyCM2QbdsV"}
+{"created_at": "Sun Jan 24 16:17:15 +0000 2016", "text": "RT @cecile2menibus: #OculusRift ce casque de r\u00e9alit\u00e9 virtuelle est juste incroyable! \u00c7a rend dingue! https://t.co/7NhVjaJPZJ"}
+{"created_at": "Sun Jan 24 16:16:00 +0000 2016", "text": "RT @metronews: Elle gagne 43 millions d'euros au loto et met son ticket dans la machine \u00e0 laver https://t.co/s4CTzvrG9r https://t.co/sz2weD\u2026"}
+{"created_at": "Sun Jan 24 16:15:25 +0000 2016", "text": "RT @Histoire_du_PSG: L'ouverture du score de Pedro Miguel Pauleta \u00e0 Marseille, le 24/01/2004 (1-2 a.p.). #PSG https://t.co/tlEQIbUsLf"}
+{"created_at": "Sun Jan 24 16:14:09 +0000 2016", "text": "Il manque 3 followers pour que @CKevinnnn aille dans @TPMPofficiel"}
+{"created_at": "Sun Jan 24 16:12:53 +0000 2016", "text": "RT @CKevinnnn: Mon papa me redonne une chance de m'emmener \u00e0 #TPMP,  plus que 3 \ud83d\ude2e\ud83d\ude2e\ud83d\ude2e personnes pour les 200 followers avant lundi vous m'aid\u2026"}
+{"created_at": "Sun Jan 24 16:10:48 +0000 2016", "text": "@cecile2menibus il faut que je l'ach\u00e8te sa a l'air ouf"}
+{"created_at": "Sun Jan 24 16:09:10 +0000 2016", "text": "RT @nadine94220: Abonnez vous au compte @CKevinnnn il lui manque que 6 abonn\u00e9s  pour que son papa l'emm\u00e8ne voir tpmp il faut  arriver \u00e0 200\u2026"}
+{"created_at": "Sun Jan 24 16:06:24 +0000 2016", "text": "RT @D8TV: Pour la sp\u00e9ciale paranormal, les chroniqueurs de #TPMP ont eu tr\u00e8s peur ! https://t.co/XkCVZaqBHk https://t.co/UZt1WqzG3f"}
+{"created_at": "Sun Jan 24 16:00:35 +0000 2016", "text": "Pour \u00eatre honn\u00eate je ne suis pas fan de t\u00e9l\u00e9 r\u00e9alit\u00e9 mais j'aime bien la personnalit\u00e9 de @ouiiiiii_nadege naturel souriante non elle g\u00e8re"}
+{"created_at": "Sun Jan 24 15:53:40 +0000 2016", "text": "RT @ODB_Officiel: Ce soir retrouvez moi dans vivement dimanche pour un sketch! https://t.co/YFYMkYrmNA"}
+{"created_at": "Sun Jan 24 15:45:57 +0000 2016", "text": "@Cyrilhanouna @Europe1 vasi la famille sa serai cool que sa tombe sur moi"}
+{"created_at": "Sun Jan 24 15:44:51 +0000 2016", "text": "RT @Cyrilhanouna: Mes beaut\u00e9s, je vous fais gagner 5 cartes de v\u0153ux d\u00e9dicac\u00e9es avec Europe 1 ! Il faut RT ce tweet et follow @Europe1 je pr\u2026"}
+{"created_at": "Sun Jan 24 11:33:12 +0000 2016", "text": "#biathlon21 ouiiii Marieeee"}
+{"created_at": "Sat Jan 23 23:51:27 +0000 2016", "text": "Bonne nuit a tous"}
+{"created_at": "Sat Jan 23 22:38:14 +0000 2016", "text": "RT @clarksprecious: @jerometommasino j'ai remarqu\u00e9 aussi lol"}
+{"created_at": "Sat Jan 23 22:31:48 +0000 2016", "text": "J'ai remarqu\u00e9 derri\u00e8re Arthur y'a une fille qui n'aime pas rire  #LEDLT"}
+{"created_at": "Sat Jan 23 21:52:28 +0000 2016", "text": "RT @JulienLepers: \"Je vais dire au revoir aux t\u00e9l\u00e9spectateurs de la 3 sur @TF1\" #now"}
+{"created_at": "Sat Jan 23 21:20:48 +0000 2016", "text": "RT @flosamtin: @jerometommasino oui merci vous aussi ! https://t.co/GlWWqI2Qbh"}
+{"created_at": "Sat Jan 23 21:18:49 +0000 2016", "text": "RT @flosamtin: Bonsoir \u00e0 vous https://t.co/J71Q8wFn13"}
+{"created_at": "Sat Jan 23 20:53:42 +0000 2016", "text": "RT @bet1N2: BREAKING\n\n#ESTAC tient SA PREMI\u00c8RE VICTOIRE DE LA SAISON apr\u00e8s 21 journ\u00e9es.\n\n#Ligue1 #LOSCESTAC https://t.co/3K1DqNwUBI"}
+{"created_at": "Sat Jan 23 20:45:41 +0000 2016", "text": "RT @bet1N2: BREAKING\n\nCheikh #Diabat\u00e9 de nouveau OUT.\n\n#Ligue1 #FCNFCGB https://t.co/lozdZQU15O"}
+{"created_at": "Sat Jan 23 20:34:26 +0000 2016", "text": "RT @VirginTonicOff: On vous souhaite une belle soir\u00e9e, et parce qu'on vous aime n'oubliez pas que celui qui conduit, c'est celui que ne boi\u2026"}
+{"created_at": "Sat Jan 23 20:34:09 +0000 2016", "text": "@Riktwitte @LamHua bonne anniv a toi en te souhaitent pleins de projets tu les fait pas les 34 ans tu fait moins"}
+{"created_at": "Sat Jan 23 19:54:40 +0000 2016", "text": "RT @Mdelormeau: @Cyrilhanouna moi aussi \ud83d\ude00\ud83d\ude0d !! #freredebonnet #love #TPMP https://t.co/YdknZuRlQD"}
+{"created_at": "Sat Jan 23 19:53:54 +0000 2016", "text": "@Mdelormeau @Cyrilhanouna lol t'est un artiste"}
+{"created_at": "Sat Jan 23 19:47:37 +0000 2016", "text": "@VIGO006 de rien passe une bonne soir\u00e9e"}
+{"created_at": "Sat Jan 23 19:40:56 +0000 2016", "text": "RT @Hanounissime: Les futurs journalistes, vraiment, venez en priv\u00e9, j'ai un projet \u00e0 vous proposer \ud83d\udc95 Jvais pas vous bouffer hein\ud83d\ude02\ud83d\ude18"}
+{"created_at": "Sat Jan 23 19:36:04 +0000 2016", "text": "@alexbenzak @TPMS bienvenu en esp\u00e9rant que tu soit pr\u00e9sent souvent dans l'\u00e9mission un peu de nouvelle t\u00eate et de nouveaut\u00e9 ne fait pasde mal"}
+{"created_at": "Sat Jan 23 19:33:56 +0000 2016", "text": "RT @alexbenzak: Merci pour ces messages c top je vous kif \u00e0 tr\u00e8s vite sur @TPMS \ud83d\ude03 \ud83d\ude03\ud83d\ude04 https://t.co/xexcJ6nWlk"}
+{"created_at": "Sat Jan 23 19:29:34 +0000 2016", "text": "@VIGO006 @W9 \u00e9coute ta soit Arthur si t'aime bien les s\u00e9ries genre horreur thriller ta shinig sur la 12"}
+{"created_at": "Sat Jan 23 19:27:20 +0000 2016", "text": "RT @VIGO006: @jerometommasino @W9 c'est une bonne chose de garder son \u00e2me d'enfant. Moi sais pas quoi mater!"}
+{"created_at": "Sat Jan 23 19:25:57 +0000 2016", "text": "Soir\u00e9e les Simpson sur @W9 et oui je suis un grand enfant"}
+{"created_at": "Sat Jan 23 19:21:42 +0000 2016", "text": "RT @CamilleCombal: @Mdelormeau @LeTubeCanal tu prends le temps entre 2 s\u00e9ances de cuisses abdos fessiers? Merci poto"}
+{"created_at": "Sat Jan 23 19:17:42 +0000 2016", "text": "RT @MATUIDIBlaise: Belle victoire dans une belle ambiance. Merci les gars, merci aux fans #icicestparis https://t.co/b1qwwSWFgE"}
+{"created_at": "Sat Jan 23 19:12:37 +0000 2016", "text": "@Gyselle_Soares t'es belle comme tout quand tu revient a la t\u00e9l\u00e9 ou au cin\u00e9ma ta bouille me manque"}
+{"created_at": "Sat Jan 23 19:10:23 +0000 2016", "text": "@VIGO006 comme une \u00e9volution"}
+{"created_at": "Sat Jan 23 19:10:23 +0000 2016", "text": "@VIGO006 oui je comprend l'\u00e2me de Paris est de ce club est un peu perdu maintenant soutenir Paris est une mode pu un plaisir faut voir"}
+{"created_at": "Sat Jan 23 18:31:00 +0000 2016", "text": "@VIGO006 avant Qatar tu veut dire?"}
+{"created_at": "Sat Jan 23 17:51:24 +0000 2016", "text": "Bon bah PSG champion"}
+{"created_at": "Sat Jan 23 13:05:13 +0000 2016", "text": "@jerometommasino pfffff j'ai oublier le S fran\u00e7aises"}
+{"created_at": "Sat Jan 23 13:04:26 +0000 2016", "text": "#letube @CamilleCombal normal que tu cartonne ta voit est unique mais j'aimerais te voir dans d'autres projets avec @Cyrilhanouna"}
+{"created_at": "Sat Jan 23 12:29:02 +0000 2016", "text": "RT @Blondiehelmet: @jerometommasino @lequipe21 allez les Poulettes!\ud83c\uddeb\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7"}
+{"created_at": "Sat Jan 23 12:13:59 +0000 2016", "text": "C'est partie #biathlon21 allez les fran\u00e7aise"}
+{"created_at": "Sat Jan 23 12:10:29 +0000 2016", "text": "RT @Ant1Adam: N'oubliez jamais : Un enfant qui lit, c'est un candidat de t\u00e9l\u00e9-r\u00e9alit\u00e9 qui dispara\u00eet \ud83d\ude02 https://t.co/LvvxjGajp5"}
+{"created_at": "Sat Jan 23 12:10:05 +0000 2016", "text": "RT @flosamtin: @VIGO006 bon week-end https://t.co/3PjWD3vAay"}
+{"created_at": "Sat Jan 23 12:10:03 +0000 2016", "text": "RT @VIGO006: @flosamtin bon week-end \u00e0 toi aussi. J'aimerais bien nager avec la tortue !"}
+{"created_at": "Sat Jan 23 12:02:37 +0000 2016", "text": "RT @flosamtin: @jerometommasino pas grave c est intention qui compte ! https://t.co/H6veEWmGGh"}
+{"created_at": "Sat Jan 23 11:57:42 +0000 2016", "text": "@flosamtin de m\u00eame ch\u00e8re ami d\u00e9sole j'ai pas de belle images lol"}
+{"created_at": "Sat Jan 23 11:55:54 +0000 2016", "text": "RT @flosamtin: @jerometommasino bon week-end https://t.co/nEQIQTpC6N"}
+{"created_at": "Sat Jan 23 11:39:35 +0000 2016", "text": "RT @booba: .@AudreyTcheumeo @paulpogba \n#JDC sur @oklmradio #92i\nhttps://t.co/fpFkQhr4yl"}
+{"created_at": "Sat Jan 23 11:27:30 +0000 2016", "text": "RT @flosamtin: Bon app\u00e9tit https://t.co/risrL45auE"}
+{"created_at": "Sat Jan 23 11:27:22 +0000 2016", "text": "RT @Histoire_du_PSG: Il n'y a que le #PSG et l'Olympiakos qui sont encore invaincus dans les principaux championnats europ\u00e9ens. #PSGSCO htt\u2026"}
+{"created_at": "Sat Jan 23 11:03:55 +0000 2016", "text": "@alexbenzak @TPMS faut soutenir la famille"}
+{"created_at": "Sat Jan 23 11:03:27 +0000 2016", "text": "RT @alexbenzak: Merci vous \u00eates des amours.  A bient\u00f4t sur #tpms @TPMS \ud83d\ude00\ud83d\ude1c https://t.co/zpioJNl55K"}
+{"created_at": "Sat Jan 23 10:46:33 +0000 2016", "text": "@Cyrilhanouna bonne app la famille elle est bien cette boulangerie ou ta \u00e9t\u00e9 cherche ta baguette"}
+{"created_at": "Sat Jan 23 10:45:25 +0000 2016", "text": "RT @Cyrilhanouna: Ca y est mes beaut\u00e9s , j'ai trouv\u00e9 mon bonnet d'hiver \u2744\ufe0f\ud83d\uddfb #newstyle https://t.co/nxzKHPgzc5"}
+{"created_at": "Sat Jan 23 10:04:55 +0000 2016", "text": "@courbet_julien sa me fait plaisir ton record dans @TPMPofficiel ta su trouve ton publics m\u00eame car faire 1m a 19h sur la TNT s'est tr\u00e8s fort"}
+{"created_at": "Sat Jan 23 10:01:49 +0000 2016", "text": "RT @TPMPofficiel: On joue \u00e0 \"Une famille en plaqu\u00e9 or\" dans #TPMP, n'h\u00e9sitez pas \u00e0 jouer avec nous ! https://t.co/0IHOTNys8B"}
+{"created_at": "Sat Jan 23 09:54:49 +0000 2016", "text": "RT @DenisEstelle: 2 records d'un coup pour #TPMS ! Merci \u00e0 la bande et \u00e0 vous \u270c\ufe0f\u2764\ufe0f! Bon we \u00e0 tous https://t.co/R8TJVCkgP7"}
+{"created_at": "Sat Jan 23 09:17:21 +0000 2016", "text": "@Cyrilhanouna @Gael_Monfils habille toi comme Ga\u00ebl lundi dans @TPMPofficiel"}
+{"created_at": "Sat Jan 23 09:16:02 +0000 2016", "text": "@xgandon @TPMPofficiel @courbet_julien @TPMS @DenisEstelle @D8TV normal pour une grande cha\u00eene avec de grand animateur"}
+{"created_at": "Sat Jan 23 09:15:10 +0000 2016", "text": "RT @xgandon: Record pour @TPMPofficiel le vendredi @courbet_julien et record vendredi @TPMS avec @DenisEstelle  ! La famille en grande form\u2026"}
+{"created_at": "Sat Jan 23 09:12:20 +0000 2016", "text": "RT @montaggioni1: @VIGO006 @jerometommasino  tr\u00e8s bon week end aussi les coupins copines gros muahhhh pleins \ud83d\ude19\ud83d\ude19\ud83d\ude19\ud83d\ude19\ud83d\ude19\ud83d\ude19\ud83d\ude19\ud83d\ude19\ud83d\ude19\ud83d\ude19\ud83d\ude19"}
+{"created_at": "Sat Jan 23 09:12:10 +0000 2016", "text": "RT @VIGO006: @jerometommasino @montaggioni1  bon week-end les loulous bisous \ud83d\ude18\ud83d\ude18\ud83d\ude18"}
+{"created_at": "Fri Jan 22 23:40:06 +0000 2016", "text": "RT @Cyrilhanouna: Tous avec @alexbenzak @TPMS merci de le follow :) #piston #sport #aumoins1000followers"}
+{"created_at": "Fri Jan 22 21:43:04 +0000 2016", "text": "@VIGO006 @courbet_julien pourquoi faire"}
+{"created_at": "Fri Jan 22 21:14:13 +0000 2016", "text": "RT @VIGO006: @jerometommasino @courbet_julien oh Manu tu descends ? Lol! Bonne soir\u00e9e \u00e0 toi aussi bye"}
+{"created_at": "Fri Jan 22 20:35:16 +0000 2016", "text": "@VIGO006 @courbet_julien passe une soir\u00e9e et un bon week-end @VIGO006"}
+{"created_at": "Fri Jan 22 20:29:01 +0000 2016", "text": "RT @courbet_julien: Merci \u00e0 tous et bon we , on vous aime on ne vous le dit jamais assez #Tpmp"}
+{"created_at": "Fri Jan 22 20:29:01 +0000 2016", "text": "@courbet_julien bon week-end a toi et merci de ta sympathie et de ta sinc\u00e9rit\u00e9"}
+{"created_at": "Fri Jan 22 19:16:06 +0000 2016", "text": "RT @booba: EN ROTATION EXCLUSIVEMENT SUR @oklmradio NOUVEAU SON #JDC https://t.co/0V3DFrB28A"}
+{"created_at": "Fri Jan 22 18:40:25 +0000 2016", "text": "En mode balade sur Paris les champs tout sa"}
+{"created_at": "Fri Jan 22 18:25:40 +0000 2016", "text": "RT @flosamtin: @jerometommasino bonsoir https://t.co/mMPhFVJgzB"}
+{"created_at": "Fri Jan 22 18:23:44 +0000 2016", "text": "RT @flosamtin: Silence https://t.co/3zUGyqBelA"}
+{"created_at": "Fri Jan 22 13:27:01 +0000 2016", "text": "@VIGO006 @TPMPofficiel ah oui du d\u00e9but a la fin tu te marre s'est genial"}
+{"created_at": "Fri Jan 22 13:25:03 +0000 2016", "text": "RT @VIGO006: @jerometommasino @TPMPofficiel oui moi aussi. Comme la dit Baba c'est \u00e0 voir et \u00e0 revoir! Trop bon!"}
+{"created_at": "Fri Jan 22 13:24:09 +0000 2016", "text": "RT @D8TV: Gagnez vos places pour le nouveau spectacle de Arnaud @tsamere &gt;&gt; https://t.co/iUnSf9tJ5F https://t.co/ubySjUYB9Z"}
+{"created_at": "Fri Jan 22 13:23:43 +0000 2016", "text": "@VIGO006 @TPMPofficiel ah j'en pleurer de rire hier soir j'arrivais m\u00eame pu a manger mes pates"}
+{"created_at": "Fri Jan 22 13:22:19 +0000 2016", "text": "RT @VIGO006: @TPMPofficiel quelle poilade ! C'est le meilleur moment ! \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02"}
+{"created_at": "Fri Jan 22 12:56:35 +0000 2016", "text": "RT @TPMPofficiel: \"Mais... Mais quel est l'int\u00e9r\u00eat ?\" #TPMP #LJBC https://t.co/NdLqemrEbj"}
+{"created_at": "Fri Jan 22 12:56:18 +0000 2016", "text": "RT @TPMPofficiel: -Mais \u00e7a fait du bien de crier !\n-Changez de mec alors !\n@Riktwitte @jmmaireofficiel #TPMP https://t.co/P4zVWzlCVu"}
+{"created_at": "Fri Jan 22 12:56:10 +0000 2016", "text": "RT @TPMPofficiel: \"J'ai l'impression d'\u00eatre dans une classe en difficult\u00e9 !\" #TPMP https://t.co/pNskhF16vO"}
+{"created_at": "Fri Jan 22 12:56:06 +0000 2016", "text": "RT @TPMPofficiel: Mais \u00e7a ne marche pas !! \ud83d\ude02 #TPMP #PDS https://t.co/xC9HcfGy77"}
+{"created_at": "Fri Jan 22 12:55:54 +0000 2016", "text": "RT @TPMPofficiel: \"Y'a @BentalhaMalik qui m'envoie un SMS : fr\u00e8re j'ai envie de voir le film il est 22h !\" \ud83d\ude05 #TPMP https://t.co/ol1AtdhoJI"}
+{"created_at": "Fri Jan 22 12:55:53 +0000 2016", "text": "RT @TPMPofficiel: \"Il ne faut pas oublier qu'on doit lire dans les fesses de @jmmaireofficiel !\" \ud83d\ude02 #TPMP https://t.co/lJinmnefoa"}
+{"created_at": "Fri Jan 22 11:37:59 +0000 2016", "text": "@cristinacordula je te soutient par rapport a la pub que tu a faites laisse les critiques de c\u00f4t\u00e9 fait se que ta a faire"}
+{"created_at": "Fri Jan 22 11:34:56 +0000 2016", "text": "RT @booba: CE SOIR 18H EN EXCLU SUR @oklmradio #JDC #JDCPDV #92i #APPSTORE #PLAYSTORE #TURFU\nhttps://t.co/UjbYR8AfhK"}
+{"created_at": "Fri Jan 22 11:32:54 +0000 2016", "text": "RT @D8TV: Du petit th\u00e9\u00e2tre de Bouvard au film #Les3Freres, la Folle Histoire de @LesInconnus \u00e0 21h &gt; https://t.co/l3FojRBz06 https://t.co/s\u2026"}
+{"created_at": "Fri Jan 22 11:32:47 +0000 2016", "text": "@EnoraMofficiel petit cc pour te souhait\u00e9 bon week-end soigne toi bien la famille"}
+{"created_at": "Fri Jan 22 11:27:01 +0000 2016", "text": "RT @Tragedie3_0: #T30 on est l\u00e0 l'album arrive... Touchdown on vous love \udbb8\udf47\udbb8\udf47\u270c\u270c https://t.co/WVL2NEIkCW"}
+{"created_at": "Fri Jan 22 11:16:54 +0000 2016", "text": "RT @TopAchat: un new #concours !\nGagnez un boitier NZXT H440 v2 et un NZXT HUE+\n\n1) Follow @TopAchat \n2) #RT cette image color\u00e9e https://t.\u2026"}
+{"created_at": "Fri Jan 22 11:16:35 +0000 2016", "text": "RT @VIGO006: @TPMPofficiel @benjerryfr @oasisbefruit tout \u00e0 fait \u00e7a!"}
+{"created_at": "Fri Jan 22 11:16:34 +0000 2016", "text": "RT @TPMPofficiel: .@benjerryfr @oasisbefruit \nNotre ADN #TPMP :\n\n   \ud83d\udcfa \ud83d\udc73\ud83c\udffd\n \u3000 \ud83c\udf89\n   \ud83d\ude02 \ud83d\udcfa\n \ud83d\udc73\ud83c\udffd\u3000 \ud83d\udcfa\n \ud83c\udf89     \ud83d\udcfa\n   \ud83d\ude02 \ud83d\udcfa\n     \ud83d\udcfa\n   \ud83d\udcfa \ud83d\udc73\ud83c\udffd\n \ud83d\udcfa\u3000 \ud83c\udf89\n \ud83d\udcfa\u3000 \ud83d\ude02\n   \ud83d\udcfa\u2026"}
+{"created_at": "Fri Jan 22 11:06:56 +0000 2016", "text": "RT @Darty_Officiel: La #journeedescalins c'est mieux en 4K ! Follow + RT avec #Calinsen4K pour tenter de gagner une TV 4K https://t.co/KJoB\u2026"}
+{"created_at": "Fri Jan 22 11:06:43 +0000 2016", "text": "@moonaofficiel lol t'es un g\u00e9nie"}
+{"created_at": "Thu Jan 21 21:45:54 +0000 2016", "text": "RT @Europe1: Will Smith boycotte \u00e0 son tour la c\u00e9r\u00e9monie des Oscars https://t.co/6tyLoOLPK8 https://t.co/rZYNxIUS3l"}
+{"created_at": "Thu Jan 21 21:44:13 +0000 2016", "text": "RT @BenaimValerie: @BenaimValerie ah oui je me suis tromp\u00e9e de hastag ;-)) j'ai m\u00e9lang\u00e9 #PDLP et #TPMP ;-))"}
+{"created_at": "Thu Jan 21 21:36:08 +0000 2016", "text": "@BenaimValerie c'est pareil c'est la famille bonne soir\u00e9e prenez soin de vous"}
+{"created_at": "Thu Jan 21 21:33:40 +0000 2016", "text": "@flosamtin bonne soir\u00e9e"}
+{"created_at": "Thu Jan 21 21:33:27 +0000 2016", "text": "RT @flosamtin: Bonsoir \u00e0 toutes et \u00e0 tous!/\u00e0.demain ! https://t.co/CmKnyvhfIV"}
+{"created_at": "Thu Jan 21 21:32:50 +0000 2016", "text": "@M6 en tant que fan de cette s\u00e9rie j'esp\u00e8re gagn\u00e9"}
+{"created_at": "Thu Jan 21 21:30:53 +0000 2016", "text": "RT @M6: #XFiles bient\u00f4t de retour sur @M6, pour patienter tentez de gagner un coffret Blu-Ray ! \u27a1https://t.co/l9GfF06ojZ https://t.co/Vwy6O\u2026"}
+{"created_at": "Thu Jan 21 21:17:27 +0000 2016", "text": "RT @CamilleCombal: Merci pour tous vos messages! Que du kiffe cette semaine avec vous dans le PDS! Et l'appli cest... Face Swap Live https:\u2026"}
+{"created_at": "Thu Jan 21 20:56:34 +0000 2016", "text": "RT @TPMPofficiel: Merci \u00e0 toutes et \u00e0 tous et bonne soir\u00e9e ! #TPMP"}
+{"created_at": "Thu Jan 21 20:54:49 +0000 2016", "text": "@VIGO006 @TPMPofficiel je confirme"}
+{"created_at": "Thu Jan 21 20:54:32 +0000 2016", "text": "RT @VIGO006: @TPMPofficiel merci. On s'est bien mare\ud83d\ude01"}
+{"created_at": "Thu Jan 21 20:32:14 +0000 2016", "text": "#BruceToutPuissant  direct"}
+{"created_at": "Thu Jan 21 20:24:18 +0000 2016", "text": "RT @Hanounissime: CHUI MORTE LES GENS SANS DECONNER. #TPMP https://t.co/WVtxxCyFG4"}
+{"created_at": "Thu Jan 21 19:46:32 +0000 2016", "text": "@TPMPofficiel non je pense qui il y'a quelque chose quelque part"}
+{"created_at": "Thu Jan 21 19:27:27 +0000 2016", "text": "@TPMPofficiel jean Michel maire un mot!"}
+{"created_at": "Thu Jan 21 19:12:22 +0000 2016", "text": "RT @TPMPofficiel: Que pensez-vous de la pub de Cristina Cordula ? #TPMP https://t.co/Qb8yQhvtjU"}
+{"created_at": "Thu Jan 21 19:12:19 +0000 2016", "text": "@TPMPofficiel ils bizarre les gens ils critique tout tout le temps je comprends pourquoi s'est la merde en France dr\u00f4le de mentalit\u00e9"}
+{"created_at": "Thu Jan 21 18:48:02 +0000 2016", "text": "#gilles verdez a pas besoin de se d\u00e9guiser il a le nez #TPMP"}
+{"created_at": "Thu Jan 21 18:32:52 +0000 2016", "text": "#CyrilPrendsConfianceEnToi il a raison tieu tieu #TPMP #jeutpmp"}
+{"created_at": "Thu Jan 21 18:31:19 +0000 2016", "text": "RT @Mdelormeau: Vite #CyrilPrendConfianceEnToi en TT \ud83d\ude02\ud83d\ude18 #TPMP"}
+{"created_at": "Thu Jan 21 18:17:59 +0000 2016", "text": "RT @TPMPofficiel: \"T'es endurant ? Parce-que j'ai envie d'prendre ma race ce soir !\" @jmmaireofficiel #TPMP \ud83d\ude02\ud83d\ude05 https://t.co/ccRfrJZWyB"}
+{"created_at": "Thu Jan 21 18:17:43 +0000 2016", "text": "RT @VIGO006: @TPMPofficiel normal ??? Bizarre ! Ce serait nouveau"}
+{"created_at": "Thu Jan 21 18:17:36 +0000 2016", "text": "Mdrrr jean Michel maire t'es un g\u00e9nie #TPMP"}
+{"created_at": "Thu Jan 21 18:12:04 +0000 2016", "text": "#CyrilPrendsConfianceEnToi mais oui la famille a chaque fois tu te d\u00e9valorise #TPMP"}
+{"created_at": "Thu Jan 21 18:06:44 +0000 2016", "text": "#TPMP sa va \u00eatre fou"}
+{"created_at": "Thu Jan 21 18:05:21 +0000 2016", "text": "C'est partie #TPMP #JeuTPMP"}
+{"created_at": "Thu Jan 21 18:02:21 +0000 2016", "text": "@Mdelormeau faudrait que tu pr\u00e9sente un show avec @Cyrilhanouna sa ferai un carton"}
+{"created_at": "Thu Jan 21 18:00:20 +0000 2016", "text": "RT @Mdelormeau: Ce soir @Cyrilhanouna et moi on a une surprise pour vous \ud83d\ude02\ud83c\udf39#tpmp @D8TV"}
+{"created_at": "Thu Jan 21 18:00:19 +0000 2016", "text": "RT @Hanounissime: @Mdelormeau @Cyrilhanouna @D8TV J'AI PEUR\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02"}
+{"created_at": "Thu Jan 21 17:48:27 +0000 2016", "text": "@Cyrilhanouna @jmmaireofficiel ohhh sa sent la dinguerie l'\u00e9mission de se soir"}
+{"created_at": "Thu Jan 21 17:46:45 +0000 2016", "text": "RT @Cyrilhanouna: Mes beaut\u00e9s , journee tendresse avec vous :) j ai du @jmmaireofficiel dans la rue , un jeu de dingue \ud83d\udc7b et les fr\u00e9rots bog\u2026"}
+{"created_at": "Thu Jan 21 17:11:59 +0000 2016", "text": "Demain soir sur la grande cha\u00eene @D8TV la folle histoire des inconnus IN\u00c9DIT tr\u00e8s tr\u00e8s mais alors tr\u00e8s grand fan des INCONNUS"}
+{"created_at": "Thu Jan 21 16:45:19 +0000 2016", "text": "RT @TPMS: On arrive ! Vous \u00eates avec nous ce soir ? #TPMS https://t.co/DdR1jkqU05"}
+{"created_at": "Thu Jan 21 16:22:25 +0000 2016", "text": "@PDLPofficiel @BenaimValerie et @commandeur_j  2 personnes que j'appr\u00e9cie"}
+{"created_at": "Thu Jan 21 16:20:40 +0000 2016", "text": "@Cyrilhanouna t'es sympatoche comme gars a se soir et tu va le faire se que Ronaldo a fait"}
+{"created_at": "Thu Jan 21 16:18:04 +0000 2016", "text": "RT @Cyrilhanouna: Mes beaut\u00e9s, je vous fais de gros c\u00e2lins #babacalins #PDLP #TPMP"}
+{"created_at": "Thu Jan 21 16:16:52 +0000 2016", "text": "RT @flosamtin: Journ\u00e9e du sourire ! https://t.co/z0gv1OYggt"}
+{"created_at": "Thu Jan 21 16:16:24 +0000 2016", "text": "RT @D8TV: Quand @Cyrilhanouna et @Mdelormeau \u00e9changent leurs v\u00eatements &gt; https://t.co/CuvIO9QkFH https://t.co/nxMPisx8ET"}
+{"created_at": "Thu Jan 21 12:04:23 +0000 2016", "text": "@VIGO006 @Cyrilhanouna c'est pour sa qu'on appr\u00e9cie cette \u00e9mission"}
+{"created_at": "Thu Jan 21 12:03:32 +0000 2016", "text": "RT @VIGO006: @jerometommasino @Cyrilhanouna tellement vrai ! Lol !"}
+{"created_at": "Thu Jan 21 11:47:18 +0000 2016", "text": "@Cyrilhanouna mais s'est tout les soirs que l'\u00e9mission est paranormal lol a se soir la famille sa va \u00eatre la #darka"}
+{"created_at": "Thu Jan 21 11:45:26 +0000 2016", "text": "RT @Cyrilhanouna: Bonjour mes amours, je vous fais de gros bisous et je pense fort a vous. Merci d \u00eatre la et ce soir sp\u00e9ciale paranormale \u2026"}
+{"created_at": "Thu Jan 21 11:45:11 +0000 2016", "text": "RT @Europe1: Peut-\u00eatre une neuvi\u00e8me plan\u00e8te, bien au-del\u00e0 de Neptune! On en parle avec A. Cirou https://t.co/g7V3jIsSCn  #E1Midi https://t.\u2026"}
+{"created_at": "Thu Jan 21 11:13:00 +0000 2016", "text": "RT @BritneyRobbie: @jerometommasino moi je suis raide dingue de homer m\u00eame si je les aimes tous"}
+{"created_at": "Thu Jan 21 08:59:08 +0000 2016", "text": "@BritneyRobbie je kiff Bart et homer"}
+{"created_at": "Thu Jan 21 08:51:58 +0000 2016", "text": "@BritneyRobbie oui j'aime bien"}
+{"created_at": "Thu Jan 21 08:45:16 +0000 2016", "text": "RT @montaggioni1: @jerometommasino @Mdelormeau @BritneyRobbie @stephaneguillon  d accord avec toi"}
+{"created_at": "Thu Jan 21 08:45:12 +0000 2016", "text": "@SindyOfficiel ah sa c'est bien ont n'en n'a besoin en ce moment"}
+{"created_at": "Thu Jan 21 08:43:36 +0000 2016", "text": "@Mdelormeau @BritneyRobbie @stephaneguillon 2 g\u00e9nie c\u00f4te a cote"}
+{"created_at": "Thu Jan 21 08:43:07 +0000 2016", "text": "RT @Mdelormeau: Avec l'excellent @stephaneguillon !!! Un vrai coup de coeur \ud83d\ude00 #TPMP https://t.co/dxiwmiPOMs"}
+{"created_at": "Thu Jan 21 08:32:16 +0000 2016", "text": "RT @Cdiscount: Allez, @amazon @Fnac @LDLC @rueducommerce @priceminister venez dans nos bras qu'on se fasse un gros c\u00e2lin #HugDay https://t.\u2026"}
+{"created_at": "Thu Jan 21 08:31:48 +0000 2016", "text": "En mode replay @TPMPofficiel a l'hosto"}
+{"created_at": "Thu Jan 21 08:28:37 +0000 2016", "text": "RT @montaggioni1: https://t.co/As4jNCmvhq"}
+{"created_at": "Thu Jan 21 08:15:47 +0000 2016", "text": "RT @flosamtin: @jerometommasino salut https://t.co/xX2NyhyidC"}
+{"created_at": "Thu Jan 21 08:14:01 +0000 2016", "text": "RT @VIGO006: @D8TV normal !\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4f\ud83d\udc4f"}
+{"created_at": "Thu Jan 21 08:14:00 +0000 2016", "text": "RT @D8TV: Tr\u00e8s bonne journ\u00e9e hier jeudi \u00e0 4,1% de pda moyenne ! 4\u00e8me cha\u00eene nationale sur les 25-49 ans (6,4%) et les FRDA&lt;50 (5,5%)."}
+{"created_at": "Thu Jan 21 08:13:37 +0000 2016", "text": "RT @D8TV: Plus de 1,6M de t\u00e9l\u00e9spectateurs pour @TPMPofficiel hier ! 13,9% de pda sur les FRDA&lt;50. Pic \u00e0 plus de 2,2M. https://t.co/q8lIuCaF\u2026"}
+{"created_at": "Thu Jan 21 08:13:36 +0000 2016", "text": "RT @flosamtin: Soleil .... https://t.co/O3gqGZAkEE"}
+{"created_at": "Thu Jan 21 08:13:15 +0000 2016", "text": "RT @D8TV: Succ\u00e8s pour @BarackObama en pleine nature avec @BearGrylls : 1.159.000 t\u00e9l\u00e9spectateurs (4,6% de pda) ! https://t.co/UQo5svcKVJ"}
+{"created_at": "Thu Jan 21 06:23:23 +0000 2016", "text": "S'est la journ\u00e9e perf a saint Antoine"}
+{"created_at": "Wed Jan 20 20:58:38 +0000 2016", "text": "RT @D8TV: C'est l'heure du selfie pour @BarackObama et @BearGrylls ! https://t.co/6DC7WgA9gC"}
+{"created_at": "Wed Jan 20 20:58:00 +0000 2016", "text": "RT @welovecinemafr: RT et follow @welovecinemafr pour gagner vos places pour l\u2019AVP de #Chocolat \u00e0 Paris ! cc @OmarSy @JamesThierreeFR https\u2026"}
+{"created_at": "Wed Jan 20 20:57:48 +0000 2016", "text": "RT @D8TV: \"Les g\u00e9n\u00e9rations futures sont pr\u00eates. C'est nous qui les freinons\", @BarackObama en pleine nature avec @BearGrylls https://t.co/5\u2026"}
+{"created_at": "Wed Jan 20 20:57:31 +0000 2016", "text": "RT @D8TV: \"On peut renverser la tendance mais il sera bient\u00f4t trop tard\" @BarackObama en pleine nature avec @BearGrylls https://t.co/Bk0FYl\u2026"}
+{"created_at": "Wed Jan 20 20:57:04 +0000 2016", "text": "RT @PMU_Sportif: HEY vous faites quoi samedi ? RT pour tenter de remporter votre place pour le Parc ! #PSGSCO \ud83c\udf81 \ud83d\ude00\ud83d\udc4d https://t.co/Vg7S2lULJy"}
+{"created_at": "Wed Jan 20 20:56:21 +0000 2016", "text": "RT @D8TV: \"C'est la 1\u00e8re fois que je d\u00e9couvre les \u00e9tendues sauvages d'Alaska\", @BarackObama en pleine nature avec @BearGrylls https://t.co/\u2026"}
+{"created_at": "Wed Jan 20 20:27:29 +0000 2016", "text": "C'est partie soir\u00e9e @BearGrylls bonne soir\u00e9e a tous"}
+{"created_at": "Wed Jan 20 20:17:21 +0000 2016", "text": "@moonaofficiel sa fait plaisir de te retrouv\u00e9 bon courage et force a toi pour tes projets"}
+{"created_at": "Wed Jan 20 20:15:13 +0000 2016", "text": "RT @moonaofficiel: La Beurette vas les baiser comme Jaja \ud83d\udd95\ud83c\udffb\ud83d\udd95\ud83c\udffb\ud83d\udd95\ud83c\udffb\ud83d\udd95\ud83c\udffb\ud83d\udd95\ud83c\udffb"}
+{"created_at": "Wed Jan 20 20:14:48 +0000 2016", "text": "RT @moonaofficiel: Je travail sur plusieurs projets donc bient\u00f4t sa vas arriver en masse \ud83d\ude4c\ud83c\udffc  https://t.co/0AnaMoBFyf"}
+{"created_at": "Wed Jan 20 19:50:11 +0000 2016", "text": "RT @JeanLucLemoine: \u00c7a va \u00eatre chaud entre @Mdelormeau et @Cyrilhanouna https://t.co/gG4euHJCcE"}
+{"created_at": "Wed Jan 20 19:41:15 +0000 2016", "text": "#TPMP c'est un artiste @stephaneguillon tout comme @JeanLucLemoine #JeuTPMP"}
+{"created_at": "Wed Jan 20 19:33:06 +0000 2016", "text": "@TPMPofficiel graveeeee #JeuTPMP"}
+{"created_at": "Wed Jan 20 19:31:43 +0000 2016", "text": "Ah koh-lanta j'ai h\u00e2te #TPMP #jeutpmp"}
+{"created_at": "Wed Jan 20 19:30:24 +0000 2016", "text": "@flosamtin ah cool moi sa fait 7 ans que j'i suis"}
+{"created_at": "Wed Jan 20 19:27:53 +0000 2016", "text": "@BearGrylls et @BarackObama a voir absolument #TPMP #jeutpmp"}
+{"created_at": "Wed Jan 20 19:24:45 +0000 2016", "text": "RT @flosamtin: @jerometommasino merci c est gentil https://t.co/xnC3N3XQCM"}
+{"created_at": "Wed Jan 20 19:23:38 +0000 2016", "text": "#JeuTPMP toujours"}
+{"created_at": "Wed Jan 20 19:20:47 +0000 2016", "text": "@flosamtin merci vous aussi"}
+{"created_at": "Wed Jan 20 19:19:55 +0000 2016", "text": "RT @flosamtin: @jerometommasino bon app\u00e9tit https://t.co/weSGVRFN0o"}
+{"created_at": "Wed Jan 20 19:18:38 +0000 2016", "text": "@RomainAMBRO @TPMPofficiel et @Mdelormeau avec qui avec @Cyrilhanouna lol"}
+{"created_at": "Wed Jan 20 19:14:43 +0000 2016", "text": "RT @flosamtin: Bon app\u00e9tit https://t.co/mMVZnrRquK"}
+{"created_at": "Wed Jan 20 19:11:46 +0000 2016", "text": "RT @BenaimValerie: Tr\u00e8s touch\u00e9e pr vs mess les amis Merci!Promis si je recroise ds \ud83d\udc0dj'essaierai de faire attention \u00e0 c que je dis mm si c n\u2026"}
+{"created_at": "Wed Jan 20 19:11:44 +0000 2016", "text": "@BenaimValerie non reste Comme est c'est normal d'avoir peur j'aurai bien voulu prendre ta place bonne soir\u00e9e a vous"}
+{"created_at": "Wed Jan 20 19:09:41 +0000 2016", "text": "RT @VIGO006: @TPMPofficiel @stephaneguillon \u00e7a c'est dr\u00f4le !"}
+{"created_at": "Wed Jan 20 18:51:44 +0000 2016", "text": "@VIGO006 @montaggioni1 @BenaimValerie oui le pire c'est qu'elle s'excuse beaucoup de bruit pour rien"}
+{"created_at": "Wed Jan 20 18:47:16 +0000 2016", "text": "@VIGO006 @BenaimValerie oui elle est attachante et tout et vrai"}
+{"created_at": "Wed Jan 20 18:46:26 +0000 2016", "text": "@montaggioni1 @VIGO006 @BenaimValerie en plus les gens connaissent #TPMP enfin"}
+{"created_at": "Wed Jan 20 18:45:11 +0000 2016", "text": "RT @VIGO006: @jerometommasino @BenaimValerie tout \u00e0 fait ! Moi je t'ai trouv\u00e9 formidable et naturelle."}
+{"created_at": "Wed Jan 20 18:44:47 +0000 2016", "text": "#TPMP d'accord avec @Mdelormeau sur @BenaimValerie sa ne ma pas choque s'est la plus sinc\u00e8re de l'\u00e9mission"}
+{"created_at": "Wed Jan 20 18:42:21 +0000 2016", "text": "#TPMP @BenaimValerie tu \u00e9tait formidable une femme naturelle change rien"}
+{"created_at": "Wed Jan 20 18:40:53 +0000 2016", "text": "RT @VIGO006: @TPMPofficiel @bigfloetoli tant mieux ! Je les aime bien les \"p'tis gars\". \ud83d\udc4d\ud83d\udc4d\u2764"}
+{"created_at": "Wed Jan 20 18:34:06 +0000 2016", "text": "#TPMP #JeuTPMP gilles verdez  a ouai exact le mec du cirque lol"}
+{"created_at": "Wed Jan 20 18:32:41 +0000 2016", "text": "#TPMP c'est un one man show @Cyrilhanouna maintenant"}
+{"created_at": "Wed Jan 20 18:08:41 +0000 2016", "text": "Bien le kdo en esperant qu'un #Fanzouzes soit tir\u00e9 au sort #TPMP #JeuTPMP"}
+{"created_at": "Wed Jan 20 18:07:06 +0000 2016", "text": "RT @TPMPofficiel: Ce soir on vous offre un smartphone @ArchosFrance et un bonnet connect\u00e9 ! #JeuTPMP Inscrivez-vous ! https://t.co/aKryJ3GE\u2026"}
+{"created_at": "Wed Jan 20 18:06:28 +0000 2016", "text": "#jeutpmp #TPMP"}
+{"created_at": "Wed Jan 20 18:04:35 +0000 2016", "text": "#tpmp c'est ti part"}
+{"created_at": "Wed Jan 20 17:57:16 +0000 2016", "text": "#TPMS isabelle a un magnifique sourire"}
+{"created_at": "Wed Jan 20 17:53:37 +0000 2016", "text": "RT @flosamtin: @Cyrilhanouna Cyril avec toi c est toujours la f\u00eate https://t.co/NFJtqIYhrk"}
+{"created_at": "Wed Jan 20 17:53:21 +0000 2016", "text": "@Cyrilhanouna ah tu pr\u00e9pare un dosss"}
+{"created_at": "Wed Jan 20 17:53:03 +0000 2016", "text": "RT @Cyrilhanouna: Mes beaut\u00e9s, Le mercredi , c'est la journ\u00e9e des enfants , des petits et des grands \ud83d\ude1c"}
+{"created_at": "Wed Jan 20 17:15:26 +0000 2016", "text": "RT @D8TV: .@BarackObama s'essaie \u00e0 la survie en pleine nature avec @BearGrylls ce soir \u00e0 21h ! https://t.co/C9quDV4uyg"}
+{"created_at": "Wed Jan 20 17:04:33 +0000 2016", "text": "#CyrilFaisCeQuIlNousPlait tu peut passer le son @Alonzopsy4 avec le titre \"on met les voiles\" la BO du film PATTAYA dans @TPMPofficiel"}
+{"created_at": "Wed Jan 20 11:53:13 +0000 2016", "text": "https://t.co/Y0NTkDcqwa via @youtube sa mets la p\u00eache cette chanson"}
+{"created_at": "Wed Jan 20 11:43:20 +0000 2016", "text": "@EnoraMofficiel ah ont sait crois\u00e9 sur la route t'es plus mignonne en vrai qu'\u00e0 la teloche salut la famille"}
+{"created_at": "Wed Jan 20 09:30:26 +0000 2016", "text": "Les jeunes arr\u00eate d'\u00e9couter @SkyrockOfficiel si vous voulez du non son sa se passe au @mouv 92.10 s'est du lourd comme dirait @PascalCefran"}
+{"created_at": "Wed Jan 20 08:18:09 +0000 2016", "text": "RT @Darty_Officiel: #QuandIlFaitFroidJeKiff les couvertures chauffantes https://t.co/pAUxizhI7y https://t.co/wHogzFdiov"}
+{"created_at": "Wed Jan 20 08:13:59 +0000 2016", "text": "@D8TV @TPMPofficiel il est la le futur s\u00e9rieux si un jour @Cyrilhanouna devait laisser @TPMPofficiel faudrait mettre @CamilleCombal"}
+{"created_at": "Wed Jan 20 08:00:38 +0000 2016", "text": "RT @flosamtin: @jerometommasino @VIGO006 c est vrai https://t.co/2XGzLzeM7b"}
+{"created_at": "Wed Jan 20 07:59:14 +0000 2016", "text": "S'est partie pour la p\u00e9riode b\u00eachage courage aux jardiniers et ouvriers"}
+{"created_at": "Wed Jan 20 07:57:43 +0000 2016", "text": "@flosamtin @VIGO006 mais sa fait du bien au yeux et au moral"}
+{"created_at": "Wed Jan 20 07:56:29 +0000 2016", "text": "RT @VIGO006: @flosamtin @jerometommasino c'est splendide"}
+{"created_at": "Wed Jan 20 07:56:26 +0000 2016", "text": "@flosamtin @VIGO006 ah oui ont n'a besoin de sa en se moment"}
+{"created_at": "Wed Jan 20 07:55:42 +0000 2016", "text": "RT @flosamtin: @VIGO006 @jerometommasino oui j aimerais y \u00eatre. Mais bon ce n est qu un GIF https://t.co/vkPRGlwlT9"}
+{"created_at": "Wed Jan 20 07:55:33 +0000 2016", "text": "RT @flosamtin: @jerometommasino @VIGO006 r\u00eavons un peux https://t.co/3ZSc2uaCLD"}
+{"created_at": "Wed Jan 20 07:38:44 +0000 2016", "text": "@flosamtin @VIGO006 merci pour ses photos magnifique"}
+{"created_at": "Wed Jan 20 07:24:43 +0000 2016", "text": "Merci @Cyrilhanouna d'avoir fait revivre l'esprit canal + sur @D8TV"}
+{"created_at": "Wed Jan 20 07:18:20 +0000 2016", "text": "@VirginTonicOff merci a vous d'\u00eatre aussi proche de nous #virgintonic"}
+{"created_at": "Wed Jan 20 07:17:51 +0000 2016", "text": "RT @VirginTonicOff: IMMENSE MERCI ! Vous \u00eates 1,5 millions \u00e0 vous r\u00e9veiller avec nous tous les matins ! #AudiencesRadio #VirginTonic https:\u2026"}
+{"created_at": "Wed Jan 20 07:00:33 +0000 2016", "text": "RT @OUIBUS: On tire au sort parmi les RT dans 24h, vous savez ce qu'il vous reste \u00e0 faire. #1RT1KM https://t.co/Sm05Hp9n6j"}
+{"created_at": "Wed Jan 20 07:00:13 +0000 2016", "text": "RT @flosamtin: Mercredi bien dormi ? https://t.co/fwl9xk7udj"}
+{"created_at": "Wed Jan 20 06:44:29 +0000 2016", "text": "@flosamtin bonne journ\u00e9e a toi aussi et fait gaffe eu froid"}
+{"created_at": "Wed Jan 20 06:38:14 +0000 2016", "text": "RT @flosamtin: Bonjour \u00e0 vous https://t.co/CxEAjyw64D"}
+{"created_at": "Tue Jan 19 20:41:31 +0000 2016", "text": "Bonne soir\u00e9e"}
+{"created_at": "Tue Jan 19 19:57:19 +0000 2016", "text": "RT @VIGO006: @Mythenephthys @jerometommasino @Hanounissime ah qui le dis tu ! Bien vrai!"}
+{"created_at": "Tue Jan 19 19:50:21 +0000 2016", "text": "@BenaimValerie s'est normal s'est comme sa qu'on t'aime"}
+{"created_at": "Tue Jan 19 19:49:44 +0000 2016", "text": "RT @BenaimValerie: Bon on est d'accord j'ai un peu paniqu\u00e9 avec tous les serpents ;-)) Heureusement Jeremy a tout de m\u00eame eu son ordi!Je l'\u2026"}
+{"created_at": "Tue Jan 19 19:46:58 +0000 2016", "text": "@LePakiUnGenie m'ouai vite fait s'est mieux que Genevi\u00e8ve de fontenay"}
+{"created_at": "Tue Jan 19 19:45:41 +0000 2016", "text": "RT @2BrokeGirls: First Look: Max And Caroline Cause Courtside Chaos On #2BrokeGirls - https://t.co/woTGchO7wH https://t.co/eXAQnCZlqR"}
+{"created_at": "Tue Jan 19 19:45:40 +0000 2016", "text": "RT @Cyrilhanouna: Mes beaut\u00e9s, mettez vous au chaud pour attendre #TPMP #couette #couverture #chauffage"}
+{"created_at": "Tue Jan 19 19:45:17 +0000 2016", "text": "RT @Mythenephthys: @Hanounissime les gens sont blas\u00e9s alors que des #fanzouzes peu fortun\u00e9s seraient contents d'avoir un ordi"}
+{"created_at": "Tue Jan 19 19:44:06 +0000 2016", "text": "RT @VincentDesagnat: Bande-annonce Nos pires voisins 2 : Zac Efron et Seth Rogen alli\u00e9s contre la peste Chlo\u00eb Moretz https://t.co/ij4YdOuxg\u2026"}
+{"created_at": "Tue Jan 19 19:24:46 +0000 2016", "text": "#TPMP s\u00e9rieux cyril tu so\u00fble a stress\u00e9 @BenaimValerie"}
+{"created_at": "Tue Jan 19 19:21:43 +0000 2016", "text": "#TPMP @BenaimValerie je te kiff ta raison"}
+{"created_at": "Tue Jan 19 19:17:52 +0000 2016", "text": "@ThierryMoreauT7 @LoveTpmp31 @nt1 @Tele7 je voyais que tu \u00e9tait surpris du doss il c'est tromp\u00e9"}
+{"created_at": "Tue Jan 19 19:13:50 +0000 2016", "text": "@Hanounissime c'est vrai en plus"}
+{"created_at": "Tue Jan 19 19:13:17 +0000 2016", "text": "RT @armeedeterre: Nous rendons hommage \u00e0 nos 5 soldats du #2REG emport\u00e9s par une avalanche le 18 janvier 2016 https://t.co/rVSkb3xEar https\u2026"}
+{"created_at": "Tue Jan 19 19:09:56 +0000 2016", "text": "#TPMP a lidl y'a pas de nutella s'est de la p\u00e2te a tartiner"}
+{"created_at": "Tue Jan 19 19:06:39 +0000 2016", "text": "@TPMPofficiel ohh c'est nuuuul"}
+{"created_at": "Tue Jan 19 19:06:17 +0000 2016", "text": "#TPMP @BenaimValerie je t'aime"}
+{"created_at": "Tue Jan 19 19:04:30 +0000 2016", "text": "#TPMP #JeuTPMP"}
+{"created_at": "Tue Jan 19 18:52:53 +0000 2016", "text": "#TPMP quand sa crie et sa parle en m\u00eame temps j'ai envie de zapper"}
+{"created_at": "Tue Jan 19 18:38:36 +0000 2016", "text": "#TPMP #CyrilFaisCeQuIlNousPlait tu peut vir\u00e9 gilles verdez"}
+{"created_at": "Tue Jan 19 18:19:21 +0000 2016", "text": "RT @h2oprodoff: Rendez-vous le 11 f\u00e9vrier pour un #GrosShow sur @D8TV avec l'\u00e9quipe de @PATTAYAlefilm ! @Gros_Show_D8 https://t.co/XOjuYqyl\u2026"}
+{"created_at": "Tue Jan 19 18:07:34 +0000 2016", "text": "#TPMP s'est partie #CyrilFaisCeQuIlNousPlait"}
+{"created_at": "Tue Jan 19 18:06:42 +0000 2016", "text": "@ConcoursLoterie sa serai sympatoche"}
+{"created_at": "Tue Jan 19 18:05:42 +0000 2016", "text": "@Mdelormeau dit moi la v\u00e9rit\u00e9 la chemise s'est une blague"}
+{"created_at": "Tue Jan 19 17:05:15 +0000 2016", "text": "Demain soir sur @D8TV les aventures de @BearGrylls avec @BarackObama h\u00e2te de voir sa"}
+{"created_at": "Tue Jan 19 16:56:14 +0000 2016", "text": "RT @DenisBrogniart: Depuis le temps que vous attendez! #kohlanta revient le 12 f\u00e9vrier sur @TF1 avec des aventuriers attachants  https://t.\u2026"}
+{"created_at": "Tue Jan 19 11:53:32 +0000 2016", "text": "RT @malcolmfrance: VID\u00c9O. Les images de la maman de #Malcolm dans #TheBigBangTheory ! \u25b6 https://t.co/J7fYJYVQrz https://t.co/msvXV9fvTh"}
+{"created_at": "Tue Jan 19 11:11:23 +0000 2016", "text": "Le Mouv cette radio dechire 92,10"}
+{"created_at": "Tue Jan 19 10:09:33 +0000 2016", "text": "@johnjohn64 @VIGO006 @TPMPofficiel g\u00e9n\u00e9ralement quand t'adresse a un politique il faut des arguments solide car le politique peut te casser"}
+{"created_at": "Tue Jan 19 09:08:51 +0000 2016", "text": "#CyrilFaisCeQuIlNousPlait \u00e9cout\u00e9 me payer le loyer sa serai bien merci"}
+{"created_at": "Tue Jan 19 07:11:35 +0000 2016", "text": "@VirginTonicOff @LaureVirgin pardon mais c'est moche"}
+{"created_at": "Tue Jan 19 07:08:01 +0000 2016", "text": "S'est beau Paris la nuit https://t.co/L8DzRvwcJE"}
+{"created_at": "Tue Jan 19 06:12:10 +0000 2016", "text": "@CamilleCombal je pr\u00e9f\u00e8re reste sous la couette tout en \u00e9coutant @VirginTonicOff sa le fait aussi"}
+{"created_at": "Tue Jan 19 04:14:59 +0000 2016", "text": "RT @VIGO006: @jerometommasino belle soir\u00e9e"}
+{"created_at": "Mon Jan 18 20:24:38 +0000 2016", "text": "Bonne soir\u00e9e"}
+{"created_at": "Mon Jan 18 20:10:55 +0000 2016", "text": "Soir\u00e9e Kaamelott sur @6ter"}
+{"created_at": "Mon Jan 18 19:36:22 +0000 2016", "text": "#GenevieveDansTPMP euuuuuuuu non"}
+{"created_at": "Mon Jan 18 19:23:58 +0000 2016", "text": "#TPMP pardon mais la dame au chapeau n'a rien a faire dans cette \u00e9mission avec tout le respect que je lui dois"}
+{"created_at": "Mon Jan 18 19:11:44 +0000 2016", "text": "#TPMP nabilla est trop forte"}
+{"created_at": "Mon Jan 18 19:02:56 +0000 2016", "text": "#TPMP y'a de l'ambiance c'est cool"}
+{"created_at": "Mon Jan 18 19:00:38 +0000 2016", "text": "RT @VIGO006: @jerometommasino @TPMPofficiel c'est clair  faut pas melanger. Les terroristes se revendiquent d'une religion alors que c'est \u2026"}
+{"created_at": "Mon Jan 18 18:57:48 +0000 2016", "text": "@VIGO006 @TPMPofficiel et malheureusement beaucoup de gens pense comme sa et c'est bien dommage"}
+{"created_at": "Mon Jan 18 18:54:56 +0000 2016", "text": "RT @VIGO006: @TPMPofficiel pas constructif ! Et la France en guerre contre les musulmans \u00e7a m'a \u00e9nerv\u00e9e ! Quelle amalgame."}
+{"created_at": "Mon Jan 18 18:36:59 +0000 2016", "text": "#TPMP a ouai gilles verdez est un g\u00e9nie a ouai ok d'accord"}
+{"created_at": "Mon Jan 18 18:35:51 +0000 2016", "text": "\u00c9videmment gilles verdez insulte le travail des gens tu peut critique mais elle faut que se soit constructif #tpmp bravo a @Mdelormeau"}
+{"created_at": "Mon Jan 18 18:12:46 +0000 2016", "text": "#CheveuxMaire s'est assez flippant la vache"}
+{"created_at": "Mon Jan 18 17:16:36 +0000 2016", "text": "RT @Sia: Can you adopt this beautiful pitty? He's at Baldwin Park Animal Shelter telephone #: 626.962.3577  ID# A4902763 https://t.co/SEWnT\u2026"}
+{"created_at": "Mon Jan 18 16:56:29 +0000 2016", "text": "@TPMPofficiel @EnoraMofficiel am\u00e8ne la sur le plateau"}
+{"created_at": "Mon Jan 18 16:47:33 +0000 2016", "text": "@VIGO006 et oui en plus que des grandes figures c'est malheureux mais tant que la famille et les amis vont bien c'est le principal"}
+{"created_at": "Mon Jan 18 16:44:38 +0000 2016", "text": "@VIGO006 c'est fou quand c'est pas un attentat s'est un d\u00e9c\u00e8s apr\u00e8s les avalanches l'ambiance est tr\u00e8s bizarre"}
+{"created_at": "Mon Jan 18 16:36:19 +0000 2016", "text": "#CyrilFaisCeQuIlNousPlait tu peut payer mon loyer sa serai sympatoche merci bisous"}
+{"created_at": "Mon Jan 18 16:16:39 +0000 2016", "text": "RT @EnoraMofficiel: Je veux que @Cyrilhanouna parle en slogan de pub ! #CyrilFaisCeQuIlNousPlait #ChocapicCestFortEnChocolat"}
+{"created_at": "Mon Jan 18 16:12:35 +0000 2016", "text": "Tous les jours il se passe quelque chose l'ann\u00e9e 2016 d\u00e9marre mal"}
+{"created_at": "Mon Jan 18 14:51:43 +0000 2016", "text": "RT @TPMS: Notre \u00e9quipe de ce soir : @dominicgrimault @Francesca_Cheka @ThibaudVezirian @JPasquet @AymericBonnery @marieportolano et @Raymon\u2026"}
+{"created_at": "Mon Jan 18 14:51:01 +0000 2016", "text": "@Cyrilhanouna pour ma part c'est cyril fait ce qu'il te pla\u00eet dans @TPMPofficiel amuses toi la famille"}
+{"created_at": "Mon Jan 18 14:49:23 +0000 2016", "text": "RT @Cyrilhanouna: Il y a que moi qui aime les lundis \ud83d\ude1c j'attends vos suggestions pour #CyrilFaisCeQuIlNousPlait #TPMP"}
+{"created_at": "Mon Jan 18 13:00:57 +0000 2016", "text": "@hawzelo @annabia2363 t'en n'a ils sont tellement cons qui le ferai"}
+{"created_at": "Mon Jan 18 12:59:05 +0000 2016", "text": "RT @hawzelo: Juste au cas o\u00f9 https://t.co/H3Nnld31HW"}
+{"created_at": "Mon Jan 18 12:19:37 +0000 2016", "text": "RT @VirginTonicOff: #Selfou bisous ! #VirginTonic https://t.co/YQk2x1a41a"}
+{"created_at": "Mon Jan 18 12:09:55 +0000 2016", "text": "RT @Anggun_Cipta: L'in\u00e9vitable n'est pas \u00e9vit\u00e9, l'ABC Quizz sp\u00e9cial Asie donc avec @JeanLucLemoine sur #PDLP https://t.co/J4fSE0vSjb"}
+{"created_at": "Mon Jan 18 11:52:58 +0000 2016", "text": "RT @Eurosport_FR: 3 conditions :\n\n- RT ce tweet\n- Follow @EurosportFrance \n- Les r\u00e9cup\u00e9rer \u00e0 Issy demain (2/2)"}
+{"created_at": "Mon Jan 18 11:52:37 +0000 2016", "text": "RT @Eurosport_FR: Bon, on a 2 fois 2 places pour le 16e de Coupe de France PSG - Toulouse demain \u00e0 vous faire gagner... 1/2 https://t.co/7M\u2026"}
+{"created_at": "Mon Jan 18 11:29:07 +0000 2016", "text": "@montaggioni1 merci toi aussi"}
+{"created_at": "Mon Jan 18 11:23:26 +0000 2016", "text": "@VIGO006 ah bon ap aussi"}
+{"created_at": "Mon Jan 18 11:20:24 +0000 2016", "text": "En mode c\u00f4t\u00e9 de porc dans le camion https://t.co/wyxoQs8d9s"}
+{"created_at": "Mon Jan 18 11:12:00 +0000 2016", "text": "RT @imrosemciver: Sunday 'facie' with this twin. https://t.co/7SUQBg7g9d"}
+{"created_at": "Mon Jan 18 08:55:35 +0000 2016", "text": "@VIGO006 merci toi aussi et bonne ann\u00e9e"}
+{"created_at": "Mon Jan 18 08:26:48 +0000 2016", "text": "@montaggioni1 oh ta raison ta bien fait puis a partir du moment ou tu cr\u00e9e un compte s'est pour partager s'est le principe de Twitter"}
+{"created_at": "Mon Jan 18 07:49:10 +0000 2016", "text": "@montaggioni1 s'est compl\u00e8tement con du coup faut que tu d\u00e9m\u00e9nage lol s'est chelou se principe"}
+{"created_at": "Mon Jan 18 07:30:18 +0000 2016", "text": "@montaggioni1 lol je savais m\u00eame pas qui avait une team hanouna"}
+{"created_at": "Mon Jan 18 07:19:29 +0000 2016", "text": "@BryceOnAir @FanzouzesTeam @Mdelormeau @WeLoveMattD @DelormeauActus @Love_Mdelormeau qui ajoute @TPMPofficiel sa remonte le niveau du doss"}
+{"created_at": "Mon Jan 18 07:18:51 +0000 2016", "text": "RT @BryceOnAir: #RT si toi aussi tu aimerais que Matthieu change cette fichue bio !! \ud83d\ude0c https://t.co/voP6krc86x"}
+{"created_at": "Mon Jan 18 07:18:24 +0000 2016", "text": "RT @Canalsat: Jouez avec @NatGeoChannelFr et tentez de gagner 1 MACBOOK, 3 MINI-DRONES et 20 DVD !\nhttps://t.co/0a0tf54cJD"}
+{"created_at": "Mon Jan 18 07:09:56 +0000 2016", "text": "@BenaimValerie bon courage a toi pour cette semaine heureux de te retrouv\u00e9 tu manque au PAF"}
+{"created_at": "Mon Jan 18 07:08:44 +0000 2016", "text": "RT @BenaimValerie: C'est parti pour une nouvelle semaine!Bon courage les amis!Et Rdv tt \u00e0 l'heure 16h pour #PDLP puis pour #TPMP. Je vous e\u2026"}
+{"created_at": "Mon Jan 18 06:14:08 +0000 2016", "text": "@Tragedie3_0 bon courage les gars force a vous"}
+{"created_at": "Sun Jan 17 23:14:49 +0000 2016", "text": "@LePakiUnGenie @gillesverdez j'avoue je suis bizarre et j'assume"}
+{"created_at": "Sun Jan 17 23:12:14 +0000 2016", "text": "RT @DanielRiolo: https://t.co/Bd1U4JU3VP"}
+{"created_at": "Sun Jan 17 21:59:37 +0000 2016", "text": "S'est partie ecoutage de @AfterRMC avec @DanielRiolo @gilbertbrisbois"}
+{"created_at": "Sun Jan 17 21:54:27 +0000 2016", "text": "MERCI les st\u00e9phanois"}
+{"created_at": "Sun Jan 17 21:08:01 +0000 2016", "text": "@Mdelormeau faudrai l'invit\u00e9 dans @TPMPofficiel par en a @Cyrilhanouna"}
+{"created_at": "Sun Jan 17 21:06:45 +0000 2016", "text": "Dit bonjour a Fabien barthez lol #LesGamins"}
+{"created_at": "Sun Jan 17 20:57:46 +0000 2016", "text": "Et moi je te chie dessus#LesGamins a dire pour d\u00e9conne"}
+{"created_at": "Sun Jan 17 20:56:48 +0000 2016", "text": "@Cyrilhanouna bonne soir\u00e9e la famille prends soins de ta famille a demain soir dans ma t\u00e9l\u00e9"}
+{"created_at": "Sun Jan 17 20:55:26 +0000 2016", "text": "RT @Cyrilhanouna: Mes amours, merci pour tous vos messages. J esp\u00e8re vous faire kiffer cette semaine. Grave envie de faire ce qui vous plai\u2026"}
+{"created_at": "Sun Jan 17 20:41:52 +0000 2016", "text": "#LesGamins le meilleur film jus qu'\u00e0 pr\u00e9sent"}
+{"created_at": "Sun Jan 17 20:02:05 +0000 2016", "text": "Je d\u00e9couvre @JeremyFerrari et franchement merci car ton humour est totalement ce que j'aime et en plus il est pas con le gars donc merci"}
+{"created_at": "Sun Jan 17 19:58:13 +0000 2016", "text": "@ClemHanouna ah les gamins pour ma part"}
+{"created_at": "Sun Jan 17 19:44:28 +0000 2016", "text": "@courbet_julien @TPMS @TPMPofficiel @Fnac @venteprivee_fr @BilletReduc ah Julien dans TPMS sa va parler des girondins de bordeaux"}
+{"created_at": "Sun Jan 17 19:41:57 +0000 2016", "text": "RT @courbet_julien: Demain @TPMS invit\u00e9 et dans la foul\u00e9e @TPMPofficiel et le 19 mars la cigale @Fnac @venteprivee_fr @BilletReduc https://\u2026"}
+{"created_at": "Sun Jan 17 19:41:14 +0000 2016", "text": "@MancaLudivine il est beau kiki"}
+{"created_at": "Sun Jan 17 19:17:07 +0000 2016", "text": "RT @EnoraMofficiel: Les amours je sais pas quoi mater ce soir \u00e0 la t\u00e9l\u00e9 en mode cool dimanche ... Vous me conseillez quoi ? \ud83d\ude18"}
+{"created_at": "Sun Jan 17 19:17:06 +0000 2016", "text": "@EnoraMofficielles gamins sur TF1 avec max boublil et alain chabat"}
+{"created_at": "Sun Jan 17 18:32:50 +0000 2016", "text": "Se soir sur @TF1 les GAMINS avec Max boublil et Le tr\u00e8s grand Alain Chabat tr\u00e8s bon film"}
+{"created_at": "Sun Jan 17 17:04:16 +0000 2016", "text": "RT @THEDAMSO: Les d\u00e9s sont jet\u00e9s..\nDamso - D\u00e9brouillard\n@oklmradio \n@Oklmofficial https://t.co/bG34Ta0Mbr"}
+{"created_at": "Sun Jan 17 16:15:36 +0000 2016", "text": "@DanielRiolo je pense qu'on n'ira le droit a un bon 0-0 des familles le score qui repr\u00e9sente bien la ligue 1"}
+{"created_at": "Sun Jan 17 16:13:27 +0000 2016", "text": "@Cyrilhanouna que dieu le b\u00e9nisse c'est le maillot que tu lui a offert un vrai sportif comme son p\u00e8re"}
+{"created_at": "Sun Jan 17 16:11:45 +0000 2016", "text": "RT @Cyrilhanouna: Est ce que c'est normal que mon fils veuille s'habiller en joueur de foot m\u00eame quand il fait -10 degr\u00e9s \ud83d\ude1c https://t.co/4m\u2026"}
+{"created_at": "Sun Jan 17 15:51:45 +0000 2016", "text": "RT @Liisouille_Stmn: @Jeffpanacloc @TPMPofficiel @Mokhtar_TPMPOFF #RT svp POUR RETROUVER LUCAS #RetrouvonsLucas URGENT svp #RT https://t.co\u2026"}
+{"created_at": "Sun Jan 17 15:32:29 +0000 2016", "text": "RT @D8TV: Le @palmashow se la joue mono de ski cet hiver ! https://t.co/aVYzzOYFoJ https://t.co/yaeHEMoE3K"}
+{"created_at": "Sun Jan 17 15:31:25 +0000 2016", "text": "RT @NoGynophobie: Suivez-nous et luttez contre les violences faites aux femmes #NoGynophobie #ViolencesFaitesAuxFemmes RT appr\u00e9ci\u00e9s https:/\u2026"}
+{"created_at": "Sun Jan 17 15:29:35 +0000 2016", "text": "@SindyOfficiel c'\u00e9tait un cauchemar tu fait pas semblant toi"}
+{"created_at": "Sun Jan 17 13:13:07 +0000 2016", "text": "RT @booba: #92iVeyron #NeroNemesis \n\nDisponible sur iTunes: https://t.co/KAEbY04vkO\nhttps://t.co/apTZCcIK72"}
+{"created_at": "Sun Jan 17 12:19:13 +0000 2016", "text": "@Cyrilhanouna y'avait un doss sur l'embellie de baba sur @France5tv m\u00e9dia le mag"}
+{"created_at": "Sun Jan 17 10:54:16 +0000 2016", "text": "#OL"}
+{"created_at": "Sun Jan 17 10:52:17 +0000 2016", "text": "RT @MaryPadian: Dancin' all night with these fun peeps!! https://t.co/Mk1Ge8zFJB"}
+{"created_at": "Sun Jan 17 10:00:28 +0000 2016", "text": "RT @Cyrilhanouna: Votre Baba vous aime fort et pense trop a vous! Et merci d \u00eatre la! Vous me donnez trop d amour vu mon niveau au ping pon\u2026"}
+{"created_at": "Sat Jan 16 22:29:22 +0000 2016", "text": "Bravo a @Elodiegossuin qui remporte #LGCDA intelligente et rigolote"}
+{"created_at": "Sat Jan 16 21:03:54 +0000 2016", "text": "@cyrilferaud @Elodiegossuin @TF1 sa serai cool de vous voir anim\u00e9 un programme en duo"}
+{"created_at": "Sat Jan 16 20:40:33 +0000 2016", "text": "Elle est trop mignonne @IsaMoriniBosc dans #LGCDA"}
+{"created_at": "Sat Jan 16 20:11:52 +0000 2016", "text": "RT @Cyrilhanouna: Je vais me saouler au diabolo grenadine mes beaut\u00e9s \ud83d\ude00 #trespetitverreentreamis https://t.co/xHD6nBx2OF"}
+{"created_at": "Sat Jan 16 20:11:41 +0000 2016", "text": "@Cyrilhanouna sans mod\u00e9ration baba si tu le boit cu-sec tu pr\u00e9sente pas @TPMPofficiel pendant 3 mois bonne soir\u00e9e la famille"}
+{"created_at": "Sat Jan 16 18:52:40 +0000 2016", "text": "@MurDesFanzouze @Mdelormeau @TPMPofficiel @courbet_julien perso oui car il est dans l'ambiance du plateau je le verrai bien un vendredi"}
+{"created_at": "Sat Jan 16 12:07:59 +0000 2016", "text": "Je soutien @SAVIDANSTEVE d'\u00eatre entra\u00eeneur de Valenciennes"}
+{"created_at": "Sat Jan 16 12:07:02 +0000 2016", "text": "@Cyrilhanouna @Clinamars1 @SAVIDANSTEVE @TPMS ah oui sa s'est s'est bien car il m\u00e9rite d'\u00eatre entra\u00eeneur c'\u00e9tait un tr\u00e8s bon jouerur"}
+{"created_at": "Fri Jan 15 18:32:56 +0000 2016", "text": "RT @Hanounissime: DANS UN MOIS PILE J'Y SERAI ENFIN\ud83d\ude2d #TPMP #PDLP @Cyrilhanouna #Paris #1502 \ud83d\udc98\n@Philippine_gb \ud83d\udcab https://t.co/FhkBAkNGhu"}
+{"created_at": "Fri Jan 15 18:32:38 +0000 2016", "text": "@LeZappeurFousa s'enflamme vite tranquille la famille"}
+{"created_at": "Fri Jan 15 18:31:08 +0000 2016", "text": "RT @gadelmaleh: RV a Divonne les Bains.On se retrouve direct au Hamam\ud83d\ude1c\ud83d\ude1cpour un show en free style avec @kevadamsss tickets ici https://t.co\u2026"}
+{"created_at": "Fri Jan 15 18:07:45 +0000 2016", "text": "RT @AlligierStacey: @jerometommasino @ConcoursLoterie mdr pareil sauf que moi je croise aussi les cheveux \ud83d\ude02\ud83d\ude02\ud83d\ude02"}
+{"created_at": "Fri Jan 15 18:04:51 +0000 2016", "text": "C'est parti pour H sur @FranceOtv"}
+{"created_at": "Fri Jan 15 18:02:28 +0000 2016", "text": "Se soir sur @HD1_TV @2BrokeGirls a 20h50"}
+{"created_at": "Fri Jan 15 18:01:49 +0000 2016", "text": "RT @2BrokeGirls: #ICYMI: This how you keep it \ud83d\udcaf #2BrokeGirls style. https://t.co/SxGMSN6VcF https://t.co/7BPGhry0Oc"}
+{"created_at": "Fri Jan 15 18:01:39 +0000 2016", "text": "@ConcoursLoterie je croise les doigts m\u00eame les doigts de pieds"}
+{"created_at": "Fri Jan 15 14:24:46 +0000 2016", "text": "@gadelmaleh @TF1 ah sa je vais mattez direct"}
+{"created_at": "Fri Jan 15 14:23:29 +0000 2016", "text": "RT @gadelmaleh: Ce soir je suis avec vous sur @TF1 qui diffuse \u00e0 23h30 mon show \"Sans Tambour\" et tellement d'amour \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f #lovemyfans #lov\u2026"}
+{"created_at": "Fri Jan 15 13:41:24 +0000 2016", "text": "@ClioOfficiel moi je dit que c'est toi tu est sportive et comp\u00e9titrice"}
+{"created_at": "Fri Jan 15 13:39:50 +0000 2016", "text": "RT @AliJude_: Faudrait que sa soit en #TT ##PaulineyChroniqueuseFanzouzes Sa serait le feu!! @Cyrilhanouna @TPMPofficiel"}
+{"created_at": "Fri Jan 15 13:39:40 +0000 2016", "text": "#WeLoveChristouffe s'est partie"}
+{"created_at": "Fri Jan 15 13:18:53 +0000 2016", "text": "#CyrilFaisCeQuIlNousPlait bah fait toi plaisir s'en te prendre la t\u00eate \u00e9clate toi et l\u00e2che toi @Cyrilhanouna"}
+{"created_at": "Fri Jan 15 13:12:45 +0000 2016", "text": "#PaulineyChroniqueuseFanzouzes car est la famille"}
+{"created_at": "Fri Jan 15 11:05:00 +0000 2016", "text": "RT @JeanLucLemoine: Les amis, je vous fais gagner 5 cartes de v\u0153ux d\u00e9dicac\u00e9es! Pour cela, il faut RT ce tweet et follow @Europe1 !"}
+{"created_at": "Fri Jan 15 07:20:37 +0000 2016", "text": "@CamilleCombal je compte sur toi tu est la rel\u00e8ve du mhyto @Cyrilhanouna le mec qui parle beaucoup"}
+{"created_at": "Thu Jan 14 18:51:12 +0000 2016", "text": "#TPMP vous avez perdu un t\u00e9l\u00e9spectateur j'aime pas les mytos"}
+{"created_at": "Thu Jan 14 18:42:43 +0000 2016", "text": "#CyrilFaitCeQuiNousPlait  bah non tu myto donc rien"}
+{"created_at": "Thu Jan 14 18:35:38 +0000 2016", "text": "Ok @Cyrilhanouna tu reviens dans @TPMPofficiel mais tu n'es pas quel qu'un de paroles"}
+{"created_at": "Thu Jan 14 18:31:00 +0000 2016", "text": "Tu rigole @Cyrilhanouna myto va"}
+{"created_at": "Thu Jan 14 18:20:37 +0000 2016", "text": "#Cyrilreviensnon"}
+{"created_at": "Thu Jan 14 18:17:21 +0000 2016", "text": "@emilielopez @TPMPofficiel @D8TV t'es pas la seule"}
+{"created_at": "Thu Jan 14 18:16:03 +0000 2016", "text": "#TPMP s'est path\u00e9tique pour l'instant @TPMPofficiel"}
+{"created_at": "Thu Jan 14 18:07:15 +0000 2016", "text": "Ahhhhhh je le souhaitait @Mdelormeau a la pr\u00e9sentation de #TPMP"}
+{"created_at": "Thu Jan 14 17:54:42 +0000 2016", "text": "@Mdelormeau ouai ma gueule dechire tout la famille"}
+{"created_at": "Thu Jan 14 17:54:01 +0000 2016", "text": "@TPMS d'accord avec @DanielRiolo je pr\u00e9f\u00e8re le but de Lucas avec di maria hier"}
+{"created_at": "Thu Jan 14 17:51:42 +0000 2016", "text": "@TPMS @AymericBonnery tu va loin la arr\u00eate les blagues Stp a part sa tu g\u00e8re"}
+{"created_at": "Thu Jan 14 17:44:12 +0000 2016", "text": "RT @TPMS: Et c'est @DanielRiolo qui est le grand gagnant ! #TPMS https://t.co/YJrovr1PNY"}
+{"created_at": "Thu Jan 14 17:04:18 +0000 2016", "text": "@courbet_julien @NMalaboeuf lol pauvre Julien"}
+{"created_at": "Thu Jan 14 17:03:30 +0000 2016", "text": "RT @floriane_tudal: je me demande qui va pr\u00e9senter #TPMP ce soir"}
+{"created_at": "Thu Jan 14 17:03:24 +0000 2016", "text": "RT @anaelle_ti: Les 2M de t\u00e9l\u00e9spectateurs c'est peut-\u00eatre pour ce soir ! \ud83d\ude09 Bient\u00f4t le mariage \u00e0 Vegas ? @CamilleCombal tu a d\u00e9j\u00e0 essay\u00e9 ta \u2026"}
+{"created_at": "Thu Jan 14 17:02:30 +0000 2016", "text": "RT @TPMS: Le tacle de @DanielRiolo : Aulas tais toi ! #TPMS https://t.co/8MFKtWTBdq"}
+{"created_at": "Thu Jan 14 16:53:13 +0000 2016", "text": "@Gyselle_Soares fait gaffe a pas te couper lol"}
+{"created_at": "Thu Jan 14 16:30:58 +0000 2016", "text": "@Cyrilhanouna #babatablepingpong ah s'est un coup de buzz pour faire les #TPMP2Millions car tt le monde va mattez si t'es la ou pas"}
+{"created_at": "Thu Jan 14 14:40:24 +0000 2016", "text": "RT @CamilleCombal: Si vous avez loup\u00e9 le premier \u00e9pisode de \"Amour, gloire et D8\" il est l\u00e0 https://t.co/Ry7nKSm9iB !! \ud83d\udcfa https://t.co/3u3B1\u2026"}
+{"created_at": "Thu Jan 14 14:40:03 +0000 2016", "text": "RT @BenaimValerie: Les amis, je vs fais gagner \u00e0 nouveau 10 cartes de voeux d\u00e9dicac\u00e9es !;-)Pour jouer RT ce tweet et follow @Europe1 Bizz \u00e0\u2026"}
+{"created_at": "Thu Jan 14 14:38:56 +0000 2016", "text": "RT @Vanessalemoigne: Ma precieuse @hediacharni \ud83d\udc95 https://t.co/zAXAHNMFdh"}
+{"created_at": "Thu Jan 14 12:41:07 +0000 2016", "text": "@Cyrilhanouna en esp\u00e9rant que tu tienne ton pari #babatablepingpong je te kiff la famille mais un pari c'est un pari la famille"}
+{"created_at": "Thu Jan 14 12:23:00 +0000 2016", "text": "@Cyrilhanouna #babatablepingpong fait la gagner dans @TPMPofficiel"}
+{"created_at": "Thu Jan 14 12:20:09 +0000 2016", "text": "#babatablepingpong moi je suis fan de Ping pong un week-end je la chercher la table @Cyrilhanouna"}
+{"created_at": "Thu Jan 14 12:18:28 +0000 2016", "text": "RT @Cyrilhanouna: Ma fin de carri\u00e8re au ping pong ! J'attends vos messages #babatablepingpong #aceder https://t.co/3CWCc3LY9Z"}
+{"created_at": "Thu Jan 14 12:18:07 +0000 2016", "text": "@Cyrilhanouna #babatablepingpong je t'entraine si tu veut la famille on se voit a Boulogne je connais le coin"}
+{"created_at": "Thu Jan 14 12:15:41 +0000 2016", "text": "@Sondage_TPMP @romainLoff @CamilleCombal ou @Mdelormeau"}
+{"created_at": "Thu Jan 14 10:26:20 +0000 2016", "text": "@sulmierski @Cyrilhanouna c'est vrai apr\u00e8s sa il est plu cr\u00e9dible"}
+{"created_at": "Thu Jan 14 10:23:37 +0000 2016", "text": "@sulmierski @Cyrilhanouna on Vera se soir apr\u00e8s il a peut \u00eatre des trucs en priv\u00e9e et qui dit pas parce que 2 semaines s'est chaud"}
+{"created_at": "Thu Jan 14 09:11:06 +0000 2016", "text": "@Cyrilhanouna y'a un truc qui se cache baba dit le ta des trucs en priv\u00e9e mais t'inqui\u00e8te la famille prend soin de toi la famille"}
+{"created_at": "Thu Jan 14 09:05:51 +0000 2016", "text": "@Cyrilhanouna je te respect si tu honore ton pari sa veut dire que tu est un homme de parole"}
+{"created_at": "Thu Jan 14 09:01:13 +0000 2016", "text": "RT @TPMPofficiel: Vous \u00e9tiez 2,2 millions de t\u00e9l\u00e9spectateurs \u00e0 suivre le match de ping pong opposant Cyril \u00e0 St\u00e9phane Plaza hier soir https\u2026"}
+{"created_at": "Thu Jan 14 07:54:06 +0000 2016", "text": "RT @Cyrilhanouna: Mes beaut\u00e9s, j ai jou\u00e9 comme une merde hier soir, bravo a stephane Plaza , je me retire de la vie du ping pong ."}
+{"created_at": "Thu Jan 14 07:54:04 +0000 2016", "text": "@Cyrilhanouna oui je confirme t'es meilleur sur petite table alors t'honore ton pari ou t'a parler avec la langue ?"}
+{"created_at": "Thu Jan 14 04:36:36 +0000 2016", "text": "RT @2BrokeGirls: Take it all in Han. #2BrokeGirls https://t.co/Epx7X4zcAs"}
+{"created_at": "Thu Jan 14 04:36:34 +0000 2016", "text": "RT @2BrokeGirls: Great news! #2BrokeGirls https://t.co/Vgtxjy3ClL"}
+{"created_at": "Wed Jan 13 21:10:10 +0000 2016", "text": "@Cyrilhanouna et puis t'es pas si fort que sa ou tu l'a laisser gagner ou tu taf sur un nouveau projet ou ta des trucs a faire perso"}
+{"created_at": "Wed Jan 13 21:08:00 +0000 2016", "text": "@Cyrilhanouna j'esp\u00e8re que tu va honor\u00e9 ta parole t'es comme un fr\u00e8re pour moi mais la famille un pari c'est un pari surtout au Ping pong"}
+{"created_at": "Wed Jan 13 21:02:01 +0000 2016", "text": "@Arthur_Officiel @kavanaghanthony @florenceforesti @JoseGarciaOff @commandeur_j @ArDucret @rachidbadouri je matte y'a @commandeur_j"}
+{"created_at": "Wed Jan 13 20:58:44 +0000 2016", "text": "@Hanounissime ah mais je pense qu'il ne sera pas la je pense qu'il est s\u00e9rieux"}
+{"created_at": "Wed Jan 13 20:56:58 +0000 2016", "text": "@D8TV @TPMPofficiel si @Cyrilhanouna a une parole et tiens son pari il est honn\u00eate sinon il parle pour rien on blague pas avec le Ping pong"}
+{"created_at": "Wed Jan 13 20:49:38 +0000 2016", "text": "Quand une piste est ferm\u00e9e pour risque d'avalanche on n'i va pas c'est pas compliquer a comprendre mais les gens s'en foutent"}
+{"created_at": "Wed Jan 13 19:10:38 +0000 2016", "text": "RT @LePakiUnGenie: Elle est g\u00e9niale l'\u00e9mission de ce soir \ud83d\ude0d\ud83d\ude0d #TPMP"}
+{"created_at": "Wed Jan 13 18:12:48 +0000 2016", "text": "#TPMP je vois @Mdelormeau a la pr\u00e9sentation de @TPMPofficiel ou @CamilleCombal"}
+{"created_at": "Wed Jan 13 18:11:40 +0000 2016", "text": "RT @TPMPofficiel: \"J'vois d\u00e9j\u00e0 les articles qui se la petent l\u00e0 - Cyril est-il aller trop loin...?- on vous emmerde.\" #TPMP https://t.co/qj\u2026"}
+{"created_at": "Wed Jan 13 18:02:53 +0000 2016", "text": "#TPMP d\u00e9sole mais y'a foot sur France 2 allez TOULOUSE"}
+{"created_at": "Wed Jan 13 17:57:35 +0000 2016", "text": "@TPMPofficiel @Cyrilhanouna si tu ne gagne pas s'est que tu n'est pas aussi fort que tu le dit s'est tr\u00e8s facile"}
+{"created_at": "Wed Jan 13 17:56:32 +0000 2016", "text": "RT @TPMPofficiel: Dis St\u00e9phane Plaza, on esp\u00e8re que t'es pr\u00eat pour le duel de ce soir hein ! Parce-que Cyril est chaud !! \ud83c\udfd3\ud83c\udfc6\ud83d\ude09 #TPMP https:/\u2026"}
+{"created_at": "Wed Jan 13 17:52:05 +0000 2016", "text": "RT @flosamtin: C est bient\u00f4t l heure de matter Tpmp. https://t.co/xF16gFO98e"}
+{"created_at": "Wed Jan 13 16:46:20 +0000 2016", "text": "@TPMPofficiel @jlepersofficiel c'est se soir #tpmp2millions gr\u00e2ce a @jlepersofficiel"}
+{"created_at": "Wed Jan 13 16:44:20 +0000 2016", "text": "RT @TPMPofficiel: Top je suis un animateur embl\u00e9matique de France 3 je viens ce soir dans #TPMP avec un gros doss' je suis je suis je suis \u2026"}
+{"created_at": "Tue Jan 12 19:28:51 +0000 2016", "text": "@CamilleCombal doucement cams repose toi te rend pas malade"}
+{"created_at": "Tue Jan 12 19:25:13 +0000 2016", "text": "@TPMPofficiel je n'ai jamais regarder ce programme sa ne m'int\u00e9resse carr\u00e9ment pas #JeuTPMP"}
+{"created_at": "Tue Jan 12 19:23:07 +0000 2016", "text": "RT @TPMPofficiel: \"Si Plaza me bat au ping-pong, j'arr\u00eate l'\u00e9mission pendant 2 semaines !\" #TPMP #LJBC https://t.co/NP3mNERB17"}
+{"created_at": "Tue Jan 12 19:22:48 +0000 2016", "text": "RT @TPMPofficiel: \"Je ne veux pas arr\u00eater la radio. C'est une fausse rumeur.\" @PDLPofficiel #TPMP #LJBC #PDLP https://t.co/Dxd09jWZQb"}
+{"created_at": "Tue Jan 12 19:02:47 +0000 2016", "text": "#TPMP il a raison David pujadas ral le cul des mots anglais a la con"}
+{"created_at": "Tue Jan 12 19:00:16 +0000 2016", "text": "#TPMP il repr\u00e9sente bien la France le pr\u00e9sident des fran\u00e7ais qui ont vote pour lui"}
+{"created_at": "Tue Jan 12 18:37:04 +0000 2016", "text": "RT @TPMPofficiel: \"Donnez moi la force de danser !!\" @Mdelormeau #TPMP \ud83d\udc83\ud83c\udffb https://t.co/9OkxJCTvzV"}
+{"created_at": "Tue Jan 12 18:35:15 +0000 2016", "text": "#TPMP je confirme @DenisEstelle est tr\u00e8s belle je l'adore #JeuTPMP"}
+{"created_at": "Tue Jan 12 18:10:48 +0000 2016", "text": "#BigFloetOli #TPMP paix"}
+{"created_at": "Tue Jan 12 18:07:17 +0000 2016", "text": "Trop belle @BenaimValerie #TPMP"}
+{"created_at": "Tue Jan 12 18:05:19 +0000 2016", "text": "#tpmp il en forme jean Michel maire"}
+{"created_at": "Tue Jan 12 18:03:55 +0000 2016", "text": "@Mdelormeau soit en forme comme d'hab"}
+{"created_at": "Tue Jan 12 18:03:08 +0000 2016", "text": "RT @Mdelormeau: Ca commence !!!!! Bonne emission \u00e0 tous \ud83d\ude00\ud83d\ude02\u270c\ufe0f#tpmp"}
+{"created_at": "Tue Jan 12 18:02:29 +0000 2016", "text": "#TPMP s'est partie #JeuTPMP"}
+{"created_at": "Tue Jan 12 17:50:08 +0000 2016", "text": "RT @TPMS: Et c'est @PierreMenes le champion du sport aujourd'hui ! #TPMS https://t.co/5gR1z7NdpZ"}
+{"created_at": "Tue Jan 12 17:49:49 +0000 2016", "text": "@Cyrilhanouna soyez vous m\u00eame les ch\u00e9ries dites se que penser"}
+{"created_at": "Tue Jan 12 17:48:49 +0000 2016", "text": "RT @Cyrilhanouna: Mes beaut\u00e9s , on se pr\u00e9pare pour #TPMP et ce soir le retour de @bigfloetoli https://t.co/QLvRZMU3Wd"}
+{"created_at": "Tue Jan 12 17:48:11 +0000 2016", "text": "RT @tsamere: Qui gagnera le quiz\u2026? @PierreMenes #TPMS https://t.co/RNBNZBzisp"}
+{"created_at": "Tue Jan 12 17:47:45 +0000 2016", "text": "RT @D8TV: Qui de l'oeuf ou de la poule est arriv\u00e9 le premier ? @CamilleCombal tente d'y r\u00e9pondre jeudi \u00e0 21h ! #OeufOuPoule\nhttps://t.co/dj\u2026"}
+{"created_at": "Tue Jan 12 17:47:17 +0000 2016", "text": "@Cyrilhanouna tu rigole s'est normal la famille s'est la moindre des choses la famille s'est sacr\u00e9e et tu fait partie de ma famille"}
+{"created_at": "Tue Jan 12 17:44:53 +0000 2016", "text": "RT @Cyrilhanouna: Merci d'\u00eatre l\u00e0 pour moi :) #TPMP #PDLP #touchant #amour \ud83d\ude0d ce soir une Big emission \ud83c\udf89"}
+{"created_at": "Tue Jan 12 11:39:42 +0000 2016", "text": "RT @D8TV: 1,6 millions de t\u00e9l\u00e9spectateurs hier devant @TPMPofficiel avec @GeraldineNakach @GregLudig. Pic d'audience \u00e0 2,2M. https://t.co/1\u2026"}
+{"created_at": "Mon Jan 11 20:12:53 +0000 2016", "text": "HANCOCK sur @TMClachaine"}
+{"created_at": "Mon Jan 11 20:10:15 +0000 2016", "text": "@laurabdet @Mdelormeau je trouve que c'est gratuit de dire sa surtout de la part de gilles verdez mathieu apporte beaucoup que lui"}
+{"created_at": "Mon Jan 11 20:03:44 +0000 2016", "text": "#TPMP virer @Mdelormeau je comprend pourquoi je t'aime pas gilles verdez"}
+{"created_at": "Mon Jan 11 20:00:27 +0000 2016", "text": "J'ai toujours  @CamilleCombal futur pr\u00e9sentateur de @TPMPofficiel #JeuTPMP #TPMP"}
+{"created_at": "Mon Jan 11 19:50:40 +0000 2016", "text": "#TPMP ah tu @QueensChristine dans @TPMPofficiel un bonheur"}
+{"created_at": "Mon Jan 11 19:45:53 +0000 2016", "text": "#TPMP #JeuTPMP je pense que la s\u00e9quence des 30 millions d'amis va \u00eatre triste lol"}
+{"created_at": "Mon Jan 11 19:26:23 +0000 2016", "text": "RT @TPMPofficiel: \"On devrait carr\u00e9ment renommer le 20eme en Cyril Hanouna ! On aurait le 18, le 19 et Cyril Hanouna !\" #TPMP #LJBC https:/\u2026"}
+{"created_at": "Mon Jan 11 19:11:06 +0000 2016", "text": "@TPMPofficiel #TPMP @2BrokeGirls sur @HD1_TV"}
+{"created_at": "Mon Jan 11 19:06:24 +0000 2016", "text": "@TPMPofficiel euuuuuuuu non"}
+{"created_at": "Mon Jan 11 19:05:56 +0000 2016", "text": "#TPMP gilles tu vois tu joue un jeu la preuve"}
+{"created_at": "Mon Jan 11 19:05:02 +0000 2016", "text": "RT @TPMPofficiel: .@Mdelormeau aux anges en entendant la voix de Cyril ! #TPMP https://t.co/5LtQ2x1b5h"}
+{"created_at": "Mon Jan 11 19:04:32 +0000 2016", "text": "@Nephael je confirme"}
+{"created_at": "Mon Jan 11 19:04:08 +0000 2016", "text": "@LePakiUnGenie y'aura toujours des cons s'est oblig\u00e9 faut faire avec"}
+{"created_at": "Mon Jan 11 18:59:05 +0000 2016", "text": "#tpmp @Cyrilhanouna est tr\u00e8s intelligent il a raison de l'ignore bravo baba"}
+{"created_at": "Mon Jan 11 18:57:46 +0000 2016", "text": "#TPMP gilles verdez est mou se soir"}
+{"created_at": "Mon Jan 11 18:44:11 +0000 2016", "text": "#TPMP l'emission passevvite ou il ont rapprocher les pubs"}
+{"created_at": "Mon Jan 11 18:30:39 +0000 2016", "text": "#TPMP alors quand \u00c9ric mendes passe chroniqueur #JeuTPMP"}
+{"created_at": "Mon Jan 11 18:29:25 +0000 2016", "text": "RT @TPMPofficiel: Notre chauffeur de salle qui fait ce qu'il veut ! \ud83d\ude02\ud83d\udc4f\ud83c\udffb @_EricMendes_ #TPMP https://t.co/BNyae1wLQy"}
+{"created_at": "Mon Jan 11 18:24:36 +0000 2016", "text": "#TPMP @EnoraMofficiel et @Mdelormeau sont trop fort"}
+{"created_at": "Mon Jan 11 18:17:02 +0000 2016", "text": "#TPMP d\u00e9marre tr\u00e8s bien #JeuTPMP #tpmp2millions"}
+{"created_at": "Mon Jan 11 18:00:50 +0000 2016", "text": "C'est parti pour #TPMP"}
+{"created_at": "Mon Jan 11 18:00:19 +0000 2016", "text": "@Cyrilhanouna nous aussi ont n'a h\u00e2te la famille #tpmp2millions s'est pour ce soir"}
+{"created_at": "Mon Jan 11 17:59:42 +0000 2016", "text": "RT @Cyrilhanouna: On est chaud ? #\ud83c\udf89 et vous ? #tpmp2millions et merci encore pour vos messages"}
+{"created_at": "Mon Jan 11 16:50:58 +0000 2016", "text": "RT @LePakiUnGenie: Baba follow moi je t'en supplie \ud83d\ude22\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f @Cyrilhanouna"}
+{"created_at": "Mon Jan 11 12:49:55 +0000 2016", "text": "RT @Miranda_Naron: I think I'm going to stream now :) https://t.co/iUj35WYM6h"}
+{"created_at": "Mon Jan 11 12:48:57 +0000 2016", "text": "@Cyrilhanouna sa serai un r\u00eave t'es pas a @h2oprodoff par hazard j'ai suis la rue Marcel Sembat"}
+{"created_at": "Mon Jan 11 12:46:52 +0000 2016", "text": "RT @Cyrilhanouna: Mes beaut\u00e9s, hier soir , j'ai fait un r\u00eave . . .  de vous emmener \u00e0 LAS VAGAS :) https://t.co/udLXtetxl7"}
+{"created_at": "Mon Jan 11 11:46:27 +0000 2016", "text": "RT @TPMS: L'\u00e9quipe #TPMS de ce soir : @dominicgrimault @Francesca_Cheka @DanielRiolo @marieportolano @AymericBonnery @JPasquet et @ThibaudV\u2026"}
+{"created_at": "Mon Jan 11 11:42:54 +0000 2016", "text": "@BenaimValerie @Europe1 cc comment allez vous sa serai cool"}
+{"created_at": "Mon Jan 11 11:41:50 +0000 2016", "text": "RT @BenaimValerie: Je vous fais gagner 5 cartes de voeux d\u00e9dicac\u00e9es les amis. Pour cela rt ce tweet et follow @Europe1 ! Je vous embrasse ."}
+{"created_at": "Sun Jan 10 23:03:06 +0000 2016", "text": "@Hanounissimec'est normal mais pense a autre chose essaye au moins m\u00eame si s'est dure mais je te comprend"}
+{"created_at": "Sun Jan 10 22:59:21 +0000 2016", "text": "@Hanounissime plu t'i pense plu t'es presse moins sa passe vite"}
+{"created_at": "Sun Jan 10 22:56:18 +0000 2016", "text": "@gillesverdez @ClemHanouna encore une fois je suis d'accord avec toi le probl\u00e8me se sont tout les dirigeants de club qui enfume les gens"}
+{"created_at": "Sun Jan 10 22:53:20 +0000 2016", "text": "RT @RMCPokerShow: RDV dans 30 min sur @RMCsport pour le #RMCPokerShow ac @Favel_As et L.Dumont de @Club_Poker @DanielRiolo https://t.co/Xp9\u2026"}
+{"created_at": "Sun Jan 10 22:53:00 +0000 2016", "text": "RT @Hanounissime: Bonne nuit les ch\u00e9ris, et encore merci pour tout \ud83d\udcab\nDemain : #PDLP &amp; #TPMP \ud83c\udf89 https://t.co/c74nMgf9pK"}
+{"created_at": "Sun Jan 10 22:01:27 +0000 2016", "text": "RT @Cyrilhanouna: Je vais me reposer pour essayer de vous faire kiffer au Max demain.Et merci d \u00eatre tjs la. Je mesure tous les jours ma ch\u2026"}
+{"created_at": "Sun Jan 10 22:01:18 +0000 2016", "text": "@Cyrilhanouna repose toi la famille ta gagner au tennis ce matin prend soin de toi la famille"}
+{"created_at": "Sun Jan 10 21:59:37 +0000 2016", "text": "RT @NMalaboeuf: J-4 : #OeufOuPoule ! @CamilleCombal\nJ-18 : Anniv' @bchameroy !!\nJ-18 : #TPMPVoeux !!\nJ-19 : #DLP !! @EnoraMofficiel https:/\u2026"}
+{"created_at": "Sun Jan 10 21:58:29 +0000 2016", "text": "RT @Love_Mdelormeau: Bient\u00f4t 5000 abonn\u00e9s \u00e7a se f\u00eate!\nJ'offre 1 tablette tactile!\nRT &amp; Follow pr participer au tirage au sort le 23/01/16 h\u2026"}
+{"created_at": "Sun Jan 10 21:57:57 +0000 2016", "text": "RT @DanielRiolo: Les droits TV c en France + de 700M par an. Et les abo C+ et Bein faut l\u00e2cher 30E... Je dis \u00e7a je dis rien..."}
+{"created_at": "Sun Jan 10 21:57:09 +0000 2016", "text": "RT @Brandipassante: Check out McDonnell Douglas F-4E 1/72 scale https://t.co/1B2l8ToEYd @eBay"}
+{"created_at": "Sun Jan 10 16:29:31 +0000 2016", "text": "@Hanounissime @courbet_julien @Cyrilhanouna c'est un exemple pour moi"}
+{"created_at": "Sun Jan 10 16:02:21 +0000 2016", "text": "RT @LePakiUnGenie: J'en ai pas fait beaucoup.. mais qui \u00e0 bien aimer? \ud83d\udc9f"}
+{"created_at": "Sun Jan 10 15:52:09 +0000 2016", "text": "@LePakiUnGenie bravo pour t'es question tr\u00e8s bien pos\u00e9 si t'en refait d'autre je serai la pour i r\u00e9pondre"}
+{"created_at": "Sun Jan 10 15:49:39 +0000 2016", "text": "@LePakiUnGenie franchement peu importe"}
