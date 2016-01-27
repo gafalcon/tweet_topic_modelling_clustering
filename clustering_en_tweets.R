@@ -19,4 +19,4 @@ plot(latlong[,c(3,4)], col=dens$cluster + 1L)
     
 
 #write to csv File
-write.csv(df, file="en_tweets_clustered.csv")
+write.csv(latlong, file="en_tweets_clustered.csv")
