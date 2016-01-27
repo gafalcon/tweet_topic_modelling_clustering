@@ -4,9 +4,10 @@ library(dbscan);
 
 latlong <- read.csv("en_tweets.csv"); #Read latlongs of tweets in english
 
-latlong <- latlong[,c(2,1)]; # Reorder columns
+#latlong <- latlong[,c(2,1)]; # Reorder columns
     
 dist <- earth.dist(latlong[,c(3,4)], dist = T); # calculate distance matrix
+
 kNNdist(dist, k=3, search="kd")
 kNNdistplot(dist, k=3)
 ## the knee is around a distance of .5
@@ -25,8 +26,11 @@ cluster0 <- subset(latlong, cluster==0); # select rows with cluster == 0
 cluster1 <- subset(latlong, cluster==1); # select rows with cluster == 0
 cluster2 <- subset(latlong, cluster==2); # select rows with cluster == 0
 cluster3 <- subset(latlong, cluster==3); # select rows with cluster == 0
+cluster4 <- subset(latlong, cluster==4); # select rows with cluster == 0
+cluster5 <- subset(latlong, cluster==5); # select rows with cluster == 0
+cluster6 <- subset(latlong, cluster==6); # select rows with cluster == 0
 
-write.csv(latlong, file="en_tweets_cluster0.csv")
-write.csv(latlong, file="en_tweets_cluster1.csv")
-write.csv(latlong, file="en_tweets_cluster2.csv")
-write.csv(latlong, file="en_tweets_cluster3.csv")
+write.csv(cluster0, file="en_tweets_cluster0.csv")
+write.csv(cluster1, file="en_tweets_cluster1.csv")
+write.csv(cluster2, file="en_tweets_cluster2.csv")
+write.csv(cluster3, file="en_tweets_cluster3.csv")
