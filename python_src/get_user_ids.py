@@ -6,9 +6,13 @@ import pickle
 
 USER_IDS = {}
 filename = sys.argv[1]
-output_file = open("filtered_tweets_by_user", "w")
+out_filename = sys.argv[2]
+ids_file = sys.argv[3]
 
-user_ids = pickle.load(open("user_ids.p", "rb"))
+#output_file = open("filtered_madrid_tweets_by_user", "w")
+output_file = open(out_filename, "w")
+
+user_ids = pickle.load(open(ids_file, "rb"))
 print(filename)
 
 def filter_users(min_tweets=3):
@@ -23,8 +27,8 @@ with open(filename,"r") as json_file:
     #     USER_IDS[user_id] = USER_IDS.get(user_id, 0) + 1
     
     # print(len(USER_IDS))
-    # filtered_users = filter_users()
+    # filtered_users = filter_users(min_tweets=2)
     # print(len(filtered_users))
-    # pickle.dump(filtered_users, open("user_ids.p", "wb"))
+    # pickle.dump(filtered_users, open("madrid_user_ids.p", "wb"))
 
     

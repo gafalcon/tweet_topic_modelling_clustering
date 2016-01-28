@@ -4,6 +4,9 @@ import sys
 import csv
 from langdetect import detect
 
+INFILE = sys.argv[1]
+OUTFILE = sys.argv[2]
+
 def count_languages(filename):
     langs = {}
     reader = csv.reader(open(filename))
@@ -14,8 +17,9 @@ def count_languages(filename):
 
 
 def detect_language_csv():    
-    output_file = open("tweets_by_user_lang.csv", "w", encoding='utf-8')
-    reader = csv.reader(open("tweets_by_user.csv"), skipinitialspace=True, quotechar='"' )
+    #output_file = open("tweets_by_user_lang.csv", "w", encoding='utf-8')
+    output_file = open(OUTFILE, "w", encoding='utf-8')
+    reader = csv.reader(open(INFILE), skipinitialspace=True, quotechar='"' )
     output_file.write("user_id, text, lat, lon, lang\n")
     for row in reader:
         lang = detect(row[1])
@@ -34,8 +38,6 @@ def filter_by_language(lang, infile, outfile):
     output_file.write("user_id, text, lat, lon, lang\n")
     reader = csv.reader(open(infile), skipinitialspace=True, quotechar='"' )
     for row in reader:
-        print(row[4])
-        print(len(row[4]))
         if lang == row[4]:
             output_file.write("{}, {}, {}, {}, {}\n".format(
                 row[0],
@@ -48,8 +50,7 @@ def filter_by_language(lang, infile, outfile):
     
 #print(count_languages("tweets_by_user_lang.csv"))
 #detect_language_csv()
-filter_by_language("fr", "tweets_by_user_lang.csv", "fr_tweets.csv")
-filter_by_language("en", "tweets_by_user_lang.csv", "en_tweets.csv")
+filter_by_language("es", INFILE, OUTFILE)
 
 # filename = sys.argv[1]
 # output_file = open("tweets_by_user.csv", "w", encoding='utf-8')

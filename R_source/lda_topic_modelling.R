@@ -1,9 +1,10 @@
+#https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/
 #load text mining library
 library(tm)
 #set working directory
 setwd("/mnt/Shared/Gabo/Shared-laptop/Documents/Problemas_Especiales_Computacion/twitter/parsing/csvs");
 
-cluster2 <- read.csv("en_tweets_cluster2.csv", encoding = 'utf-8', stringsAsFactors = FALSE)
+cluster2 <- read.csv("en_tweets_cluster1.csv", encoding = 'utf-8', stringsAsFactors = FALSE)
 
 #load corpus
 #docs <- Corpus(VectorSource(as.character(cluster2$text)));
@@ -54,7 +55,7 @@ length(freq)
 ord <- order(freq, decreasing = TRUE);
 #List all terms in decreasing order of freq and write to disk
 freq[ord]
-write.csv(freq[ord], "word_freq_cluster2.csv")
+write.csv(freq[ord], "word_freq_cluster1.csv")
 
 
 
@@ -79,15 +80,15 @@ ldaOut <- LDA(dtm, k, method="Gibbs", control=list(nstart=nstart, seed=seed, bes
 #docs to topics
 ldaOut.topics <- as.matrix(topics(ldaOut))
 
-write.csv(ldaOut.topics, file=paste("LDAGibbs", k, "DocsToTopics.csv"))
+write.csv(ldaOut.topics, file=paste("LDAGibbs", k, "DocsToTopics_cluster1.csv"))
 
 #top 6 terms in each topic
 ldaOut.terms <- as.matrix(terms(ldaOut, 6))
-write.csv(ldaOut.terms, file=paste("LDAGibbs", k, "TopicsToTerms.csv"))
+write.csv(ldaOut.terms, file=paste("LDAGibbs", k, "TopicsToTerms_cluster1.csv"))
 
 #probabilities associated with each topic assignment
 topicProbabilities <- as.data.frame(ldaOut@gamma)
-write.csv(topicProbabilities, file=paste("LDAGibbs", k, "TopicProbabilities.csv"))
+write.csv(topicProbabilities, file=paste("LDAGibbs", k, "TopicProbabilities_cluster1.csv"))
 
 #Find relative importance of top 2 topics
 topic1ToTopic2 <- lapply(1:nrow(dtm),function(x)
@@ -98,5 +99,5 @@ topic2ToTopic3 <- lapply(1:nrow(dtm),function(x)
   sort(topicProbabilities[x,])[k-1]/sort(topicProbabilities[x,])[k-2])
 
 #write to file
-write.csv(topic1ToTopic2,file=paste("LDAGibbs",k,"Topic1ToTopic2.csv"))
-write.csv(topic2ToTopic3,file=paste("LDAGibbs",k,"Topic2ToTopic3.csv"))
+write.csv(topic1ToTopic2,file=paste("LDAGibbs",k,"Topic1ToTopic2_cluster1.csv"))
+write.csv(topic2ToTopic3,file=paste("LDAGibbs",k,"Topic2ToTopic3_cluster1.csv"))

@@ -2,8 +2,9 @@
 library(fossil);
 library(dbscan);
 
-usr_ids <- read.csv("user_ids", header = FALSE); #Read user ids
-usr_ids <- usr_ids[1][,1]; # transpose column to row
+usr_ids <- list.files(getwd()) #read usrs_ids files
+#usr_ids <- read.csv("user_ids", header = FALSE); #Read user ids
+#usr_ids <- usr_ids[1][,1]; # transpose column to row
 lats <- double(length(usr_ids)); #initialize lats and longs
 longs <- double(length(usr_ids));
 
@@ -38,4 +39,4 @@ for (i in 1:length(usr_ids)){
 df <- data.frame(usr_ids, lats, longs, stringsAsFactors = FALSE)
 
 #write to csv File
-write.csv(df, file="usrs_locations.csv")
+write.csv(df, file="madrid_usrs_locations.csv")

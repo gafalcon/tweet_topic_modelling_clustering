@@ -3,6 +3,11 @@ import json
 import sys
 import csv
 
+infile_json = sys.argv[1]
+infile_csv = sys.argv[2]
+outfile_csv = sys.argv[3]
+
+
 def create_dict_from_csv(filename):
     reader = csv.reader(open(filename))
     result = {}
@@ -22,12 +27,13 @@ def separate_clusters_in_csvs(infile, out_dir, clusters):
 
 #separate_clusters_in_csvs(sys.argv[1], sys.argv[2], sys.argv[3])
 
-filename = sys.argv[1]
-output_file = open("tweets_by_user.csv", "w", encoding='utf-8')
+#output_file = open("tweets_by_user.csv", "w", encoding='utf-8')
+output_file = open(outfile_csv, "w", encoding='utf-8')
 output_file.write("user_id, text, lat, lon\n")
-usr_locations = create_dict_from_csv("usrs_locations.csv")
+
+usr_locations = create_dict_from_csv(infile_csv)
 print (usr_locations)
-with open(filename,"r") as json_file:
+with open(infile_json,"r") as json_file:
     for line in json_file:
         tweet = json.loads(line)
         user_id = tweet["user_id"]
